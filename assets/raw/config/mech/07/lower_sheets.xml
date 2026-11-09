@@ -1,0 +1,5 @@
+<Textures>
+  <TextureSheet name="pic/mech/07">
+    <Texture name="dizuo" width="116" height="41" path="pic/mech/07/dizuo.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+  </TextureSheet>
+</Textures>

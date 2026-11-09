@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soldier weapon_name="mech_5" min_interval="0.15" mech_blood="2500" multi_shot="1"
+         width="328" height="267" centerX="160" soldier_width="230"
+		 speed="350" >
+	
+	<animation name="walk_upper" duration="1.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/upper_sheets.xml"
+			   animatioin_xml="config/mech/05/walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_upper" duration="1.2">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/upper_sheets.xml"
+			   animatioin_xml="config/mech/05/stand_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="fire_upper" duration="0.15">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/upper_sheets.xml"
+			   animatioin_xml="config/mech/05/fire_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="getup_upper" duration="1.2">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/upper_sheets.xml"
+			   animatioin_xml="config/mech/05/getup_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="walk_lower" duration="1.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/lower_sheets.xml"
+			   animatioin_xml="config/mech/05/walk_animations.xml" zorder="5" />
+	</animation>
+	
+	<animation name="stand_lower" duration="1.2">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/lower_sheets.xml"
+			   animatioin_xml="config/mech/05/stand_animations.xml" zorder="5" />
+	</animation>
+	
+	<animation name="getup_lower" duration="1.2">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/05/lower_sheets.xml"
+			   animatioin_xml="config/mech/05/getup_animations.xml" zorder="5" />
+	</animation>
+	
+	<weapon_effect type="firearm" damage="150" shoot_distance="330" area_damage="1" bomb_radius="0">
+		<FireSpark duration="0.3" scale="1.97" offset_x="333" offset_y="87" row_count="2" 
+				   col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+		<BulletCase zorder="0" rot_speed="180" offset_x="110" offset_y="200" tex="pic/gun/mech_01_bulletcase.png" />
+	</weapon_effect>
+	
+	<Shadow scale_x="2.5" offset_y="350" tex="pic/soldier/yinying.png" />
+	
+</soldier>

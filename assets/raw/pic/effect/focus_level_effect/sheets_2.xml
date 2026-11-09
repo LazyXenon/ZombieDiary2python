@@ -1,0 +1,7 @@
+<Textures>
+  <TextureSheet name="man01act01" >
+      <Texture name="b03" width="169" height="169" path="man01act01/g03.png" registrationPointX="-1.80" registrationPointY="1.50" zIndex="3" />
+      <Texture name="b02" width="62" height="62" path="man01act01/g02.png" registrationPointX="0.60" registrationPointY="0.30" zIndex="2" />
+      <Texture name="b01" width="126" height="126" path="man01act01/g01.png" registrationPointX="-8.40" registrationPointY="8.40" zIndex="1" />
+  </TextureSheet>
+</Textures>

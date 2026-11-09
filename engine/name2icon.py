@@ -1,0 +1,91 @@
+"""Name2IconTex —— 原版「名字 → 图标贴图」映射表。
+
+反编译依据：ezjoy::Name2IconTex::Name2IconTex @0x162f58（构造函数里逐条
+insert_unique 到 std::map<std::string,std::string>）。
+
+原版用它的三个地方：
+  · DialogDailyReward::getRewardNode（@0x154fd8）—— 每日奖励的道具图标
+  · AbilityItemButton::init —— 技能图标
+  · 士兵 / 机甲的图标
+
+表里没有武器图标 —— 原版服务器的 reward_day_N 里 type=2/3/4 的道具
+（红枪、火箭炮、靴子等）走的是武器自己的资源，不在这张表内。
+"""
+
+# 原版 74 条映射（键 = 名字，值 = 贴图路径）
+NAME2ICON = {
+    "hp_1": "pic/ui/shop/ability_hp_1.png",
+    "hp_2": "pic/ui/shop/ability_hp_2.png",
+    "shield_1": "pic/ui/shop/ability_shield_1.png",
+    "shield_2": "pic/ui/shop/ability_shield_2.png",
+    "speed_1": "pic/ui/shop/ability_speed_1.png",
+    "speed_2": "pic/ui/shop/ability_speed_2.png",
+    "power_1": "pic/ui/shop/ability_power_1.png",
+    "power_2": "pic/ui/shop/ability_power_2.png",
+    "airstrike": "pic/ui/shop/ability_airstrike.png",
+    "invisible": "pic/ui/shop/ability_invisible.png",
+    "mech_7": "pic/ui/shop/ability_mech_7.png",
+    "fly_1": "pic/ui/shop/ability_fly_1.png",
+    "fly_2": "pic/ui/shop/ability_fly_2.png",
+    "soldier_1": "pic/ui/soldier_icon/soldier_1.png",
+    "soldier_2": "pic/ui/soldier_icon/soldier_2.png",
+    "soldier_3": "pic/ui/soldier_icon/soldier_3.png",
+    "soldier_4": "pic/ui/soldier_icon/soldier_4.png",
+    "soldier_5": "pic/ui/soldier_icon/soldier_5.png",
+    "soldier_6": "pic/ui/soldier_icon/soldier_6.png",
+    "soldier_7": "pic/ui/soldier_icon/soldier_7.png",
+    "soldier_1_death_head": "pic/soldier/01/tou_death.png",
+    "soldier_2_death_head": "pic/soldier/girl_02/tou_death.png",
+    "soldier_3_death_head": "pic/soldier/rarger_suit/tou_death.png",
+    "soldier_4_death_head": "pic/soldier/death_suit/tou_death.png",
+    "soldier_5_death_head": "pic/soldier/robocop_suit/tou_death.png",
+    "soldier_6_death_head": "pic/soldier/ninjia/tou_death.png",
+    "soldier_7_death_head": "pic/soldier/mech_dog/tou_death.png",
+    "hostage_1_hurt_head": "pic/hostage/01/tou_hurt.png",
+    "hostage_2_hurt_head": "pic/hostage/02/tou_hurt.png",
+    "mech_1": "pic/ui/mech_icon/mech_1.png",
+    "mech_3": "pic/ui/mech_icon/mech_3.png",
+    "mech_4": "pic/ui/mech_icon/mech_4.png",
+    "mech_5": "pic/ui/mech_icon/mech_5.png",
+    "mech_8": "pic/ui/mech_icon/mech_8.png",
+    "mech_9": "pic/ui/mech_icon/mech_9.png",
+    "mech_10": "pic/ui/mech_icon/mech_10.png",
+    "mech_1_head": "pic/ui/mech_icon/mech_1.png",
+    "mech_3_head": "pic/ui/mech_icon/mech_3.png",
+    "mech_4_head": "pic/ui/mech_icon/mech_4.png",
+    "mech_5_head": "pic/ui/mech_icon/mech_5_head.png",
+    "mech_8_head": "pic/ui/mech_icon/mech_8_head.png",
+    "mech_9_head": "pic/ui/mech_icon/mech_9_head.png",
+    "mech_10_head": "pic/ui/mech_icon/mech_10_head.png",
+    "kill_mission": "pic/ui/map/map_mission_kill.png",
+    "time_mission": "pic/ui/map/map_mission_time.png",
+    "distance_mission": "pic/ui/map/map_mission_distance.png",
+    "kill_time_mission": "pic/ui/map/map_mission_kill_time.png",
+    "distance_time_mission": "pic/ui/map/map_mission_distance_time.png",
+    "guard_mission": "pic/ui/map/map_mission_guard.png",
+    "hostage_mission": "pic/ui/map/map_mission_hostage.png",
+    "collect_mission": "pic/ui/map/map_mission_collect.png",
+    "hostage_time_mission": "pic/ui/map/map_mission_hostage_time.png",
+    "collect_time_mission": "pic/ui/map/map_mission_collect_time.png",
+    "mech_1_title": "pic/ui/shop/killer_whale.png",
+    "mech_3_title": "pic/ui/shop/puma_real.png",
+    "mech_4_title": "pic/ui/shop/dire_wolf.png",
+    "mech_5_title": "pic/ui/shop/nova_hyperion.png",
+    "mech_8_title": "pic/ui/shop/crimson_typhoon.png",
+    "mech_9_title": "pic/ui/shop/romeo_blue.png",
+    "mech_10_title": "pic/ui/shop/striker_alpha.png",
+    "soldier_1_title": "pic/ui/shop/john.png",
+    "soldier_2_title": "pic/ui/shop/sophia.png",
+    "soldier_3_title": "pic/ui/shop/ray_park.png",
+    "soldier_4_title": "pic/ui/shop/bane.png",
+    "soldier_5_title": "pic/ui/shop/alex_murphy.png",
+    "soldier_6_title": "pic/ui/shop/snake_eyes.png",
+    "soldier_7_title": "pic/ui/shop/franken_dog.png",
+    "soldier_1_desc": "pic/ui/shop/soldier_1_desc.png",
+    "soldier_2_desc": "pic/ui/shop/soldier_2_desc.png",
+    "soldier_3_desc": "pic/ui/shop/soldier_3_desc.png",
+    "soldier_4_desc": "pic/ui/shop/soldier_4_desc.png",
+    "soldier_5_desc": "pic/ui/shop/soldier_5_desc.png",
+    "soldier_6_desc": "pic/ui/shop/soldier_6_desc.png",
+    "soldier_7_desc": "pic/ui/shop/soldier_7_desc.png",
+}

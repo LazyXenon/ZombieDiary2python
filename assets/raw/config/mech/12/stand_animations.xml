@@ -1,0 +1,123 @@
+<Animations>
+  <Animation name="qiangqian" frameCount="21">
+    <Part name="huo1">
+      <Frame x="36.00" y="52.00" index="0"/>
+      <Frame x="36.00" y="52.80" index="3"/>
+      <Frame x="36.00" y="53.60" index="6"/>
+      <Frame x="36.00" y="54.45" index="9"/>
+      <Frame x="36.00" y="54.15" index="12"/>
+      <Frame x="36.00" y="53.35" index="15"/>
+      <Frame x="36.00" y="52.55" index="18"/>
+    </Part>
+    <Part name="huo2">
+      <Frame x="35.00" y="52.25" index="1"/>
+      <Frame x="35.00" y="53.10" index="4"/>
+      <Frame x="35.00" y="53.90" index="7"/>
+      <Frame x="35.00" y="54.70" index="10"/>
+      <Frame x="35.00" y="53.90" index="13"/>
+      <Frame x="35.00" y="53.10" index="16"/>
+      <Frame x="35.00" y="52.25" index="19"/>
+    </Part>
+    <Part name="huo3">
+      <Frame x="35.00" y="52.55" index="2"/>
+      <Frame x="35.00" y="53.35" index="5"/>
+      <Frame x="35.00" y="54.15" index="8"/>
+      <Frame x="35.00" y="54.45" index="11"/>
+      <Frame x="35.00" y="53.60" index="14"/>
+      <Frame x="35.00" y="52.80" index="17"/>
+      <Frame x="35.00" y="52.00" index="20"/>
+    </Part>
+    <Part name="jishen">
+      <Frame index="0"/>
+      <Frame y="0.50" index="1"/>
+      <Frame y="1.00" index="2"/>
+      <Frame y="1.55" index="3"/>
+      <Frame y="2.05" index="4"/>
+      <Frame y="2.55" index="5"/>
+      <Frame y="3.05" index="6"/>
+      <Frame y="3.55" index="7"/>
+      <Frame y="4.10" index="8"/>
+      <Frame y="4.60" index="9"/>
+      <Frame y="5.10" index="10"/>
+      <Frame y="4.60" index="11"/>
+      <Frame y="4.10" index="12"/>
+      <Frame y="3.55" index="13"/>
+      <Frame y="3.05" index="14"/>
+      <Frame y="2.55" index="15"/>
+      <Frame y="2.05" index="16"/>
+      <Frame y="1.55" index="17"/>
+      <Frame y="1.00" index="18"/>
+      <Frame y="0.50" index="19"/>
+      <Frame index="20"/>
+    </Part>
+    <Part name="qiangqian">
+      <Frame x="30.00" y="42.00" index="0"/>
+      <Frame x="30.00" y="42.50" index="1"/>
+      <Frame x="30.00" y="43.00" index="2"/>
+      <Frame x="30.00" y="43.55" index="3"/>
+      <Frame x="30.00" y="44.05" index="4"/>
+      <Frame x="30.00" y="44.55" index="5"/>
+      <Frame x="30.00" y="45.05" index="6"/>
+      <Frame x="30.00" y="45.55" index="7"/>
+      <Frame x="30.00" y="46.10" index="8"/>
+      <Frame x="30.00" y="46.60" index="9"/>
+      <Frame x="30.00" y="47.10" index="10"/>
+      <Frame x="30.00" y="46.60" index="11"/>
+      <Frame x="30.00" y="46.10" index="12"/>
+      <Frame x="30.00" y="45.55" index="13"/>
+      <Frame x="30.00" y="45.05" index="14"/>
+      <Frame x="30.00" y="44.55" index="15"/>
+      <Frame x="30.00" y="44.05" index="16"/>
+      <Frame x="30.00" y="43.55" index="17"/>
+      <Frame x="30.00" y="43.00" index="18"/>
+      <Frame x="30.00" y="42.50" index="19"/>
+      <Frame x="30.00" y="42.00" index="20"/>
+    </Part>
+    <Part name="qianhou">
+      <Frame x="34.00" y="37.00" index="0"/>
+      <Frame x="34.00" y="37.50" index="1"/>
+      <Frame x="34.00" y="38.00" index="2"/>
+      <Frame x="34.00" y="38.55" index="3"/>
+      <Frame x="34.00" y="39.05" index="4"/>
+      <Frame x="34.00" y="39.55" index="5"/>
+      <Frame x="34.00" y="40.05" index="6"/>
+      <Frame x="34.00" y="40.55" index="7"/>
+      <Frame x="34.00" y="41.10" index="8"/>
+      <Frame x="34.00" y="41.60" index="9"/>
+      <Frame x="34.00" y="42.10" index="10"/>
+      <Frame x="34.00" y="41.60" index="11"/>
+      <Frame x="34.00" y="41.10" index="12"/>
+      <Frame x="34.00" y="40.55" index="13"/>
+      <Frame x="34.00" y="40.05" index="14"/>
+      <Frame x="34.00" y="39.55" index="15"/>
+      <Frame x="34.00" y="39.05" index="16"/>
+      <Frame x="34.00" y="38.55" index="17"/>
+      <Frame x="34.00" y="38.00" index="18"/>
+      <Frame x="34.00" y="37.50" index="19"/>
+      <Frame x="34.00" y="37.00" index="20"/>
+    </Part>
+    <Part name="wolun">
+      <Frame x="30.00" y="22.00" index="0"/>
+      <Frame x="30.00" y="22.25" index="1"/>
+      <Frame x="30.00" y="22.55" index="2"/>
+      <Frame x="30.00" y="22.80" index="3"/>
+      <Frame x="30.00" y="23.10" index="4"/>
+      <Frame x="30.00" y="23.35" index="5"/>
+      <Frame x="30.00" y="23.60" index="6"/>
+      <Frame x="30.00" y="23.90" index="7"/>
+      <Frame x="30.00" y="24.15" index="8"/>
+      <Frame x="30.00" y="24.45" index="9"/>
+      <Frame x="30.00" y="24.70" index="10"/>
+      <Frame x="30.00" y="24.45" index="11"/>
+      <Frame x="30.00" y="24.15" index="12"/>
+      <Frame x="30.00" y="23.90" index="13"/>
+      <Frame x="30.00" y="23.60" index="14"/>
+      <Frame x="30.00" y="23.35" index="15"/>
+      <Frame x="30.00" y="23.10" index="16"/>
+      <Frame x="30.00" y="22.80" index="17"/>
+      <Frame x="30.00" y="22.55" index="18"/>
+      <Frame x="30.00" y="22.25" index="19"/>
+      <Frame x="30.00" y="22.00" index="20"/>
+    </Part>
+  </Animation>
+</Animations>

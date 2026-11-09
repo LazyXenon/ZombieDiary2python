@@ -1,0 +1,15 @@
+<Textures>
+  <TextureSheet name="pic/mech/07">
+    <Texture name="zidanlian" width="55" height="78" path="pic/mech/07/zidanlian.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="danyaoxiang" width="45" height="54" path="pic/mech/07/danyaoxiang.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="10"/>
+    <Texture name="tuopan" width="81" height="37" path="pic/mech/07/tuopan.png" registrationPointX="-48.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="jishen" width="160" height="73" path="pic/mech/07/jishen.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="gudinghuan" width="37" height="37" path="pic/mech/07/gudinghuan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="qianggaun04" width="127" height="18" path="pic/mech/07/qianggaun01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="qianggaun01" width="127" height="18" path="pic/mech/07/qianggaun01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="qianggaun03" width="127" height="18" path="pic/mech/07/qianggaun01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="qianggaun02" width="127" height="18" path="pic/mech/07/qianggaun01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="zhiguan01" width="70" height="89" path="pic/mech/07/zhiguan01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="zhiguan02" width="35" height="56" path="pic/mech/07/zhiguan02.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

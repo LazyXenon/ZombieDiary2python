@@ -1,0 +1,12 @@
+<Textures>
+  <TextureSheet name="pic/mech/05">
+    <Texture name="penghuofadongji01" width="66" height="62" path="pic/mech/05/penghuofadongji01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="13"/>
+    <Texture name="penghuofadongji02" width="93" height="88" path="pic/mech/05/penghuofadongji02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="12"/>
+    <Texture name="huoyan06" width="41" height="96" path="pic/mech/05/huoyan03.png" registrationPointX="0.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="huoyan05" width="43" height="96" path="pic/mech/05/huoyan02.png" registrationPointX="1.00" registrationPointY="2.00" zIndex="10"/>
+    <Texture name="huoyan04" width="44" height="95" path="pic/mech/05/huoyan01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="huoyan03" width="41" height="96" path="pic/mech/05/huoyan03.png" registrationPointX="0.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="huoyan02" width="43" height="96" path="pic/mech/05/huoyan02.png" registrationPointX="1.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="huoyan01" width="44" height="95" path="pic/mech/05/huoyan01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+  </TextureSheet>
+</Textures>

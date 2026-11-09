@@ -1,0 +1,5 @@
+<Textures>
+  <TextureSheet name="jijia00act00">
+       <Texture name="pao" width="214" height="117" path="pic/mech/01/pao.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+  </TextureSheet>
+</Textures>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<soldiers>
+	
+	<soldier name="mech_3" width="350" height="350" scale="1.0" 
+			blood="5" speed="6" power="4" cost_coin="3000"
+			name_tex="pic/ui/soldier_pub/text_soldier_name_01.png" 
+			head_tex="pic/ui/soldier_pub/soldier_head_01.png" >
+		 
+		<animation name="stand" duration="0.8" repeat_count="4" 
+		        sheet_xml="config/mech/03/sheets.xml"
+				animatioin_xml="config/mech/01/stand_animations.xml" />
+		<animation name="fire" duration="0.25" repeat_count="4" 
+		        sheet_xml="config/mech/03/sheets.xml"
+				animatioin_xml="config/mech/01/fire_animations.xml" />
+				
+		<FireSpark scale="1.92" duration="0.3" offset_x="300" offset_y="205" row_count="1" 
+				col_count="6" tex="pic/gun/m870_fire_spark.png" />
+		
+		<BulletCase scale="1.2" zorder="0" rot_speed="100" offset_x="95" offset_y="200" tex="pic/gun/rifle_bulletcase.png" />
+	</soldier>
+	
+	
+	<soldier name="mech_1" width="350" height="350" scale="1.0" 
+			blood="6" speed="6" power="6" cost_coin="6000"
+			name_tex="pic/ui/soldier_pub/text_soldier_name_01.png" 
+			head_tex="pic/ui/soldier_pub/soldier_head_01.png" >
+		 
+		<animation name="stand" duration="0.8" repeat_count="4" 
+		        sheet_xml="config/mech/01/sheets.xml"
+				animatioin_xml="config/mech/01/stand_animations.xml" />
+		<animation name="fire" duration="0.4" repeat_count="3" 
+		        sheet_xml="config/mech/01/sheets.xml"
+				animatioin_xml="config/mech/01/fire_animations.xml" />
+		
+		<FireSpark duration="0.3" scale="1.84" offset_x="270" offset_y="170" row_count="2" 
+				   col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+		<BulletCase zorder="0" rot_speed="180" offset_x="110" offset_y="200" tex="pic/gun/mech_01_bulletcase.png" />
+	</soldier>
+	
+	<soldier name="mech_8" width="290" height="310" scale="1.0" 
+			blood="7" speed="8" power="7" cost_coin="9000"
+			offset_x="-20" >
+		 
+		<animation name="stand" duration="1.0" repeat_count="4" 
+		        sheet_xml="config/mech/08/sheets.xml"
+				animatioin_xml="config/mech/08/stand_animations.xml" />
+		<animation name="fire" duration="1.3" repeat_count="6" 
+		        sheet_xml="config/mech/08/sheets.xml"
+				animatioin_xml="config/mech/08/fire_animations.xml" />
+				
+	</soldier>
+	
+	<soldier name="mech_10" width="290" height="310" scale="1.0" 
+			blood="10" speed="8" power="9" cost_coin="12000"
+			offset_x="-30" >
+		 
+		<animation name="stand" duration="1.0" repeat_count="4" 
+		        sheet_xml="config/mech/10/sheets.xml"
+				animatioin_xml="config/mech/10/stand_animations.xml" />
+		<animation name="fire" duration="0.8" repeat_count="6" 
+		        sheet_xml="config/mech/10/sheets.xml"
+				animatioin_xml="config/mech/10/fire_animations.xml" />
+				
+	</soldier>
+	
+	<soldier name="mech_4" width="350" height="350" scale="1.0" 
+			blood="7" speed="6" power="6" cost_coin="0" cost_crystal="15"
+			name_tex="pic/ui/soldier_pub/text_soldier_name_01.png" 
+			head_tex="pic/ui/soldier_pub/soldier_head_01.png" 
+			offset_x="-20" offset_y="-8" >
+		 
+		<animation name="stand" duration="0.8" repeat_count="4" 
+		        sheet_xml="config/mech/04/sheets.xml"
+				animatioin_xml="config/mech/04/stand_animations.xml" />
+		<animation name="fire" duration="0.5" repeat_count="3" 
+		        sheet_xml="config/mech/04/sheets.xml"
+				animatioin_xml="config/mech/04/fire_animations.xml" />
+		
+		<FireSpark duration="0.3" scale="1.84" offset_x="313" offset_y="172" row_count="2" 
+				   col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+		<FireSpark delay="0.25" duration="0.3" scale="1.84" offset_x="326" offset_y="152" row_count="2" 
+				   col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+				   
+		<BulletCase zorder="0" rot_speed="180" offset_x="110" offset_y="200" tex="pic/gun/mech_01_bulletcase.png" />
+		<BulletCase delay="0.2" zorder="0" rot_speed="150" offset_x="110" offset_y="190" tex="pic/gun/mech_01_bulletcase.png" />
+	</soldier>
+	
+	<soldier name="mech_9" width="290" height="310" scale="1.0" 
+			blood="10" speed="8" power="10" cost_coin="0" cost_crystal="25"
+			offset_x="-20" >
+		 
+		<animation name="stand" duration="1.0" repeat_count="4" 
+		        sheet_xml="config/mech/09/sheets.xml"
+				animatioin_xml="config/mech/08/stand_animations.xml" />
+		<animation name="fire" duration="1.3" repeat_count="6" 
+		        sheet_xml="config/mech/09/sheets.xml"
+				animatioin_xml="config/mech/08/fire_animations.xml" />
+				
+	</soldier>	
+	
+	<soldier name="mech_5" width="328" height="267" scale="1.1" 
+			blood="12" speed="12" power="12" cost_coin="0" cost_crystal="35"
+			name_tex="pic/ui/soldier_pub/text_soldier_name_01.png" 
+			head_tex="pic/ui/soldier_pub/soldier_head_01.png" 
+			offset_x="-20">
+		 
+		<animation name="stand" duration="0.8" repeat_count="4" 
+		        sheet_xml="config/mech/05/sheets.xml"
+				animatioin_xml="config/mech/05/stand_animations.xml" />
+		<animation name="fire" duration="0.25" repeat_count="4" 
+		        sheet_xml="config/mech/05/sheets.xml"
+				animatioin_xml="config/mech/05/fire_animations.xml" />
+				
+		<FireSpark scale="1.6" duration="0.3" offset_x="292" offset_y="93" row_count="2" 
+				col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+		
+		<BulletCase scale="0.9" rot_speed="100" offset_x="95" offset_y="100" tex="pic/gun/mech_01_bulletcase.png" />
+	</soldier>
+	
+</soldiers>

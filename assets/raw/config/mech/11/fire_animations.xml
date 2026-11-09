@@ -1,0 +1,40 @@
+<Animations>
+  <Animation name="wolun" frameCount="6">
+    <Part name="huo1">
+      <Frame x="42.00" y="72.00" index="0"/>
+      <Frame x="42.00" y="72.00" index="3"/>
+    </Part>
+    <Part name="huo2">
+      <Frame x="42.00" y="72.80" index="1"/>
+      <Frame x="42.00" y="72.80" index="4"/>
+    </Part>
+    <Part name="huo3">
+      <Frame x="41.00" y="73.60" index="2"/>
+      <Frame x="41.00" y="73.60" index="5"/>
+    </Part>
+    <Part name="jiqiang">
+      <Frame x="69.60" y="31.30" rotation="22.951" index="0"/>
+      <Frame x="68.50" y="31.00" scaleX="0.999" scaleY="0.999" rotation="22.828" index="1"/>
+      <Frame x="67.45" y="30.60" scaleX="0.999" scaleY="0.999" rotation="22.828" index="2"/>
+      <Frame x="66.45" y="30.20" rotation="22.951" index="3"/>
+      <Frame x="67.90" y="30.75" scaleX="0.999" scaleY="0.999" rotation="22.828" index="4"/>
+      <Frame x="69.60" y="31.30" rotation="22.951" index="5"/>
+    </Part>
+    <Part name="jishen">
+      <Frame index="0"/>
+      <Frame index="1"/>
+      <Frame index="2"/>
+      <Frame index="3"/>
+      <Frame index="4"/>
+      <Frame index="5"/>
+    </Part>
+    <Part name="wolun">
+      <Frame x="33.00" y="36.00" index="0"/>
+      <Frame x="33.00" y="36.00" index="1"/>
+      <Frame x="33.00" y="36.00" index="2"/>
+      <Frame x="33.00" y="36.00" index="3"/>
+      <Frame x="33.00" y="36.00" index="4"/>
+      <Frame x="33.00" y="36.00" index="5"/>
+    </Part>
+  </Animation>
+</Animations>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zombie name="boss_2" attack_damage="30" attack_distance="230" stand_distance="160" 
+        blood="6000" speed="135" width="360" height="315" centerX="185" centerY="110"
+		add_shot_box2d_ratio="-1.0" pos_y_delta ="-15" attack_delay="0.9, 1.9" scale="1.3" is_small="0">
+
+    <animation name="walk_upper" duration="0.7">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/02/upper_sheets.xml"
+			   animatioin_xml="config/boss/02/walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="attack_upper" duration="2.0">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/02/upper_sheets.xml"
+			   animatioin_xml="config/boss/02/attack_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="death_upper" duration="2.0">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/02/death_upper_sheets.xml"
+			   animatioin_xml="config/boss/02/death_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.7">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/02/lower_sheets.xml"
+			   animatioin_xml="config/boss/02/walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="2.0">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/02/lower_sheets.xml"
+			   animatioin_xml="config/boss/02/attack_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="death_lower" duration="2.0">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/02/lower_sheets.xml"
+			   animatioin_xml="config/boss/02/death_animations.xml" zorder="2" />
+	</animation>
+	 
+	<ChangeSprite sprite_name="tou" new_tex="pic_png/boss/02/tou_1.png" 
+	              max_blood_ratio="0.8"/>
+	<ChangeSprite sprite_name="qugan" new_tex="pic_png/boss/02/qugan_1.png" 
+	              max_blood_ratio="0.4" />
+				  
+	 <shot_effect>
+		<shot_blood_effect duration="0.4" offset_x="120" offset_y="80" row_count="2" 
+		                   col_count="3" max_blood_ratio="1.0" random_x="25"
+						   random_min_y="-30" random_max_y="20" 
+			               tex="pic/zombies/shot_blood_2.png" zorder="5"/>
+	</shot_effect>
+	
+	<Box2DItem offset_x="170" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/01/part_yanzhu.png" max_blood_ratio="0.8" />
+	<Box2DItem offset_x="190" offset_y="110" shape="box" force_angle="60"
+	           tex="pic/zombies/head_suirou03.png" max_blood_ratio="0.8" />
+	<Box2DItem offset_x="180" offset_y="95" shape="box" force_angle="70"
+	           tex="pic/zombies/head_suirou01.png" max_blood_ratio="0.8" />
+			   
+	<Box2DItem offset_x="205" offset_y="110" shape="circle" force_angle="130"
+	           tex="pic/zombies/head_suirou03.png" max_blood_ratio="0.6" />
+	<Box2DItem offset_x="190" offset_y="95" shape="box" force_angle="60"
+	           tex="pic/zombies/head_suipian01.png" max_blood_ratio="0.6" />
+	<Box2DItem offset_x="200" offset_y="100" shape="circle" force_angle="70"
+	           tex="pic/zombies/head_suipian02.png" max_blood_ratio="0.6" />
+			  
+	<Box2DItem offset_x="205" offset_y="240" shape="circle" force_angle="-130"
+	           tex="pic/zombies/head_suirou03.png" max_blood_ratio="0.4" />
+	<Box2DItem offset_x="190" offset_y="250" shape="box" force_angle="-60"
+	           tex="pic/zombies/head_suipian01.png" max_blood_ratio="0.4" />
+	<Box2DItem offset_x="200" offset_y="245" shape="circle" force_angle="-110"
+	           tex="pic/zombies/head_suipian02.png" max_blood_ratio="0.4" />
+	
+	<Box2DItem offset_x="205" offset_y="110" shape="circle" force_angle="130"
+	           tex="pic/zombies/head_suirou02.png" max_blood_ratio="0.2" />
+	<Box2DItem offset_x="190" offset_y="95" shape="box" force_angle="60"
+	           tex="pic/zombies/head_suipian04.png" max_blood_ratio="0.2" />
+	<Box2DItem offset_x="205" offset_y="240" shape="circle" force_angle="-130"
+	           tex="pic/zombies/head_suirou03.png" max_blood_ratio="0.2" />
+			   
+	<Death last_max_damage="10000" last_min_damage="1" fragment_count="0" fadeout_duration="4.0">
+	    <ChangeSprite sprite_name="tou" new_tex="pic_png/boss/02/tou_2.png" />
+		
+		<Box2DItem offset_x="180" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/01/part_yanzhu.png" min_blood_ratio="0.8" />
+		<Box2DItem offset_x="200" offset_y="100" shape="circle" force_angle="60"
+	           tex="pic/zombies/01/part_yanzhu.png" /> 
+		
+		<Box2DItem offset_x="190" offset_y="110" shape="box" force_angle="120"
+	           tex="pic/zombies/head_suirou03.png" />
+		<Box2DItem offset_x="180" offset_y="95" shape="box" force_angle="70"
+	           tex="pic/zombies/head_suirou01.png" />
+		<Box2DItem offset_x="190" offset_y="95" shape="box" force_angle="100"
+	           tex="pic/zombies/head_suipian01.png" />
+		<Box2DItem offset_x="190" offset_y="95" shape="box" force_angle="125"
+	           tex="pic/zombies/head_suipian02.png" />
+		<Box2DItem offset_x="200" offset_y="100" shape="circle" force_angle="65"
+	           tex="pic/zombies/head_suipian03.png" />
+		<Box2DItem offset_x="205" offset_y="95" shape="circle" force_angle="65"
+	           tex="pic/zombies/head_suipian04.png" />
+		<Box2DItem offset_x="205" offset_y="95" shape="circle" force_angle="110"
+	           tex="pic/zombies/head_suipian05.png" />
+		<Box2DItem offset_x="180" offset_y="95" shape="circle" force_angle="100"
+	           tex="pic/zombies/head_nao03.png" />
+			   
+	</Death>
+	
+	<Shadow offset_x="30" offset_y="302" scale_x="2" tex="pic/zombies/yinying.png" />
+	
+	<water_effect wave_scale="2.0" wave_offset_x="10" spill_scale="2.0" spill_delay="0.85" spill_offset_x="10" />
+</zombie>

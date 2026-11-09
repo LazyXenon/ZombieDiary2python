@@ -1,0 +1,9 @@
+<Textures>
+  <TextureSheet name="peitaicao">
+    <Texture name="boli01" width="169" height="159" path="peitaicao/boli01.png" registrationPointX="2.00" registrationPointY="42.00" zIndex="5"/>
+    <Texture name="gaoguango1" width="44" height="45" path="peitaicao/gaoguango1.png" registrationPointX="2.00" registrationPointY="3.00" zIndex="4"/>
+    <Texture name="tongkong01" width="20" height="30" path="peitaicao/tongkong01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="yanhei01" width="49" height="50" path="peitaicao/yanhei01.png" registrationPointX="2.00" registrationPointY="3.00" zIndex="2"/>
+    <Texture name="yanzhu01" width="137" height="150" path="peitaicao/yanzhu01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+  </TextureSheet>
+</Textures>

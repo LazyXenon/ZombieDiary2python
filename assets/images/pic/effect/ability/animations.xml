@@ -1,0 +1,213 @@
+<Animations>
+  <Animation name="light0104" frameCount="35">
+    <Part name="light01">
+      <Frame x="-42.70" y="125.20" scaleX="0.001" scaleY="0.001" rotation="141.340" index="0"/>
+      <Frame x="-42.65" y="125.15" scaleX="0.002" scaleY="0.002" rotation="171.573" index="1"/>
+      <Frame x="-42.70" y="125.25" scaleX="0.002" scaleY="0.002" rotation="-158.629" index="2"/>
+      <Frame x="-42.75" y="125.25" scaleX="0.003" scaleY="0.003" rotation="-128.708" index="3"/>
+      <Frame x="-42.80" y="125.35" scaleX="0.003" scaleY="0.003" rotation="-98.418" index="4"/>
+      <Frame x="-42.95" y="125.25" scaleX="0.004" scaleY="0.004" rotation="-68.682" index="5"/>
+      <Frame x="-42.95" y="125.25" scaleX="0.005" scaleY="0.005" rotation="-38.719" index="6"/>
+      <Frame x="-73.25" y="101.15" scaleX="0.646" scaleY="0.646" rotation="-19.298" index="7"/>
+      <Frame x="-94.20" y="61.75" scaleX="1.288" scaleY="1.288" index="8"/>
+      <Frame x="-84.05" y="54.55" scaleX="1.217" scaleY="1.217" rotation="8.049" index="9"/>
+      <Frame x="-73.80" y="49.10" scaleX="1.146" scaleY="1.146" rotation="16.294" index="10"/>
+      <Frame x="-63.90" y="45.25" scaleX="1.075" scaleY="1.075" rotation="24.544" index="11"/>
+      <Frame x="-54.90" y="42.95" scaleX="1.005" scaleY="1.005" rotation="32.611" index="12"/>
+      <Frame x="-46.50" y="42.10" scaleX="0.934" scaleY="0.934" rotation="40.870" index="13"/>
+      <Frame x="-39.15" y="42.50" scaleX="0.864" scaleY="0.864" rotation="49.129" index="14"/>
+      <Frame x="-33.00" y="43.70" scaleX="0.793" scaleY="0.793" rotation="57.389" index="15"/>
+      <Frame x="-28.35" y="45.45" scaleX="0.723" scaleY="0.723" rotation="65.456" index="16"/>
+      <Frame x="-24.90" y="47.75" scaleX="0.653" scaleY="0.653" rotation="73.706" index="17"/>
+      <Frame x="-22.80" y="50.10" scaleX="0.583" scaleY="0.583" rotation="81.952" index="18"/>
+      <Frame x="-22.15" y="52.30" scaleX="0.512" scaleY="0.512" rotation="90.000" index="19"/>
+      <Frame x="-20.40" y="51.10" scaleX="0.479" scaleY="0.479" rotation="100.289" index="20"/>
+      <Frame x="-19.60" y="50.00" scaleX="0.446" scaleY="0.446" rotation="110.778" index="21"/>
+      <Frame x="-19.95" y="48.45" scaleX="0.414" scaleY="0.414" rotation="121.088" index="22"/>
+      <Frame x="-21.15" y="46.65" scaleX="0.381" scaleY="0.381" rotation="131.592" index="23"/>
+      <Frame x="-23.15" y="44.00" scaleX="0.348" scaleY="0.348" rotation="141.910" index="24"/>
+      <Frame x="-25.65" y="40.75" scaleX="0.315" scaleY="0.315" rotation="152.412" index="25"/>
+      <Frame x="-28.50" y="36.60" scaleX="0.283" scaleY="0.283" rotation="162.719" index="26"/>
+      <Frame x="-31.55" y="31.70" scaleX="0.250" scaleY="0.250" rotation="173.206" index="27"/>
+      <Frame x="-34.45" y="25.85" scaleX="0.217" scaleY="0.217" rotation="-176.694" index="28"/>
+      <Frame x="-37.25" y="19.40" scaleX="0.185" scaleY="0.185" rotation="-166.215" index="29"/>
+      <Frame x="-39.55" y="12.30" scaleX="0.152" scaleY="0.152" rotation="-155.911" index="30"/>
+      <Frame x="-41.40" y="4.65" scaleX="0.119" scaleY="0.119" rotation="-145.414" index="31"/>
+      <Frame x="-42.65" y="-3.30" scaleX="0.086" scaleY="0.086" rotation="-135.000" index="32"/>
+    </Part>
+    <Part name="light0101">
+      <Frame x="-31.20" y="78.25" scaleX="0.047" scaleY="0.047" rotation="-29.996" index="0"/>
+      <Frame x="-31.15" y="78.25" scaleX="0.047" scaleY="0.047" rotation="-29.869" index="1"/>
+      <Frame x="-31.15" y="78.25" scaleX="0.047" scaleY="0.047" rotation="-29.869" index="2"/>
+      <Frame x="-31.20" y="78.25" scaleX="0.047" scaleY="0.047" rotation="-29.996" index="3"/>
+      <Frame x="-46.65" y="55.30" scaleX="0.523" scaleY="0.523" rotation="7.505" index="4"/>
+      <Frame x="-28.65" y="22.25" rotation="44.999" index="5"/>
+      <Frame x="-20.65" y="23.00" scaleX="0.934" scaleY="0.934" rotation="53.641" index="6"/>
+      <Frame x="-14.10" y="24.50" scaleX="0.869" scaleY="0.869" rotation="62.181" index="7"/>
+      <Frame x="-8.90" y="26.85" scaleX="0.805" scaleY="0.805" rotation="70.720" index="8"/>
+      <Frame x="-4.95" y="29.60" scaleX="0.741" scaleY="0.741" rotation="79.441" index="9"/>
+      <Frame x="-2.60" y="32.40" scaleX="0.677" scaleY="0.677" rotation="87.963" index="10"/>
+      <Frame x="-1.60" y="35.15" scaleX="0.612" scaleY="0.612" rotation="96.298" index="11"/>
+      <Frame x="-1.95" y="37.75" scaleX="0.547" scaleY="0.547" rotation="105.013" index="12"/>
+      <Frame x="-3.30" y="39.45" scaleX="0.482" scaleY="0.482" rotation="113.547" index="13"/>
+      <Frame x="-5.60" y="40.55" scaleX="0.417" scaleY="0.417" rotation="122.092" index="14"/>
+      <Frame x="-8.65" y="40.60" scaleX="0.353" scaleY="0.353" rotation="130.633" index="15"/>
+      <Frame x="-12.35" y="39.65" scaleX="0.288" scaleY="0.288" rotation="139.371" index="16"/>
+      <Frame x="-16.25" y="37.65" scaleX="0.224" scaleY="0.224" rotation="147.911" index="17"/>
+      <Frame x="-20.25" y="34.40" scaleX="0.159" scaleY="0.159" rotation="156.451" index="18"/>
+      <Frame x="-24.00" y="30.10" scaleX="0.095" scaleY="0.095" rotation="165.002" index="19"/>
+    </Part>
+    <Part name="light0102">
+      <Frame x="-74.85" y="72.75" scaleX="0.053" scaleY="0.053" index="0"/>
+      <Frame x="-94.00" y="38.30" scaleX="0.752" scaleY="0.752" rotation="14.825" index="1"/>
+      <Frame x="-93.95" y="-4.55" scaleX="1.453" scaleY="1.453" rotation="30.000" index="2"/>
+      <Frame x="-81.15" y="-7.20" scaleX="1.363" scaleY="1.363" rotation="38.630" index="3"/>
+      <Frame x="-69.60" y="-8.25" scaleX="1.275" scaleY="1.275" rotation="47.402" index="4"/>
+      <Frame x="-59.60" y="-7.60" scaleX="1.187" scaleY="1.187" rotation="56.175" index="5"/>
+      <Frame x="-51.45" y="-5.80" scaleX="1.100" scaleY="1.100" rotation="64.944" index="6"/>
+      <Frame x="-45.20" y="-3.10" scaleX="1.012" scaleY="1.012" rotation="73.707" index="7"/>
+      <Frame x="-40.85" y="0.05" scaleX="0.925" scaleY="0.925" rotation="82.464" index="8"/>
+      <Frame x="-38.60" y="3.10" scaleX="0.837" scaleY="0.837" rotation="91.026" index="9"/>
+      <Frame x="-38.20" y="6.00" scaleX="0.749" scaleY="0.749" rotation="99.773" index="10"/>
+      <Frame x="-39.30" y="8.15" scaleX="0.660" scaleY="0.660" rotation="108.534" index="11"/>
+      <Frame x="-41.85" y="9.30" scaleX="0.573" scaleY="0.573" rotation="117.283" index="12"/>
+      <Frame x="-42.85" y="11.60" scaleX="0.529" scaleY="0.529" rotation="131.090" index="13"/>
+      <Frame x="-45.70" y="12.70" scaleX="0.486" scaleY="0.486" rotation="144.884" index="14"/>
+      <Frame x="-49.75" y="12.50" scaleX="0.443" scaleY="0.443" rotation="158.670" index="15"/>
+      <Frame x="-54.75" y="10.65" scaleX="0.400" scaleY="0.400" rotation="172.443" index="16"/>
+      <Frame x="-60.05" y="7.00" scaleX="0.357" scaleY="0.357" rotation="-173.991" index="17"/>
+      <Frame x="-65.20" y="1.80" scaleX="0.313" scaleY="0.313" rotation="-160.221" index="18"/>
+      <Frame x="-69.75" y="-4.95" scaleX="0.270" scaleY="0.270" rotation="-146.435" index="19"/>
+      <Frame x="-73.25" y="-12.65" scaleX="0.227" scaleY="0.227" rotation="-132.638" index="20"/>
+      <Frame x="-75.60" y="-21.00" scaleX="0.183" scaleY="0.183" rotation="-118.851" index="21"/>
+      <Frame x="-76.75" y="-29.75" scaleX="0.140" scaleY="0.140" rotation="-105.067" index="22"/>
+      <Frame x="-76.50" y="-38.20" scaleX="0.097" scaleY="0.097" rotation="-91.305" index="23"/>
+      <Frame x="-75.30" y="-46.10" scaleX="0.054" scaleY="0.054" rotation="-77.723" index="24"/>
+    </Part>
+    <Part name="light0103">
+      <Frame x="21.00" y="63.70" scaleX="0.009" scaleY="0.009" rotation="-90.000" index="0"/>
+      <Frame x="20.80" y="63.90" scaleX="0.014" scaleY="0.014" rotation="-90.000" index="1"/>
+      <Frame x="20.60" y="64.10" scaleX="0.019" scaleY="0.019" rotation="-90.000" index="2"/>
+      <Frame x="-17.65" y="75.95" scaleX="0.726" scaleY="0.726" rotation="-62.927" index="3"/>
+      <Frame x="-58.70" y="50.25" scaleX="1.435" scaleY="1.435" rotation="-35.730" index="4"/>
+      <Frame x="-53.75" y="39.60" scaleX="1.374" scaleY="1.374" rotation="-30.320" index="5"/>
+      <Frame x="-48.40" y="29.70" scaleX="1.315" scaleY="1.315" rotation="-24.832" index="6"/>
+      <Frame x="-42.65" y="20.75" scaleX="1.257" scaleY="1.257" rotation="-19.534" index="7"/>
+      <Frame x="-36.65" y="12.50" scaleX="1.198" scaleY="1.198" rotation="-14.052" index="8"/>
+      <Frame x="-30.65" y="5.20" scaleX="1.140" scaleY="1.140" rotation="-8.759" index="9"/>
+      <Frame x="-24.25" y="-1.30" scaleX="1.081" scaleY="1.081" rotation="-3.281" index="10"/>
+      <Frame x="-18.00" y="-6.95" scaleX="1.022" scaleY="1.022" rotation="2.005" index="11"/>
+      <Frame x="-11.90" y="-11.70" scaleX="0.963" scaleY="0.963" rotation="7.294" index="12"/>
+      <Frame x="-5.85" y="-15.90" scaleX="0.904" scaleY="0.904" rotation="12.774" index="13"/>
+      <Frame x="-0.20" y="-19.30" scaleX="0.845" scaleY="0.845" rotation="18.199" index="14"/>
+      <Frame x="6.50" y="-23.95" scaleX="0.787" scaleY="0.787" rotation="25.585" index="15"/>
+      <Frame x="12.80" y="-27.75" scaleX="0.730" scaleY="0.730" rotation="33.105" index="16"/>
+      <Frame x="18.45" y="-30.60" scaleX="0.673" scaleY="0.673" rotation="40.629" index="17"/>
+      <Frame x="23.30" y="-32.90" scaleX="0.616" scaleY="0.616" rotation="48.154" index="18"/>
+      <Frame x="27.20" y="-34.60" scaleX="0.559" scaleY="0.559" rotation="55.679" index="19"/>
+      <Frame x="30.20" y="-35.80" scaleX="0.503" scaleY="0.503" rotation="63.199" index="20"/>
+      <Frame x="32.35" y="-36.85" scaleX="0.446" scaleY="0.446" rotation="70.717" index="21"/>
+      <Frame x="33.45" y="-37.90" scaleX="0.389" scaleY="0.389" rotation="78.232" index="22"/>
+      <Frame x="33.65" y="-39.05" scaleX="0.332" scaleY="0.332" rotation="85.736" index="23"/>
+      <Frame x="33.00" y="-40.65" scaleX="0.275" scaleY="0.275" rotation="93.053" index="24"/>
+      <Frame x="31.60" y="-42.55" scaleX="0.218" scaleY="0.218" rotation="100.556" index="25"/>
+      <Frame x="29.55" y="-45.10" scaleX="0.161" scaleY="0.161" rotation="108.066" index="26"/>
+      <Frame x="26.90" y="-48.25" scaleX="0.104" scaleY="0.104" rotation="115.582" index="27"/>
+      <Frame x="24.00" y="-52.25" scaleX="0.047" scaleY="0.047" rotation="123.204" index="28"/>
+    </Part>
+    <Part name="light0104">
+      <Frame x="-93.65" y="70.00" index="0"/>
+      <Frame x="-81.25" y="59.20" scaleX="0.929" scaleY="0.929" rotation="13.281" index="1"/>
+      <Frame x="-69.00" y="51.85" scaleX="0.859" scaleY="0.859" rotation="26.580" index="2"/>
+      <Frame x="-57.60" y="47.45" scaleX="0.788" scaleY="0.788" rotation="39.889" index="3"/>
+      <Frame x="-47.65" y="45.70" scaleX="0.718" scaleY="0.718" rotation="53.391" index="4"/>
+      <Frame x="-40.00" y="45.75" scaleX="0.648" scaleY="0.648" rotation="66.700" index="5"/>
+      <Frame x="-34.65" y="47.00" scaleX="0.579" scaleY="0.579" rotation="80.182" index="6"/>
+      <Frame x="-32.10" y="48.60" scaleX="0.509" scaleY="0.509" rotation="93.271" index="7"/>
+      <Frame x="-31.70" y="49.90" scaleX="0.438" scaleY="0.438" rotation="106.558" index="8"/>
+      <Frame x="-33.40" y="50.25" scaleX="0.368" scaleY="0.368" rotation="119.999" index="9"/>
+      <Frame x="-34.75" y="47.10" scaleX="0.332" scaleY="0.332" rotation="132.083" index="10"/>
+      <Frame x="-36.90" y="43.00" scaleX="0.297" scaleY="0.297" rotation="143.934" index="11"/>
+      <Frame x="-39.70" y="38.00" scaleX="0.262" scaleY="0.262" rotation="156.158" index="12"/>
+      <Frame x="-42.75" y="32.05" scaleX="0.226" scaleY="0.226" rotation="168.178" index="13"/>
+      <Frame x="-45.85" y="25.05" scaleX="0.191" scaleY="0.191" rotation="-180.000" index="14"/>
+      <Frame x="-48.70" y="17.10" scaleX="0.156" scaleY="0.156" rotation="-167.996" index="15"/>
+      <Frame x="-51.10" y="8.45" scaleX="0.120" scaleY="0.120" rotation="-155.973" index="16"/>
+      <Frame x="-52.75" y="-0.80" scaleX="0.085" scaleY="0.085" rotation="-143.938" index="17"/>
+      <Frame x="-53.70" y="-10.45" scaleX="0.049" scaleY="0.049" rotation="-131.893" index="18"/>
+      <Frame x="-53.70" y="-20.05" scaleX="0.014" scaleY="0.014" rotation="-119.996" index="19"/>
+    </Part>
+    <Part name="light02">
+      <Frame x="-87.60" y="120.85" scaleX="0.100" scaleY="0.018" index="0"/>
+      <Frame x="-94.80" y="73.45" scaleX="0.550" scaleY="0.509" index="1"/>
+      <Frame x="-102.00" y="26.30" index="2"/>
+      <Frame x="-101.10" y="5.80" scaleX="0.942" scaleY="1.173" index="3"/>
+      <Frame x="-100.15" y="-14.65" scaleX="0.884" scaleY="1.346" index="4"/>
+      <Frame x="-99.25" y="-35.15" scaleX="0.826" scaleY="1.519" index="5"/>
+      <Frame x="-98.30" y="-55.65" scaleX="0.768" scaleY="1.691" index="6"/>
+      <Frame x="-97.35" y="-76.15" scaleX="0.710" scaleY="1.864" index="7"/>
+      <Frame x="-96.40" y="-77.60" scaleX="0.653" scaleY="1.710" index="8"/>
+      <Frame x="-95.50" y="-79.15" scaleX="0.595" scaleY="1.556" index="9"/>
+      <Frame x="-94.55" y="-80.65" scaleX="0.537" scaleY="1.402" index="10"/>
+      <Frame x="-93.65" y="-82.20" scaleX="0.479" scaleY="1.248" index="11"/>
+      <Frame x="-92.75" y="-83.70" scaleX="0.421" scaleY="1.094" index="12"/>
+      <Frame x="-91.80" y="-85.20" scaleX="0.363" scaleY="0.940" index="13"/>
+      <Frame x="-90.85" y="-86.70" scaleX="0.305" scaleY="0.786" index="14"/>
+      <Frame x="-89.95" y="-88.20" scaleX="0.247" scaleY="0.632" index="15"/>
+      <Frame x="-89.05" y="-89.75" scaleX="0.189" scaleY="0.478" index="16"/>
+      <Frame x="-88.10" y="-91.20" scaleX="0.131" scaleY="0.324" index="17"/>
+      <Frame x="-87.20" y="-92.80" scaleX="0.074" scaleY="0.170" index="18"/>
+      <Frame x="-86.25" y="-94.25" scaleX="0.016" scaleY="0.016" index="19"/>
+    </Part>
+    <Part name="light0201">
+      <Frame x="17.35" y="98.85" scaleX="0.063" scaleY="0.063" index="0"/>
+      <Frame x="17.35" y="98.85" scaleX="0.063" scaleY="0.063" index="1"/>
+      <Frame x="17.35" y="98.85" scaleX="0.063" scaleY="0.063" index="2"/>
+      <Frame x="17.35" y="98.85" scaleX="0.063" scaleY="0.063" index="3"/>
+      <Frame x="9.90" y="56.15" scaleX="0.531" scaleY="0.531" index="4"/>
+      <Frame x="2.35" y="13.35" index="5"/>
+      <Frame x="2.35" y="0.25" scaleY="1.067" index="6"/>
+      <Frame x="2.35" y="-12.90" scaleY="1.135" index="7"/>
+      <Frame x="2.35" y="-26.00" scaleY="1.202" index="8"/>
+      <Frame x="2.35" y="-39.15" scaleY="1.269" index="9"/>
+      <Frame x="4.90" y="-53.75" scaleX="0.841" scaleY="1.066" index="10"/>
+      <Frame x="7.45" y="-68.30" scaleX="0.682" scaleY="0.863" index="11"/>
+      <Frame x="10.00" y="-82.90" scaleX="0.523" scaleY="0.660" index="12"/>
+      <Frame x="12.55" y="-97.50" scaleX="0.363" scaleY="0.456" index="13"/>
+      <Frame x="15.10" y="-112.05" scaleX="0.204" scaleY="0.253" index="14"/>
+      <Frame x="17.65" y="-126.65" scaleX="0.045" scaleY="0.050" index="15"/>
+    </Part>
+    <Part name="light0202">
+      <Frame x="-20.95" y="136.70" scaleX="0.019" scaleY="0.007" index="0"/>
+      <Frame x="-21.20" y="136.35" scaleX="0.036" scaleY="0.014" index="1"/>
+      <Frame x="-21.50" y="136.05" scaleX="0.053" scaleY="0.020" index="2"/>
+      <Frame x="-29.15" y="80.40" scaleX="0.526" scaleY="0.510" index="3"/>
+      <Frame x="-36.65" y="24.55" index="4"/>
+      <Frame x="-36.05" y="11.50" scaleX="0.962" scaleY="1.082" index="5"/>
+      <Frame x="-35.40" y="-1.65" scaleX="0.924" scaleY="1.164" index="6"/>
+      <Frame x="-34.85" y="-14.65" scaleX="0.886" scaleY="1.246" index="7"/>
+      <Frame x="-34.25" y="-27.70" scaleX="0.849" scaleY="1.327" index="8"/>
+      <Frame x="-33.60" y="-40.85" scaleX="0.811" scaleY="1.409" index="9"/>
+      <Frame x="-33.00" y="-53.90" scaleX="0.773" scaleY="1.491" index="10"/>
+      <Frame x="-32.40" y="-66.95" scaleX="0.735" scaleY="1.573" index="11"/>
+      <Frame x="-31.80" y="-80.05" scaleX="0.697" scaleY="1.655" index="12"/>
+      <Frame x="-31.20" y="-93.10" scaleX="0.659" scaleY="1.737" index="13"/>
+      <Frame x="-30.55" y="-95.20" scaleX="0.621" scaleY="1.630" index="14"/>
+      <Frame x="-29.95" y="-97.15" scaleX="0.583" scaleY="1.523" index="15"/>
+      <Frame x="-29.35" y="-99.25" scaleX="0.546" scaleY="1.417" index="16"/>
+      <Frame x="-28.80" y="-101.25" scaleX="0.508" scaleY="1.310" index="17"/>
+      <Frame x="-28.15" y="-103.30" scaleX="0.470" scaleY="1.203" index="18"/>
+      <Frame x="-27.55" y="-105.30" scaleX="0.432" scaleY="1.096" index="19"/>
+      <Frame x="-26.95" y="-107.35" scaleX="0.394" scaleY="0.990" index="20"/>
+      <Frame x="-26.35" y="-109.45" scaleX="0.356" scaleY="0.883" index="21"/>
+      <Frame x="-25.70" y="-111.40" scaleX="0.318" scaleY="0.776" index="22"/>
+      <Frame x="-25.10" y="-113.50" scaleX="0.280" scaleY="0.669" index="23"/>
+      <Frame x="-24.55" y="-115.50" scaleX="0.243" scaleY="0.563" index="24"/>
+      <Frame x="-23.95" y="-117.50" scaleX="0.205" scaleY="0.456" index="25"/>
+      <Frame x="-23.30" y="-119.55" scaleX="0.167" scaleY="0.349" index="26"/>
+      <Frame x="-22.70" y="-121.60" scaleX="0.129" scaleY="0.242" index="27"/>
+      <Frame x="-22.10" y="-123.60" scaleX="0.091" scaleY="0.136" index="28"/>
+      <Frame x="-21.50" y="-125.65" scaleX="0.053" scaleY="0.029" index="29"/>
+    </Part>
+  </Animation>
+</Animations>

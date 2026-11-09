@@ -1,0 +1,13 @@
+<Textures>
+  <TextureSheet name="paopao" >
+      <Texture name="s07" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="10" />
+      <Texture name="s06" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="9" />
+      <Texture name="s05" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="8" />
+      <Texture name="s04" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="7" />
+      <Texture name="s03" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="6" />
+      <Texture name="s02" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="5" />
+      <Texture name="s01" width="144" height="144" path="paopao/s01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="4" />
+      <Texture name="b01" width="104" height="104" path="paopao/b01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="3" />
+      <Texture name="l01" width="184" height="184" path="paopao/l01.png" registrationPointX="0.40" registrationPointY="0.40" zIndex="2" />
+  </TextureSheet>
+</Textures>

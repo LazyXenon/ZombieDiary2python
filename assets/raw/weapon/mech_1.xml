@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soldier weapon_name="mech_1" min_interval="0.31" mech_blood="1250" multi_shot="1"
+         width="350" height="350" centerX="150" soldier_width="230"
+		 speed="180" >
+		 
+   <animation name="walk_upper" duration="1.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_f_sheets.xml"
+			   animatioin_xml="config/mech/01/walk_animations.xml" zorder="5" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_b_sheets.xml"
+			   animatioin_xml="config/mech/01/walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="stand_upper" duration="0.9">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_f_sheets.xml"
+			   animatioin_xml="config/mech/01/stand_animations.xml" zorder="5" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_b_sheets.xml"
+			   animatioin_xml="config/mech/01/stand_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="fire_upper" duration="0.3">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_f_sheets.xml"
+			   animatioin_xml="config/mech/01/fire_animations.xml" zorder="5" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_b_sheets.xml"
+			   animatioin_xml="config/mech/01/fire_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="getup_upper" duration="1.0">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_f_sheets.xml"
+			   animatioin_xml="config/mech/01/getup_animations.xml" zorder="5" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/upper_b_sheets.xml"
+			   animatioin_xml="config/mech/01/getup_animations.xml" zorder="3" />
+	</animation>
+	
+    <animation name="walk_lower" duration="1.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/lower_b_sheets.xml"
+			   animatioin_xml="config/mech/01/walk_animations.xml" zorder="2" />
+	    <Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/lower_f_sheets.xml"
+			   animatioin_xml="config/mech/01/walk_animations.xml" zorder="4" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.9">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/lower_b_sheets.xml"
+			   animatioin_xml="config/mech/01/stand_animations.xml" zorder="2" />
+	    <Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/lower_f_sheets.xml"
+			   animatioin_xml="config/mech/01/stand_animations.xml" zorder="4" />
+	</animation>
+	
+	<animation name="getup_lower" duration="1.0">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/lower_b_sheets.xml"
+			   animatioin_xml="config/mech/01/getup_animations.xml" zorder="2" />
+	    <Flash offset_x="0" offset_y="0" sheet_xml="config/mech/01/lower_f_sheets.xml"
+			   animatioin_xml="config/mech/01/getup_animations.xml" zorder="4" />
+	</animation>
+	
+	<weapon_effect type="firearm" damage="120" shoot_distance="330" area_damage="1" bomb_radius="0">
+		<FireSpark duration="0.3" scale="2.628" offset_x="303" offset_y="192" row_count="2" 
+				   col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+		<BulletCase zorder="0" rot_speed="180" offset_x="110" offset_y="200" tex="pic/gun/mech_01_bulletcase.png" />
+	</weapon_effect>
+	
+	<Shadow scale_x="2.5" offset_y="350" tex="pic/soldier/yinying.png" />
+	
+	<water_effect wave_scale="2.3" wave_offset_x="-10"/>
+</soldier>

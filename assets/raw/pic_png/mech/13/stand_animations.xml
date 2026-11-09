@@ -1,0 +1,68 @@
+<Animations>
+  <Animation name="ren" frameCount="16" >
+    <Part name="feiji01">
+      <Frame y="25.00" index="0" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="1" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="2" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="3" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="4" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="5" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="6" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="7" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="8" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="9" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="10" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="11" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="12" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="13" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="14" scaleX="2.27" scaleY="2.27" />
+      <Frame y="25.00" index="15" scaleX="2.27" scaleY="2.27" />
+    </Part>
+    <Part name="luoxuanjiang01">
+      <Frame x="108.00" y="22.00" scaleX="2.27" scaleY="2.27" index="0" />
+      <Frame x="108.00" y="22.00" scaleX="2.27" scaleY="2.27" index="4" />
+      <Frame x="108.00" y="22.00" scaleX="2.27" scaleY="2.27" index="8" />
+      <Frame x="108.00" y="22.00" scaleX="2.27" scaleY="2.27" index="12" />
+    </Part>
+    <Part name="luoxuanjiang02">
+      <Frame x="104.00" y="23.00" scaleX="2.27" scaleY="2.27" index="1" />
+      <Frame x="104.00" y="23.00" scaleX="2.27" scaleY="2.27" index="5" />
+      <Frame x="104.00" y="23.00" scaleX="2.27" scaleY="2.27" index="9" />
+      <Frame x="104.00" y="23.00" scaleX="2.27" scaleY="2.27" index="13" />
+    </Part>
+    <Part name="luoxuanjiang03">
+      <Frame x="107.00" y="22.00" scaleX="2.27" scaleY="2.27" index="2" />
+      <Frame x="107.00" y="22.00" scaleX="2.27" scaleY="2.27" index="6" />
+      <Frame x="107.00" y="22.00" scaleX="2.27" scaleY="2.27" index="10" />
+      <Frame x="107.00" y="22.00" scaleX="2.27" scaleY="2.27" index="14" />
+    </Part>
+    <Part name="luoxuanjiang04">
+      <Frame x="105.00" y="23.00" scaleX="2.27" scaleY="2.27" index="3" />
+      <Frame x="105.00" y="23.00" scaleX="2.27" scaleY="2.27" index="7" />
+      <Frame x="105.00" y="23.00" scaleX="2.27" scaleY="2.27" index="11" />
+      <Frame x="105.00" y="23.00" scaleX="2.27" scaleY="2.27" index="15" />
+    </Part>
+    <Part name="ren">
+    </Part>
+    <Part name="weiyi05">
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="0" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="2" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="4" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="6" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="8" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="10" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="12" />
+      <Frame x="53.50" y="123.55" scaleX="2.27" scaleY="2.27" index="14" />
+    </Part>
+    <Part name="weiyi06">
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="1" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="3" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="5" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="7" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="9" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="11" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="13" />
+      <Frame x="53.55" y="123.05" scaleX="2.27" scaleY="2.27" index="15" />
+    </Part>
+  </Animation>
+</Animations>

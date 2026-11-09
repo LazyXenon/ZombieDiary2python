@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soldier weapon_name="rocket" min_interval="0.65" multi_shot="0" 
+         width="300" height="300" centerX="118" soldier_width="150">
+
+	<animation name="walk_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/rocket_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/rocket_walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="stand_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/rocket_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/rocket_stand_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="fire_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/rocket_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/rocket_fire_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/lower_sheets.xml"
+			   animatioin_xml="config/soldier/01/rocket_walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/lower_sheets.xml"
+			   animatioin_xml="config/soldier/01/rocket_stand_animations.xml" zorder="2" />
+	</animation>
+	
+	<weapon_effect type="firearm" damage="550" shoot_distance="0" area_damage="1" bomb_radius="450">
+		<FireSpark scale="1.45" duration="0.3" offset_x="213" offset_y="122" row_count="2" 
+				col_count="3" tex="pic/gun/rocket_fire_spark.png" />
+		<!--BulletCase offset_x="113" offset_y="200" tex="pic/gun/grenade_bulletcase.png" /-->
+		<Warhead offset_x="160" offset_y="175" speed="25" type="rocket" 
+		         tex="pic/gun/rocket_warhead.png" />
+				 
+		<bomb_effect width="500" height="500" centerX="250" centerY="360" scale="1.4" duration="0.7"
+			         offset_x="0" offset_y="0" sheet_xml="pic/gun/bomb/sheets.xml"
+				     animatioin_xml="pic/gun/bomb/animations.xml" zorder="4" />
+					 
+	</weapon_effect>
+	
+	<Shadow offset_y="297" tex="pic/soldier/yinying.png" />
+</soldier>

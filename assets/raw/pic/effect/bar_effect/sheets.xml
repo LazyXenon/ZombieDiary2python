@@ -1,0 +1,7 @@
+<Textures>
+  <TextureSheet name="zombie01act01" >
+      <Texture name="l03" width="244" height="93" path="zombie01act01/l03.png" registrationPointX="1.00" registrationPointY="-0.50" zIndex="3" />
+      <Texture name="l02" width="147" height="50" path="zombie01act01/l01.png" registrationPointX="-2.50" registrationPointY="0.00" zIndex="2" />
+      <Texture name="l01" width="147" height="50" path="zombie01act01/l01.png" registrationPointX="-2.50" registrationPointY="0.00" zIndex="1" />
+  </TextureSheet>
+</Textures>

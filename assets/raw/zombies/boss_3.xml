@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zombie name="boss_3" attack_damage="40" attack_distance="345" stand_distance="320" 
+        blood="3000" speed="120" width="240" height="240" centerX="180" centerY="90"
+		add_shot_box2d_ratio="1.0" pos_y_delta ="20" attack_delay="0.5" scale="1.2" is_small="0">
+
+    <animation name="walk_upper" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/upper_l_sheets.xml"
+			   animatioin_xml="config/boss/03/walk_animations.xml" zorder="3" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/upper_r_sheets.xml"
+			   animatioin_xml="config/boss/03/walk_animations.xml" zorder="0" />
+	</animation>
+	
+	<animation name="attack_upper" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/attack_upper_l_sheets.xml"
+			   animatioin_xml="config/boss/03/attack_animations.xml" zorder="3" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/attack_upper_r_sheets.xml"
+			   animatioin_xml="config/boss/03/attack_animations.xml" zorder="0" />
+	</animation>
+	
+	<animation name="shot_upper" duration="0.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/upper_l_sheets.xml"
+			   animatioin_xml="config/boss/03/shot_animations.xml" zorder="3" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/upper_r_sheets.xml"
+			   animatioin_xml="config/boss/03/shot_animations.xml" zorder="0" />
+	</animation>
+	
+	<animation name="death_upper" duration="2.2">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/upper_l_sheets.xml"
+			   animatioin_xml="config/boss/03/death_animations.xml" zorder="3" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/upper_r_sheets.xml"
+			   animatioin_xml="config/boss/03/death_animations.xml" zorder="0" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/lower_l_sheets.xml"
+			   animatioin_xml="config/boss/03/walk_animations.xml" zorder="2" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/lower_r_sheets.xml"
+			   animatioin_xml="config/boss/03/walk_animations.xml" zorder="1" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/lower_l_sheets.xml"
+			   animatioin_xml="config/boss/03/attack_animations.xml" zorder="2" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/lower_r_sheets.xml"
+			   animatioin_xml="config/boss/03/attack_animations.xml" zorder="1" />
+	</animation>
+	
+	<animation name="death_lower" duration="2.2">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/lower_l_sheets.xml"
+			   animatioin_xml="config/boss/03/death_animations.xml" zorder="2" />
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/03/lower_r_sheets.xml"
+			   animatioin_xml="config/boss/03/death_animations.xml" zorder="1" />
+	</animation>
+	
+	<ChangeSprite sprite_name="tou" new_tex="pic/boss/03/tou_1.png" 
+	              max_blood_ratio="0.8" status="unburned" />
+	<ChangeSprite sprite_name="qugan" new_tex="pic/boss/03/qugan_1.png" 
+	              max_blood_ratio="0.5" status="unburned" />
+				  
+	<ChangeSprite sprite_name="zuobid" new_tex="" 
+	              max_blood_ratio="0.3"/>
+				  
+	<ChangeSprite sprite_name="tou" new_tex="pic/boss/03/tou_1_burn.png" 
+	              max_blood_ratio="0.8" status="burned" />
+	<ChangeSprite sprite_name="qugan" new_tex="pic/boss/03/qugan_1_burn.png" 
+	              max_blood_ratio="0.5" status="burned" />
+				  
+	<shot_effect>
+		<shot_blood_effect duration="0.4" offset_x="80" offset_y="30" row_count="2" 
+		                   col_count="3" max_blood_ratio="1.0" random_x="30"
+						   random_min_y="-70" random_max_y="35" 
+			               tex="pic/zombies/shot_blood_2.png" zorder="5"/>
+	</shot_effect>
+				
+			   
+	<Box2DItem offset_x="90" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/01/part_yanzhu.png" max_blood_ratio="0.8" />
+			   
+	<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/boss/03/part_zuobid.png" max_blood_ratio="0.3" status="unburned"/>
+	<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/boss/03/part_zuobid_burn.png" max_blood_ratio="0.3" status="burned"/>
+	
+	
+	<Death last_max_damage="10000" last_min_damage="1" fragment_count="4">
+		<ChangeSprite sprite_name="tou" new_tex="" />
+		<ChangeSprite sprite_name="zuobid" new_tex=""/>
+		<ChangeSprite sprite_name="youbid" new_tex=""/>
+		<ChangeSprite sprite_name="qungan" new_tex="pic/boss/03/qungan_1.png" status="unburned"/>
+		<ChangeSprite sprite_name="qungan" new_tex="pic/boss/03/qungan_1_burn.png" status="burned"/>
+		<ChangeSprite sprite_name="tou02" new_tex="pic/boss/03/tou02_burn.png" status="burned" />
+	    
+		<Box2DItem offset_x="90" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/01/part_yanzhu.png" min_blood_ratio="0.8" />
+		
+		<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/boss/03/part_zuobid.png" min_blood_ratio="0.3" status="unburned"/>
+        <Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/boss/03/part_zuobid_burn.png" min_blood_ratio="0.3" status="burned"/>    
+		
+		<Box2DItem offset_x="100" offset_y="100" shape="circle" force_angle="110"
+	           tex="pic/zombies/01/part_yanzhu.png" /> 
+		
+		<Box2DItem offset_x="80" offset_y="95" shape="circle" force_angle="100"
+	           tex="pic/zombies/head_nao01.png" />
+	</Death>
+	
+	<Shadow offset_x="30" offset_y="252" scale_x="1.3" tex="pic/zombies/yinying.png" />
+	
+	 <freeze_effect freeze_time="4" zorder="4" delay="0.1"
+	                offset_x="0" offset_y="-100"
+	                ice_tex_1="pic/gun/freezer/ice_1.png" 
+				    ice_tex_2="pic/gun/freezer/ice_2.png"/>
+	
+	<burn_effect damage="10" burn_time="5">
+		<ChangeSprite sprite_name="tou" new_tex="pic/boss/03/tou_burn.png"/>
+		<ChangeSprite sprite_name="tou02" new_tex="pic/boss/03/tou02_burn.png"/>
+		<ChangeSprite sprite_name="qugan" new_tex="pic/boss/03/qugan_burn.png"/>
+		<ChangeSprite sprite_name="zuobid" new_tex="pic/boss/03/zuobid_burn.png"/>
+		<ChangeSprite sprite_name="zuobiu" new_tex="pic/boss/03/zuobiu_burn.png"/>
+		<ChangeSprite sprite_name="youbid" new_tex="pic/boss/03/youbid_burn.png"/>
+		<ChangeSprite sprite_name="youbiu" new_tex="pic/boss/03/youbiu_burn.png"/>
+		<ChangeSprite sprite_name="zuotuid" new_tex="pic/boss/03/zuotuid_burn.png"/>
+		<ChangeSprite sprite_name="zuotuiu" new_tex="pic/boss/03/zuotuiu_burn.png"/>
+		<ChangeSprite sprite_name="youtuid" new_tex="pic/boss/03/youtuid_burn.png"/>
+		<ChangeSprite sprite_name="youtuiu" new_tex="pic/boss/03/youtuiu_burn.png"/>
+	</burn_effect>
+	
+	<water_effect wave_scale="1.7" wave_offset_x="45" spill_scale="1.7" spill_delay="0.85" spill_offset_x="45" />
+</zombie>

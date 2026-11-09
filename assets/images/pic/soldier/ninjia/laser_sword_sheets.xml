@@ -1,0 +1,12 @@
+<Textures>
+  <TextureSheet name="man01act01">
+    <Texture name="youbi" width="37" height="53" path="pic/soldier/ninjia/youbi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="tou" width="96" height="85" path="pic/soldier/ninjia/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="qungan" width="51" height="52" path="pic/soldier/ninjia/qungan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="zuoshou03" width="32" height="29" path="pic/soldier/ninjia/zuoshou03.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="qiubang" width="151" height="60" path="pic_png/soldier/01/gun_katana.png" registrationPointX="3.00" registrationPointY="-7.00" zIndex="1"/>
+    <Texture name="zuobi" width="42" height="40" path="pic/soldier/ninjia/zuobi.png" registrationPointX="2.00" registrationPointY="2.00"/>
+    <Texture name="youtui" width="39" height="56" path="pic/soldier/ninjia/youtui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="zuotui" width="45" height="51" path="pic/soldier/ninjia/zuotui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+  </TextureSheet>
+</Textures>

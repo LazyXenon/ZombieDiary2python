@@ -1,0 +1,404 @@
+<Animations>
+  <Animation name="youbi" frameCount="48">
+    <Part name="majiayou">
+      <Frame x="121.40" y="125.20" rotation="14.999" index="0"/>
+      <Frame x="120.05" y="126.20" scaleX="0.999" scaleY="0.999" rotation="12.543" index="1"/>
+      <Frame x="118.75" y="127.25" scaleX="0.999" scaleY="0.999" rotation="10.262" index="2"/>
+      <Frame x="117.45" y="128.35" rotation="7.794" index="3"/>
+      <Frame x="116.25" y="129.45" rotation="5.515" index="4"/>
+      <Frame x="114.90" y="130.70" rotation="3.048" index="5"/>
+      <Frame x="113.80" y="131.95" rotation="0.769" index="6"/>
+      <Frame x="112.75" y="133.35" rotation="-1.508" index="7"/>
+      <Frame x="111.60" y="134.85" rotation="-3.896" index="8"/>
+      <Frame x="112.25" y="134.05" rotation="-2.554" index="9"/>
+      <Frame x="112.70" y="133.45" rotation="-1.508" index="10"/>
+      <Frame x="113.35" y="132.75" rotation="-0.275" index="11"/>
+      <Frame x="113.85" y="132.10" rotation="0.769" index="12"/>
+      <Frame x="114.40" y="131.40" rotation="2.003" index="13"/>
+      <Frame x="114.90" y="130.90" rotation="3.048" index="14"/>
+      <Frame x="115.50" y="130.20" rotation="4.280" index="15"/>
+      <Frame x="116.15" y="129.60" rotation="5.515" index="16"/>
+      <Frame x="116.75" y="129.05" rotation="6.561" index="17"/>
+      <Frame x="117.40" y="128.40" rotation="7.795" index="18"/>
+      <Frame x="118.05" y="127.85" scaleX="0.999" scaleY="0.999" rotation="9.028" index="19"/>
+      <Frame x="118.75" y="127.35" scaleX="0.999" scaleY="0.999" rotation="10.262" index="20"/>
+      <Frame x="119.25" y="126.80" scaleX="0.999" scaleY="0.999" rotation="11.309" index="21"/>
+      <Frame x="119.90" y="126.25" scaleX="0.999" scaleY="0.999" rotation="12.543" index="22"/>
+      <Frame x="120.55" y="125.80" scaleX="0.999" scaleY="0.999" rotation="13.778" index="23"/>
+      <Frame x="121.40" y="125.20" rotation="14.999" index="24"/>
+      <Frame x="120.05" y="126.25" scaleX="0.999" scaleY="0.999" rotation="12.543" index="25"/>
+      <Frame x="118.80" y="127.25" scaleX="0.999" scaleY="0.999" rotation="10.262" index="26"/>
+      <Frame x="117.45" y="128.35" rotation="7.794" index="27"/>
+      <Frame x="116.25" y="129.45" rotation="5.515" index="28"/>
+      <Frame x="114.95" y="130.70" rotation="3.048" index="29"/>
+      <Frame x="113.85" y="131.95" rotation="0.769" index="30"/>
+      <Frame x="112.80" y="133.35" rotation="-1.508" index="31"/>
+      <Frame x="111.60" y="134.85" rotation="-3.896" index="32"/>
+      <Frame x="112.25" y="134.05" rotation="-2.554" index="33"/>
+      <Frame x="112.70" y="133.45" rotation="-1.509" index="34"/>
+      <Frame x="113.30" y="132.75" rotation="-0.277" index="35"/>
+      <Frame x="113.75" y="132.10" rotation="0.768" index="36"/>
+      <Frame x="114.40" y="131.50" rotation="2.001" index="37"/>
+      <Frame x="114.95" y="130.95" rotation="3.046" index="38"/>
+      <Frame x="115.55" y="130.25" scaleX="0.999" scaleY="0.999" rotation="4.277" index="39"/>
+      <Frame x="116.15" y="129.70" scaleX="0.999" scaleY="0.999" rotation="5.512" index="40"/>
+      <Frame x="116.65" y="129.20" scaleX="0.999" scaleY="0.999" rotation="6.557" index="41"/>
+      <Frame x="117.35" y="128.60" scaleX="0.999" scaleY="0.999" rotation="7.791" index="42"/>
+      <Frame x="118.05" y="128.00" scaleX="0.999" scaleY="0.999" rotation="9.025" index="43"/>
+      <Frame x="118.65" y="127.40" scaleX="0.999" scaleY="0.999" rotation="10.257" index="44"/>
+      <Frame x="119.25" y="126.95" scaleX="0.999" scaleY="0.999" rotation="11.304" index="45"/>
+      <Frame x="119.90" y="126.50" scaleX="0.999" scaleY="0.999" rotation="12.538" index="46"/>
+      <Frame x="120.60" y="125.95" scaleX="0.999" scaleY="0.999" rotation="13.796" index="47"/>
+    </Part>
+    <Part name="majiazuo">
+      <Frame x="148.05" y="130.10" rotation="14.999" index="0"/>
+      <Frame x="147.15" y="130.50" scaleX="0.999" scaleY="0.999" rotation="12.536" index="1"/>
+      <Frame x="146.20" y="131.00" scaleX="0.999" scaleY="0.999" rotation="10.059" index="2"/>
+      <Frame x="145.50" y="131.45" rotation="7.771" index="3"/>
+      <Frame x="144.60" y="132.05" rotation="5.296" index="4"/>
+      <Frame x="143.85" y="132.70" rotation="3.009" index="5"/>
+      <Frame x="143.05" y="133.30" rotation="0.534" index="6"/>
+      <Frame x="142.45" y="134.15" rotation="-1.751" index="7"/>
+      <Frame x="141.70" y="135.00" rotation="-4.147" index="8"/>
+      <Frame x="142.20" y="134.55" rotation="-2.801" index="9"/>
+      <Frame x="142.40" y="134.15" rotation="-1.752" index="10"/>
+      <Frame x="142.75" y="133.80" rotation="-0.514" index="11"/>
+      <Frame x="143.00" y="133.40" rotation="0.534" index="12"/>
+      <Frame x="143.50" y="133.05" rotation="1.771" index="13"/>
+      <Frame x="143.80" y="132.70" rotation="3.009" index="14"/>
+      <Frame x="144.10" y="132.40" rotation="4.058" index="15"/>
+      <Frame x="144.60" y="132.15" rotation="5.295" index="16"/>
+      <Frame x="145.00" y="131.75" rotation="6.532" index="17"/>
+      <Frame x="145.45" y="131.50" rotation="7.770" index="18"/>
+      <Frame x="145.85" y="131.20" scaleX="0.999" scaleY="0.999" rotation="9.008" index="19"/>
+      <Frame x="146.20" y="131.00" scaleX="0.999" scaleY="0.999" rotation="10.059" index="20"/>
+      <Frame x="146.60" y="130.75" scaleX="0.999" scaleY="0.999" rotation="11.296" index="21"/>
+      <Frame x="147.10" y="130.50" scaleX="0.999" scaleY="0.999" rotation="12.535" index="22"/>
+      <Frame x="147.50" y="130.35" scaleX="0.999" scaleY="0.999" rotation="13.773" index="23"/>
+      <Frame x="148.05" y="130.10" rotation="14.999" index="24"/>
+      <Frame x="147.15" y="130.50" scaleX="0.999" scaleY="0.999" rotation="12.536" index="25"/>
+      <Frame x="146.20" y="131.00" scaleX="0.999" scaleY="0.999" rotation="10.059" index="26"/>
+      <Frame x="145.50" y="131.45" rotation="7.771" index="27"/>
+      <Frame x="144.60" y="132.05" rotation="5.296" index="28"/>
+      <Frame x="143.85" y="132.70" rotation="3.009" index="29"/>
+      <Frame x="143.05" y="133.30" rotation="0.534" index="30"/>
+      <Frame x="142.45" y="134.15" rotation="-1.751" index="31"/>
+      <Frame x="141.70" y="135.00" rotation="-4.147" index="32"/>
+      <Frame x="142.05" y="134.65" rotation="-3.001" index="33"/>
+      <Frame x="142.40" y="134.15" rotation="-1.777" index="34"/>
+      <Frame x="142.80" y="133.75" rotation="-0.554" index="35"/>
+      <Frame x="143.00" y="133.50" rotation="0.296" index="36"/>
+      <Frame x="143.40" y="133.20" rotation="1.519" index="37"/>
+      <Frame x="143.65" y="132.85" rotation="2.556" index="38"/>
+      <Frame x="144.05" y="132.55" scaleX="0.999" scaleY="0.999" rotation="3.779" index="39"/>
+      <Frame x="144.45" y="132.15" scaleX="0.999" scaleY="0.999" rotation="5.004" index="40"/>
+      <Frame x="144.80" y="132.00" scaleX="0.999" scaleY="0.999" rotation="6.041" index="41"/>
+      <Frame x="145.15" y="131.65" scaleX="0.999" scaleY="0.999" rotation="7.266" index="42"/>
+      <Frame x="145.55" y="131.40" scaleX="0.999" scaleY="0.999" rotation="8.304" index="43"/>
+      <Frame x="146.00" y="131.20" scaleX="0.999" scaleY="0.999" rotation="9.527" index="44"/>
+      <Frame x="146.35" y="130.95" scaleX="0.999" scaleY="0.999" rotation="10.566" index="45"/>
+      <Frame x="146.80" y="130.75" scaleX="0.999" scaleY="0.999" rotation="11.791" index="46"/>
+      <Frame x="147.30" y="130.50" scaleX="0.999" scaleY="0.999" rotation="13.031" index="47"/>
+    </Part>
+    <Part name="qungan">
+      <Frame x="129.35" y="123.25" rotation="14.999" index="0"/>
+      <Frame x="128.50" y="124.10" scaleX="0.999" scaleY="0.999" rotation="13.784" index="1"/>
+      <Frame x="127.80" y="124.85" scaleX="0.999" scaleY="0.999" rotation="12.559" index="2"/>
+      <Frame x="127.15" y="125.60" scaleX="0.999" scaleY="0.999" rotation="11.519" index="3"/>
+      <Frame x="126.35" y="126.45" scaleX="0.999" scaleY="0.999" rotation="10.293" index="4"/>
+      <Frame x="125.60" y="127.30" scaleX="0.999" scaleY="0.999" rotation="9.067" index="5"/>
+      <Frame x="125.00" y="128.10" rotation="8.029" index="6"/>
+      <Frame x="124.15" y="128.95" rotation="6.802" index="7"/>
+      <Frame x="123.65" y="129.80" rotation="5.798" index="8"/>
+      <Frame x="123.95" y="129.40" rotation="6.283" index="9"/>
+      <Frame x="124.30" y="128.95" rotation="6.802" index="10"/>
+      <Frame x="124.70" y="128.50" rotation="7.510" index="11"/>
+      <Frame x="125.00" y="128.10" rotation="8.030" index="12"/>
+      <Frame x="125.35" y="127.70" rotation="8.548" index="13"/>
+      <Frame x="125.65" y="127.25" rotation="9.067" index="14"/>
+      <Frame x="126.10" y="126.75" scaleX="0.999" scaleY="0.999" rotation="9.775" index="15"/>
+      <Frame x="126.45" y="126.45" scaleX="0.999" scaleY="0.999" rotation="10.294" index="16"/>
+      <Frame x="126.75" y="126.00" scaleX="0.999" scaleY="0.999" rotation="10.814" index="17"/>
+      <Frame x="127.20" y="125.55" scaleX="0.999" scaleY="0.999" rotation="11.521" index="18"/>
+      <Frame x="127.60" y="125.25" scaleX="0.999" scaleY="0.999" rotation="12.040" index="19"/>
+      <Frame x="127.90" y="124.85" scaleX="0.999" scaleY="0.999" rotation="12.560" index="20"/>
+      <Frame x="128.30" y="124.40" scaleX="0.999" scaleY="0.999" rotation="13.267" index="21"/>
+      <Frame x="128.65" y="124.05" scaleX="0.999" scaleY="0.999" rotation="13.786" index="22"/>
+      <Frame x="128.95" y="123.65" scaleX="0.999" scaleY="0.999" rotation="14.305" index="23"/>
+      <Frame x="129.35" y="123.25" rotation="14.999" index="24"/>
+      <Frame x="128.50" y="124.10" scaleX="0.999" scaleY="0.999" rotation="13.784" index="25"/>
+      <Frame x="127.80" y="124.85" scaleX="0.999" scaleY="0.999" rotation="12.559" index="26"/>
+      <Frame x="127.15" y="125.60" scaleX="0.999" scaleY="0.999" rotation="11.519" index="27"/>
+      <Frame x="126.35" y="126.45" scaleX="0.999" scaleY="0.999" rotation="10.293" index="28"/>
+      <Frame x="125.60" y="127.30" scaleX="0.999" scaleY="0.999" rotation="9.067" index="29"/>
+      <Frame x="125.00" y="128.10" rotation="8.029" index="30"/>
+      <Frame x="124.15" y="128.95" rotation="6.802" index="31"/>
+      <Frame x="123.65" y="129.80" rotation="5.798" index="32"/>
+      <Frame x="124.00" y="129.40" rotation="6.290" index="33"/>
+      <Frame x="124.25" y="128.95" rotation="6.815" index="34"/>
+      <Frame x="124.70" y="128.45" scaleX="0.999" scaleY="0.999" rotation="7.528" index="35"/>
+      <Frame x="125.05" y="128.10" scaleX="0.999" scaleY="0.999" rotation="8.052" index="36"/>
+      <Frame x="125.50" y="127.65" scaleX="0.999" scaleY="0.999" rotation="8.767" index="37"/>
+      <Frame x="125.75" y="127.30" scaleX="0.999" scaleY="0.999" rotation="9.291" index="38"/>
+      <Frame x="126.10" y="126.85" scaleX="0.999" scaleY="0.999" rotation="9.817" index="39"/>
+      <Frame x="126.60" y="126.35" scaleX="0.999" scaleY="0.999" rotation="10.530" index="40"/>
+      <Frame x="126.90" y="126.00" scaleX="0.999" scaleY="0.999" rotation="11.055" index="41"/>
+      <Frame x="127.40" y="125.65" scaleX="0.999" scaleY="0.999" rotation="11.769" index="42"/>
+      <Frame x="127.80" y="125.25" scaleX="0.999" scaleY="0.999" rotation="12.294" index="43"/>
+      <Frame x="128.00" y="124.90" scaleX="0.999" scaleY="0.999" rotation="12.819" index="44"/>
+      <Frame x="128.50" y="124.40" scaleX="0.999" scaleY="0.999" rotation="13.533" index="45"/>
+      <Frame x="128.90" y="124.05" scaleX="0.998" scaleY="0.998" rotation="14.059" index="46"/>
+      <Frame x="129.35" y="123.60" scaleX="0.999" scaleY="0.999" rotation="14.788" index="47"/>
+    </Part>
+    <Part name="tou">
+      <Frame x="121.10" y="52.30" rotation="14.999" index="0"/>
+      <Frame x="122.25" y="52.55" scaleX="0.999" scaleY="0.999" rotation="15.801" index="1"/>
+      <Frame x="123.50" y="52.70" scaleX="0.999" scaleY="0.999" rotation="16.776" index="2"/>
+      <Frame x="124.65" y="52.85" rotation="17.685" index="3"/>
+      <Frame x="118.60" y="55.20" scaleX="0.999" scaleY="0.999" rotation="14.524" index="4"/>
+      <Frame x="112.60" y="57.80" scaleX="0.999" scaleY="0.999" rotation="11.296" index="5"/>
+      <Frame x="106.90" y="60.30" scaleX="0.999" scaleY="0.999" rotation="8.256" index="6"/>
+      <Frame x="101.10" y="63.10" rotation="5.032" index="7"/>
+      <Frame x="95.50" y="66.05" rotation="1.806" index="8"/>
+      <Frame x="90.30" y="68.85" rotation="-1.042" index="9"/>
+      <Frame x="85.00" y="72.10" rotation="-4.310" index="10"/>
+      <Frame x="87.50" y="70.45" rotation="-2.797" index="11"/>
+      <Frame x="89.75" y="69.00" rotation="-1.512" index="12"/>
+      <Frame x="92.20" y="67.40" rotation="-0.043" index="13"/>
+      <Frame x="94.40" y="66.10" rotation="1.052" index="14"/>
+      <Frame x="96.90" y="64.50" rotation="2.521" index="15"/>
+      <Frame x="99.25" y="63.10" rotation="3.805" index="16"/>
+      <Frame x="101.85" y="61.60" rotation="5.275" index="17"/>
+      <Frame x="104.30" y="60.30" scaleX="0.999" scaleY="0.999" rotation="6.557" index="18"/>
+      <Frame x="106.95" y="58.80" scaleX="0.999" scaleY="0.999" rotation="8.029" index="19"/>
+      <Frame x="109.45" y="57.55" scaleX="0.999" scaleY="0.999" rotation="9.313" index="20"/>
+      <Frame x="112.10" y="56.15" scaleX="0.999" scaleY="0.999" rotation="10.785" index="21"/>
+      <Frame x="114.65" y="54.90" scaleX="0.999" scaleY="0.999" rotation="12.069" index="22"/>
+      <Frame x="117.35" y="53.60" scaleX="0.999" scaleY="0.999" rotation="13.539" index="23"/>
+      <Frame x="120.10" y="52.30" rotation="14.999" index="24"/>
+      <Frame x="121.55" y="52.60" scaleX="0.999" scaleY="0.999" rotation="15.801" index="25"/>
+      <Frame x="123.20" y="52.70" scaleX="0.999" scaleY="0.999" rotation="16.776" index="26"/>
+      <Frame x="124.65" y="52.85" rotation="17.685" index="27"/>
+      <Frame x="118.60" y="55.20" scaleX="0.999" scaleY="0.999" rotation="14.524" index="28"/>
+      <Frame x="112.60" y="57.80" scaleX="0.999" scaleY="0.999" rotation="11.296" index="29"/>
+      <Frame x="106.90" y="60.30" scaleX="0.999" scaleY="0.999" rotation="8.256" index="30"/>
+      <Frame x="101.10" y="63.10" rotation="5.032" index="31"/>
+      <Frame x="95.50" y="66.05" rotation="1.806" index="32"/>
+      <Frame x="90.30" y="68.85" rotation="-1.042" index="33"/>
+      <Frame x="85.00" y="72.10" rotation="-4.310" index="34"/>
+      <Frame x="87.40" y="70.40" scaleX="0.999" scaleY="0.999" rotation="-2.812" index="35"/>
+      <Frame x="89.65" y="69.00" rotation="-1.546" index="36"/>
+      <Frame x="91.95" y="67.65" rotation="-0.279" index="37"/>
+      <Frame x="94.10" y="66.35" scaleX="0.999" scaleY="0.999" rotation="0.800" index="38"/>
+      <Frame x="96.55" y="64.80" scaleX="0.999" scaleY="0.999" rotation="2.253" index="39"/>
+      <Frame x="98.90" y="63.50" scaleX="0.999" scaleY="0.999" rotation="3.521" index="40"/>
+      <Frame x="101.30" y="62.15" scaleX="0.999" scaleY="0.999" rotation="4.786" index="41"/>
+      <Frame x="103.70" y="60.85" scaleX="0.999" scaleY="0.999" rotation="6.055" index="42"/>
+      <Frame x="106.30" y="59.40" scaleX="0.999" scaleY="0.999" rotation="7.509" index="43"/>
+      <Frame x="108.75" y="58.15" scaleX="0.999" scaleY="0.999" rotation="8.777" index="44"/>
+      <Frame x="111.15" y="57.00" scaleX="0.999" scaleY="0.999" rotation="10.045" index="45"/>
+      <Frame x="113.70" y="55.70" scaleX="0.999" scaleY="0.999" rotation="11.311" index="46"/>
+      <Frame x="116.35" y="54.30" scaleX="0.999" scaleY="0.999" rotation="12.784" index="47"/>
+    </Part>
+    <Part name="youbi">
+      <Frame x="84.05" y="126.35" rotation="7.194" index="0"/>
+      <Frame x="83.65" y="127.65" rotation="6.309" index="1"/>
+      <Frame x="83.40" y="128.80" scaleX="0.999" scaleY="0.999" rotation="5.753" index="2"/>
+      <Frame x="83.05" y="130.00" rotation="5.033" index="3"/>
+      <Frame x="82.40" y="131.70" rotation="3.268" index="4"/>
+      <Frame x="81.85" y="133.40" rotation="1.528" index="5"/>
+      <Frame x="81.30" y="135.05" rotation="-0.026" index="6"/>
+      <Frame x="80.75" y="136.85" rotation="-1.767" index="7"/>
+      <Frame x="80.25" y="138.60" rotation="-3.507" index="8"/>
+      <Frame x="79.85" y="140.30" rotation="-5.062" index="9"/>
+      <Frame x="79.30" y="142.25" rotation="-6.954" index="10"/>
+      <Frame x="79.60" y="141.00" rotation="-5.800" index="11"/>
+      <Frame x="79.85" y="139.80" rotation="-4.797" index="12"/>
+      <Frame x="80.10" y="138.70" rotation="-3.794" index="13"/>
+      <Frame x="80.45" y="137.50" rotation="-2.791" index="14"/>
+      <Frame x="80.75" y="136.40" rotation="-1.788" index="15"/>
+      <Frame x="81.10" y="135.25" rotation="-0.785" index="16"/>
+      <Frame x="81.40" y="134.25" rotation="0.030" index="17"/>
+      <Frame x="81.70" y="133.10" rotation="1.032" index="18"/>
+      <Frame x="82.05" y="132.00" rotation="2.036" index="19"/>
+      <Frame x="82.50" y="130.85" rotation="3.037" index="20"/>
+      <Frame x="82.85" y="129.70" rotation="4.041" index="21"/>
+      <Frame x="83.20" y="128.70" rotation="5.046" index="22"/>
+      <Frame x="83.55" y="127.50" rotation="6.048" index="23"/>
+      <Frame x="84.05" y="126.35" rotation="7.194" index="24"/>
+      <Frame x="83.65" y="127.65" rotation="6.309" index="25"/>
+      <Frame x="83.40" y="128.80" scaleX="0.999" scaleY="0.999" rotation="5.753" index="26"/>
+      <Frame x="83.05" y="130.00" rotation="5.033" index="27"/>
+      <Frame x="82.40" y="131.70" rotation="3.268" index="28"/>
+      <Frame x="81.85" y="133.40" rotation="1.528" index="29"/>
+      <Frame x="81.30" y="135.05" rotation="-0.026" index="30"/>
+      <Frame x="80.75" y="136.85" rotation="-1.767" index="31"/>
+      <Frame x="80.25" y="138.60" rotation="-3.507" index="32"/>
+      <Frame x="79.85" y="140.30" rotation="-5.062" index="33"/>
+      <Frame x="79.30" y="142.25" rotation="-6.954" index="34"/>
+      <Frame x="79.60" y="141.00" rotation="-5.808" index="35"/>
+      <Frame x="79.85" y="139.90" rotation="-4.811" index="36"/>
+      <Frame x="80.10" y="138.80" rotation="-4.004" index="37"/>
+      <Frame x="80.40" y="137.65" rotation="-3.008" index="38"/>
+      <Frame x="80.65" y="136.60" rotation="-2.014" index="39"/>
+      <Frame x="80.95" y="135.50" rotation="-1.018" index="40"/>
+      <Frame x="81.35" y="134.35" rotation="-0.023" index="41"/>
+      <Frame x="81.60" y="133.25" rotation="0.784" index="42"/>
+      <Frame x="81.90" y="132.25" rotation="1.780" index="43"/>
+      <Frame x="82.30" y="131.10" rotation="2.775" index="44"/>
+      <Frame x="82.70" y="130.00" rotation="3.770" index="45"/>
+      <Frame x="83.05" y="128.90" scaleX="0.999" scaleY="0.999" rotation="4.766" index="46"/>
+      <Frame x="83.45" y="127.85" rotation="5.791" index="47"/>
+    </Part>
+    <Part name="youtui">
+      <Frame x="117.10" y="193.85" rotation="-44.999" index="0"/>
+      <Frame x="116.20" y="192.85" scaleX="0.998" scaleY="0.998" rotation="-43.118" index="1"/>
+      <Frame x="115.30" y="191.85" scaleX="0.998" scaleY="0.998" rotation="-41.144" index="2"/>
+      <Frame x="114.35" y="190.90" scaleX="0.998" scaleY="0.998" rotation="-39.356" index="3"/>
+      <Frame x="113.50" y="189.85" scaleX="0.998" scaleY="0.998" rotation="-37.381" index="4"/>
+      <Frame x="112.65" y="188.90" scaleX="0.998" scaleY="0.998" rotation="-35.595" index="5"/>
+      <Frame x="111.85" y="187.90" scaleX="0.998" scaleY="0.998" rotation="-33.620" index="6"/>
+      <Frame x="111.10" y="187.00" scaleX="0.999" scaleY="0.999" rotation="-31.834" index="7"/>
+      <Frame x="110.30" y="186.05" rotation="-29.999" index="8"/>
+      <Frame x="108.40" y="192.60" scaleX="0.998" scaleY="0.998" rotation="-41.877" index="9"/>
+      <Frame x="107.80" y="199.45" scaleX="0.999" scaleY="0.999" rotation="-53.844" index="10"/>
+      <Frame x="105.10" y="191.80" scaleX="0.997" scaleY="0.997" rotation="-46.650" index="11"/>
+      <Frame x="102.80" y="184.25" scaleX="0.998" scaleY="0.998" rotation="-39.566" index="12"/>
+      <Frame x="102.75" y="180.25" scaleX="0.996" scaleY="0.996" rotation="-32.559" index="13"/>
+      <Frame x="103.30" y="176.20" scaleX="0.997" scaleY="0.997" rotation="-25.340" index="14"/>
+      <Frame x="104.10" y="172.50" scaleX="0.997" scaleY="0.997" rotation="-18.312" index="15"/>
+      <Frame x="105.40" y="169.15" scaleX="0.998" scaleY="0.998" rotation="-11.288" index="16"/>
+      <Frame x="107.00" y="166.10" scaleX="0.998" scaleY="0.998" rotation="-4.270" index="17"/>
+      <Frame x="108.95" y="163.60" scaleX="0.999" scaleY="0.999" rotation="2.554" index="18"/>
+      <Frame x="111.20" y="161.45" scaleX="0.998" scaleY="0.998" rotation="9.758" index="19"/>
+      <Frame x="113.60" y="159.70" scaleX="0.998" scaleY="0.998" rotation="16.781" index="20"/>
+      <Frame x="116.25" y="158.40" scaleX="0.998" scaleY="0.998" rotation="23.807" index="21"/>
+      <Frame x="118.90" y="157.65" scaleX="0.998" scaleY="0.998" rotation="30.837" index="22"/>
+      <Frame x="121.55" y="157.40" scaleX="0.998" scaleY="0.998" rotation="37.871" index="23"/>
+      <Frame x="124.25" y="157.55" rotation="44.999" index="24"/>
+      <Frame x="122.35" y="158.45" scaleX="0.998" scaleY="0.998" rotation="39.356" index="25"/>
+      <Frame x="120.35" y="159.50" scaleX="0.998" scaleY="0.998" rotation="33.620" index="26"/>
+      <Frame x="118.40" y="161.00" scaleX="0.999" scaleY="0.999" rotation="28.073" index="27"/>
+      <Frame x="116.40" y="162.80" scaleX="0.999" scaleY="0.999" rotation="22.340" index="28"/>
+      <Frame x="114.70" y="164.80" scaleX="0.999" scaleY="0.999" rotation="16.796" index="29"/>
+      <Frame x="113.00" y="167.30" scaleX="0.999" scaleY="0.999" rotation="11.070" index="30"/>
+      <Frame x="111.35" y="169.95" rotation="5.534" index="31"/>
+      <Frame x="110.00" y="172.85" index="32"/>
+      <Frame x="110.85" y="173.20" rotation="-1.813" index="33"/>
+      <Frame x="111.65" y="173.75" rotation="-3.814" index="34"/>
+      <Frame x="112.40" y="174.20" rotation="-5.814" index="35"/>
+      <Frame x="113.20" y="174.75" rotation="-7.816" index="36"/>
+      <Frame x="114.05" y="175.30" scaleX="0.999" scaleY="0.999" rotation="-9.818" index="37"/>
+      <Frame x="114.95" y="175.90" scaleX="0.999" scaleY="0.999" rotation="-11.821" index="38"/>
+      <Frame x="115.85" y="176.50" scaleX="0.999" scaleY="0.999" rotation="-13.823" index="39"/>
+      <Frame x="116.80" y="177.20" scaleX="0.999" scaleY="0.999" rotation="-15.827" index="40"/>
+      <Frame x="117.75" y="177.85" scaleX="0.999" scaleY="0.999" rotation="-17.831" index="41"/>
+      <Frame x="118.80" y="178.55" scaleX="0.999" scaleY="0.999" rotation="-19.834" index="42"/>
+      <Frame x="119.85" y="179.30" scaleX="0.999" scaleY="0.999" rotation="-21.838" index="43"/>
+      <Frame x="120.85" y="180.00" scaleX="0.999" scaleY="0.999" rotation="-23.843" index="44"/>
+      <Frame x="121.90" y="180.80" scaleX="0.999" scaleY="0.999" rotation="-25.848" index="45"/>
+      <Frame x="123.05" y="181.60" scaleX="0.999" scaleY="0.999" rotation="-27.854" index="46"/>
+      <Frame x="124.20" y="182.45" rotation="-29.999" index="47"/>
+    </Part>
+    <Part name="zuobi">
+      <Frame x="151.25" y="209.95" rotation="-88.989" index="0"/>
+      <Frame x="148.90" y="209.55" rotation="-86.976" index="1"/>
+      <Frame x="146.60" y="209.20" scaleX="0.999" scaleY="0.999" rotation="-84.955" index="2"/>
+      <Frame x="144.15" y="208.65" scaleX="0.999" scaleY="0.999" rotation="-82.746" index="3"/>
+      <Frame x="141.90" y="208.15" scaleX="0.999" scaleY="0.999" rotation="-80.723" index="4"/>
+      <Frame x="139.60" y="207.65" scaleX="0.999" scaleY="0.999" rotation="-78.701" index="5"/>
+      <Frame x="137.30" y="207.05" scaleX="0.999" scaleY="0.999" rotation="-76.677" index="6"/>
+      <Frame x="135.05" y="206.30" scaleX="0.998" scaleY="0.998" rotation="-74.467" index="7"/>
+      <Frame x="132.80" y="205.65" scaleX="0.998" scaleY="0.998" rotation="-72.442" index="8"/>
+      <Frame x="130.70" y="205.00" scaleX="0.998" scaleY="0.998" rotation="-70.418" index="9"/>
+      <Frame x="128.45" y="204.10" scaleX="0.999" scaleY="0.999" rotation="-68.176" index="10"/>
+      <Frame x="127.00" y="203.05" scaleX="0.998" scaleY="0.998" rotation="-66.663" index="11"/>
+      <Frame x="125.45" y="201.85" scaleX="0.998" scaleY="0.998" rotation="-64.932" index="12"/>
+      <Frame x="124.05" y="200.60" scaleX="0.998" scaleY="0.998" rotation="-63.202" index="13"/>
+      <Frame x="122.60" y="199.40" scaleX="0.998" scaleY="0.998" rotation="-61.660" index="14"/>
+      <Frame x="121.15" y="198.25" scaleX="0.998" scaleY="0.998" rotation="-59.929" index="15"/>
+      <Frame x="119.85" y="197.00" scaleX="0.998" scaleY="0.998" rotation="-58.385" index="16"/>
+      <Frame x="118.40" y="195.70" scaleX="0.998" scaleY="0.998" rotation="-56.654" index="17"/>
+      <Frame x="117.00" y="194.30" scaleX="0.998" scaleY="0.998" rotation="-54.925" index="18"/>
+      <Frame x="115.80" y="193.10" scaleX="0.998" scaleY="0.998" rotation="-53.380" index="19"/>
+      <Frame x="114.40" y="191.75" scaleX="0.998" scaleY="0.998" rotation="-51.649" index="20"/>
+      <Frame x="113.20" y="190.40" scaleX="0.998" scaleY="0.998" rotation="-49.916" index="21"/>
+      <Frame x="111.95" y="189.15" scaleX="0.998" scaleY="0.998" rotation="-48.374" index="22"/>
+      <Frame x="110.75" y="187.75" scaleX="0.998" scaleY="0.998" rotation="-46.642" index="23"/>
+      <Frame x="109.55" y="186.45" rotation="-45.020" index="24"/>
+      <Frame x="111.35" y="188.35" scaleX="0.998" scaleY="0.998" rotation="-47.373" index="25"/>
+      <Frame x="112.95" y="190.20" scaleX="0.998" scaleY="0.998" rotation="-49.646" index="26"/>
+      <Frame x="114.75" y="192.05" scaleX="0.998" scaleY="0.998" rotation="-51.921" index="27"/>
+      <Frame x="116.55" y="193.90" scaleX="0.998" scaleY="0.998" rotation="-54.381" index="28"/>
+      <Frame x="118.50" y="195.75" scaleX="0.998" scaleY="0.998" rotation="-56.655" index="29"/>
+      <Frame x="120.30" y="197.45" scaleX="0.998" scaleY="0.998" rotation="-58.929" index="30"/>
+      <Frame x="122.40" y="199.15" scaleX="0.998" scaleY="0.998" rotation="-61.202" index="31"/>
+      <Frame x="124.35" y="200.95" scaleX="0.998" scaleY="0.998" rotation="-63.663" index="32"/>
+      <Frame x="126.50" y="202.60" scaleX="0.998" scaleY="0.998" rotation="-65.935" index="33"/>
+      <Frame x="128.45" y="204.10" scaleX="0.999" scaleY="0.999" rotation="-68.176" index="34"/>
+      <Frame x="130.00" y="204.65" scaleX="0.998" scaleY="0.998" rotation="-69.698" index="35"/>
+      <Frame x="131.50" y="205.25" scaleX="0.998" scaleY="0.998" rotation="-71.193" index="36"/>
+      <Frame x="133.05" y="205.70" scaleX="0.998" scaleY="0.998" rotation="-72.686" index="37"/>
+      <Frame x="134.60" y="206.15" scaleX="0.998" scaleY="0.998" rotation="-74.180" index="38"/>
+      <Frame x="136.05" y="206.60" scaleX="0.998" scaleY="0.998" rotation="-75.485" index="39"/>
+      <Frame x="137.60" y="207.10" scaleX="0.999" scaleY="0.999" rotation="-76.978" index="40"/>
+      <Frame x="139.25" y="207.50" scaleX="0.999" scaleY="0.999" rotation="-78.471" index="41"/>
+      <Frame x="140.90" y="207.90" scaleX="0.999" scaleY="0.999" rotation="-79.963" index="42"/>
+      <Frame x="142.50" y="208.35" scaleX="0.999" scaleY="0.999" rotation="-81.455" index="43"/>
+      <Frame x="144.20" y="208.70" scaleX="0.999" scaleY="0.999" rotation="-82.948" index="44"/>
+      <Frame x="145.85" y="209.05" scaleX="0.999" scaleY="0.999" rotation="-84.439" index="45"/>
+      <Frame x="147.40" y="209.35" scaleX="0.999" scaleY="0.999" rotation="-85.742" index="46"/>
+      <Frame x="149.10" y="209.65" rotation="-87.188" index="47"/>
+    </Part>
+    <Part name="zuotui">
+      <Frame x="134.35" y="163.25" rotation="44.999" index="0"/>
+      <Frame x="132.90" y="163.95" scaleX="0.998" scaleY="0.998" rotation="39.356" index="1"/>
+      <Frame x="131.40" y="164.90" scaleX="0.998" scaleY="0.998" rotation="33.620" index="2"/>
+      <Frame x="130.00" y="166.15" scaleX="0.999" scaleY="0.999" rotation="28.073" index="3"/>
+      <Frame x="128.55" y="167.75" scaleX="0.999" scaleY="0.999" rotation="22.340" index="4"/>
+      <Frame x="127.35" y="169.65" scaleX="0.999" scaleY="0.999" rotation="16.796" index="5"/>
+      <Frame x="126.00" y="171.80" scaleX="0.999" scaleY="0.999" rotation="11.070" index="6"/>
+      <Frame x="125.05" y="174.30" rotation="5.534" index="7"/>
+      <Frame x="124.00" y="176.95" index="8"/>
+      <Frame x="124.50" y="177.45" rotation="-1.781" index="9"/>
+      <Frame x="124.90" y="177.95" rotation="-3.563" index="10"/>
+      <Frame x="125.30" y="178.55" rotation="-5.533" index="11"/>
+      <Frame x="125.75" y="179.10" rotation="-7.315" index="12"/>
+      <Frame x="126.25" y="179.75" scaleX="0.999" scaleY="0.999" rotation="-9.286" index="13"/>
+      <Frame x="126.75" y="180.35" scaleX="0.999" scaleY="0.999" rotation="-11.069" index="14"/>
+      <Frame x="127.30" y="181.10" scaleX="0.999" scaleY="0.999" rotation="-13.041" index="15"/>
+      <Frame x="127.85" y="181.70" scaleX="0.999" scaleY="0.999" rotation="-14.825" index="16"/>
+      <Frame x="128.45" y="182.50" scaleX="0.999" scaleY="0.999" rotation="-16.797" index="17"/>
+      <Frame x="129.10" y="183.15" scaleX="0.999" scaleY="0.999" rotation="-18.581" index="18"/>
+      <Frame x="129.70" y="183.95" scaleX="0.999" scaleY="0.999" rotation="-20.555" index="19"/>
+      <Frame x="130.40" y="184.70" scaleX="0.999" scaleY="0.999" rotation="-22.340" index="20"/>
+      <Frame x="131.05" y="185.50" scaleX="0.999" scaleY="0.999" rotation="-24.313" index="21"/>
+      <Frame x="131.80" y="186.30" scaleX="0.999" scaleY="0.999" rotation="-26.098" index="22"/>
+      <Frame x="132.55" y="187.20" scaleX="0.999" scaleY="0.999" rotation="-28.073" index="23"/>
+      <Frame x="133.30" y="188.00" rotation="-29.999" index="24"/>
+      <Frame x="131.95" y="186.25" scaleX="0.999" scaleY="0.999" rotation="-26.099" index="25"/>
+      <Frame x="130.65" y="184.70" scaleX="0.999" scaleY="0.999" rotation="-22.340" index="26"/>
+      <Frame x="129.45" y="183.20" scaleX="0.999" scaleY="0.999" rotation="-18.581" index="27"/>
+      <Frame x="128.40" y="181.70" scaleX="0.999" scaleY="0.999" rotation="-14.824" index="28"/>
+      <Frame x="127.45" y="180.30" scaleX="0.999" scaleY="0.999" rotation="-11.069" index="29"/>
+      <Frame x="126.55" y="179.15" rotation="-7.315" index="30"/>
+      <Frame x="125.80" y="177.95" rotation="-3.563" index="31"/>
+      <Frame x="125.00" y="176.95" index="32"/>
+      <Frame x="115.60" y="179.45" scaleX="0.999" scaleY="0.999" rotation="-14.824" index="33"/>
+      <Frame x="107.70" y="183.50" rotation="-29.998" index="34"/>
+      <Frame x="108.10" y="180.55" scaleX="0.999" scaleY="0.999" rotation="-24.090" index="35"/>
+      <Frame x="108.65" y="177.75" scaleX="0.999" scaleY="0.999" rotation="-18.321" index="36"/>
+      <Frame x="109.60" y="175.20" scaleX="0.999" scaleY="0.999" rotation="-12.558" index="37"/>
+      <Frame x="110.75" y="172.85" rotation="-6.796" index="38"/>
+      <Frame x="112.05" y="170.70" rotation="-1.039" index="39"/>
+      <Frame x="113.50" y="169.00" rotation="4.530" index="40"/>
+      <Frame x="115.25" y="167.45" scaleX="0.999" scaleY="0.999" rotation="10.291" index="41"/>
+      <Frame x="117.15" y="166.15" scaleX="0.999" scaleY="0.999" rotation="16.053" index="42"/>
+      <Frame x="119.10" y="165.15" scaleX="0.999" scaleY="0.999" rotation="21.819" index="43"/>
+      <Frame x="121.15" y="164.60" scaleX="0.999" scaleY="0.999" rotation="27.589" index="44"/>
+      <Frame x="123.25" y="164.20" scaleX="0.998" scaleY="0.998" rotation="33.359" index="45"/>
+      <Frame x="125.35" y="164.20" scaleX="0.998" scaleY="0.998" rotation="39.133" index="46"/>
+      <Frame x="127.55" y="164.60" rotation="44.999" index="47"/>
+    </Part>
+  </Animation>
+</Animations>

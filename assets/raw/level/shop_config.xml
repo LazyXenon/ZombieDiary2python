@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shop>
+	
+	<gun name="wrench" title_name="pic/ui/shop/wrench.png" 
+		 fire_type="aoe" cost_coin="2500" cost_crystal="0"/>
+	
+	<gun name="guitar" title_name="pic/ui/shop/guitar.png" 
+		 fire_type="aoe" cost_coin="0" cost_crystal="30"/>
+	
+	<gun name="katana" title_name="pic/ui/shop/samurai_sword.png" 
+		 fire_type="aoe" cost_coin="12000" cost_crystal="0"/>
+	
+	<gun name="axe" title_name="pic/ui/shop/max_axe.png" 
+		 fire_type="aoe" cost_coin="30000" cost_crystal="0"
+		 unlock_level="5" unlock_crystal="15"/>
+	
+	<gun name="saw" title_name="pic/ui/shop/chain_saw.png" 
+		 fire_type="aoe" cost_coin="60000" cost_crystal="0"
+		 unlock_level="10" unlock_crystal="30"/>
+	
+	<gun name="laser_sword" title_name="pic/ui/shop/lightsaber.png" 
+		 fire_type="aoe" cost_coin="0" cost_crystal="400"
+		 unlock_level="15" unlock_crystal="80"/>
+	
+	<gun name="p220" title_name="pic/ui/shop/sig_p220.png" 
+		 fire_type="semi_auto" cost_coin="0" cost_crystal="0" 
+		 infinite_bullet="1" />
+	
+	<gun name="desert_eagle" title_name="pic/ui/shop/desert_eagle.png" 
+		 fire_type="semi_auto" cost_coin="4000" cost_crystal="0"
+		 init_bullet="30" bullet_count="30" bullet_cost_coin="100" />
+	
+	<gun name="desert_eagle_gold" title_name="pic/ui/shop/g_desert_eagle.png" 
+		 fire_type="semi_auto" cost_coin="0" cost_crystal="50" 
+		 infinite_bullet="1" />
+		 
+	<gun name="colt_anaconda" title_name="pic/ui/shop/colt_anaconda.png"
+		 fire_type="semi_auto" cost_coin="18000" cost_crystal="0"
+		 init_bullet="20" bullet_count="20" bullet_cost_coin="200" 
+		 unlock_level="5" unlock_crystal="10"/>
+	
+	<gun name="uzi" title_name="pic/ui/shop/micro_uzi.png"
+		 fire_type="auto" cost_coin="7500" cost_crystal="0"
+		 init_bullet="75" bullet_count="75" bullet_cost_coin="150" />
+	
+	<gun name="p90" title_name="pic/ui/shop/fn_p90.png" 
+		 fire_type="auto" cost_coin="16000" cost_crystal="0"
+		 init_bullet="75" bullet_count="75" bullet_cost_coin="250" />
+	
+	<gun name="mp5" title_name="pic/ui/shop/mp5k_pdw.png" 
+		 fire_type="auto" cost_coin="38000" cost_crystal="0"
+		 init_bullet="80" bullet_count="80" bullet_cost_coin="500" 
+		 unlock_level="5" unlock_crystal="20"/>
+	
+	<gun name="ak47" title_name="pic/ui/shop/ak_47.png"
+		 fire_type="auto" cost_coin="20000" cost_crystal="0"
+		 init_bullet="50" bullet_count="50" bullet_cost_coin="300" />
+	
+	<gun name="ak47_gold" title_name="pic/ui/shop/g_ak_47.png"
+		 fire_type="auto" cost_coin="0" cost_crystal="150" 
+		 infinite_bullet="1" />
+	
+	<gun name="m16" title_name="pic/ui/shop/m16_a4.png" 
+		 fire_type="auto" cost_coin="45000" cost_crystal="0"
+		 init_bullet="40" bullet_count="40" bullet_cost_coin="450" 
+		 unlock_level="5" unlock_crystal="25"/>
+	
+	<gun name="aug" title_name="pic/ui/shop/aug_a1.png"
+		 fire_type="auto" cost_coin="90000" cost_crystal="0"
+		 init_bullet="50" bullet_count="50" bullet_cost_coin="1000" 
+		 unlock_level="10" unlock_crystal="45"/>
+	
+	<gun name="m4" title_name="pic/ui/shop/m4_a1.png" 
+		 fire_type="auto" cost_coin="200000" cost_crystal="0"
+		 init_bullet="55" bullet_count="55" bullet_cost_coin="2000" 
+		 unlock_level="15" unlock_crystal="80"/>
+	
+	<gun name="m134" title_name="pic/ui/shop/m134_minigun.png"
+		 fire_type="auto" cost_coin="300000" cost_crystal="0"
+		 init_bullet="120" bullet_count="120" bullet_cost_coin="2400" is_locked="1"
+		 unlock_level="20" unlock_crystal="100"/>
+	
+	<gun name="m870" title_name="pic/ui/shop/remington_m870.png" 
+		 fire_type="semi_auto" cost_coin="18000" cost_crystal="0"
+		 init_bullet="25" bullet_count="25" bullet_cost_coin="500"
+		 unlock_level="5" unlock_crystal="10"/>
+	
+	<gun name="spas12" title_name="pic/ui/shop/spas_12_shotgun.png" 
+		 fire_type="auto" cost_coin="0" cost_crystal="120"
+		 init_bullet="30" bullet_count="30" bullet_cost_coin="1200" />
+	
+	<gun name="milkor_mgl" title_name="pic/ui/shop/mikor_mgl.png" 
+		 fire_type="explosive" cost_coin="75000" cost_crystal="0"
+		 init_bullet="20" bullet_count="20" bullet_cost_coin="1500" 
+		 unlock_level="10" unlock_crystal="40"/> 
+	
+	<gun name="rocket" title_name="pic/ui/shop/rocket.png" 
+		 fire_type="explosive" cost_coin="0" cost_crystal="600"
+		 init_bullet="25" bullet_count="25" bullet_cost_coin="2500" 
+		 unlock_level="15" unlock_crystal="120"/> 
+	
+	<gun name="bubble" title_name="pic/ui/shop/bubble_gun.png" 
+		 fire_type="auto" cost_coin="40000" cost_crystal="0"
+		 init_bullet="30" bullet_count="30" bullet_cost_coin="600" 
+		 unlock_level="10" unlock_crystal="20"/> 
+	
+	<gun name="flamethrower" title_name="pic/ui/shop/flamethrower.png" 
+		 fire_type="aoe" cost_coin="80000" cost_crystal="0"
+		 init_bullet="50" bullet_count="50" bullet_cost_coin="1800" 
+		 unlock_level="12" unlock_crystal="50"/> 
+	
+	<gun name="freezer" title_name="pic/ui/shop/freezer_gun.png" 
+		 fire_type="freeze" cost_coin="0" cost_crystal="350"
+		 init_bullet="50" bullet_count="50" bullet_cost_coin="2500"
+		 unlock_level="15" unlock_crystal="70"/> 
+	
+	<gun name="sonic" title_name="pic/ui/shop/subsonic_gun.png" 
+		 fire_type="explosive" cost_coin="250000" cost_crystal="0"
+		 init_bullet="35" bullet_count="35" bullet_cost_coin="2500" 
+		 unlock_level="20" unlock_crystal="100"/> 
+	
+	<gun name="m200" title_name="pic/ui/shop/cheytac_m200.png" 
+		 fire_type="penetrating" cost_coin="120000" cost_crystal="0"
+		 init_bullet="35" bullet_count="35" bullet_cost_coin="2000" 
+		 unlock_level="15" unlock_crystal="60"/> 
+	
+	<gun name="laser" title_name="pic/ui/shop/laser_gun.png" 
+		 fire_type="penetrating" cost_coin="550000" cost_crystal="0"
+		 init_bullet="35" bullet_count="35" bullet_cost_coin="2000" 
+		 unlock_level="25" unlock_crystal="200"/> 
+	
+	<gun name="thunder" title_name="pic/ui/shop/thunder_gun.png" 
+		 fire_type="penetrating" cost_coin="0" cost_crystal="1500"
+		 init_bullet="35" bullet_count="35" bullet_cost_coin="2500"
+		 unlock_level="25" unlock_crystal="300"/> 
+	 
+	<ability name="hp_1" title="hp potion i" cost_coin="1000" cost_crystal="0" />
+	
+	<ability name="hp_2" title="hp potion ii" cost_coin="0" cost_crystal="4" />
+			 
+	<ability name="shield_1" title="defense shield i" cost_coin="1500" cost_crystal="0" />
+	
+	<ability name="shield_2" title="defense shield ii" cost_coin="0" cost_crystal="6" />
+	
+	<ability name="power_1" title="power potion i" cost_coin="1250" cost_crystal="0" />
+	
+	<ability name="power_2" title="power potion ii" cost_coin="0" cost_crystal="5" />
+	
+	<ability name="speed_1" title="speed potion i" cost_coin="1000" cost_crystal="0" />
+	
+	<ability name="speed_2" title="speed potion ii" cost_coin="0" cost_crystal="4" />
+	
+	<ability name="airstrike" title="air strike" cost_coin="0" cost_crystal="3" />
+	
+	<ability name="mech_7" title="mark 7 gun turret" cost_coin="0" cost_crystal="6" />
+	
+	<ability name="fly_1" title="redswift-b" cost_coin="2000" cost_crystal="0" />
+	
+	<ability name="fly_2" title="white knight-ii" cost_coin="0" cost_crystal="8" />
+</shop>

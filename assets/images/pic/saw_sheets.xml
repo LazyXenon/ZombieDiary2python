@@ -1,0 +1,14 @@
+<Textures>
+  <TextureSheet name="mangirl_01actgirl_01">
+    <Texture name="youbi02" width="50" height="52" path="pic/soldier/girl_02/youbi02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="zuoshou02" width="38" height="22" path="pic/soldier/girl_02/zuoshou02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="dianju" width="167" height="67" path="pic_png/soldier/01/gun_saw.png" registrationPointX="12.00" registrationPointY="8.00" zIndex="7"/>
+    <Texture name="tou" width="96" height="85" path="pic/soldier/girl_02/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="qungan" width="51" height="52" path="pic/soldier/girl_02/qungan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="zuobi" width="42" height="40" path="pic/soldier/girl_02/zuobi.png" registrationPointX="2.00" registrationPointY="2.00"/>
+    <Texture name="youtui" width="39" height="56" path="pic/soldier/girl_02/youtui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="zuotui" width="45" height="51" path="pic/soldier/girl_02/zuotui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+	<Texture name="bian01" width="72" height="86" path="pic/soldier/girl_02/bian01.png" registrationPointX="2.00" registrationPointY="2.00"/>
+    <Texture name="bian02" width="77" height="47" path="pic/soldier/girl_02/bian02.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

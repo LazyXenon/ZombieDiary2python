@@ -1,0 +1,8 @@
+<Textures>
+  <TextureSheet name="jijia00act00">
+     <Texture name="chilun02" width="132" height="131" path="pic/mech/08/chilun02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+     <Texture name="zuoshouzhang" width="45" height="49" path="pic/mech/08/youshouzhang.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+     <Texture name="zuoshoubi" width="53" height="85" path="pic/mech/08/zuoshoubi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+     <Texture name="zuoshoubi02" width="58" height="70" path="pic/mech/08/zuoshoubi02.png" registrationPointX="2.00" registrationPointY="2.00"/>
+   </TextureSheet>
+</Textures>

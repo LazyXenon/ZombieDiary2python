@@ -1,0 +1,5 @@
+<Textures>
+  <TextureSheet name="shuibo">
+    <Texture name="hou" width="137" height="23" path="shuibo/hou.png" registrationPointX="5.00" registrationPointY="-3.00"/>
+  </TextureSheet>
+</Textures>

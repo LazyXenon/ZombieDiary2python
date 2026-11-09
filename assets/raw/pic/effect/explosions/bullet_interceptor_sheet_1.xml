@@ -1,0 +1,8 @@
+<Textures>
+  <TextureSheet name="man01act01" >
+      <Texture name="d03" width="133" height="228" path="pics/d03.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="20" />
+      <Texture name="d02" width="218" height="228" path="pics/d02.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="19" />
+      <Texture name="d01" width="218" height="228" path="pics/d01.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="18" />
+      <Texture name="ring" width="260" height="260" path="pics/ring02.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="17" />
+  </TextureSheet>
+</Textures>

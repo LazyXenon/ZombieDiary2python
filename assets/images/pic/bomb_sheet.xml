@@ -1,0 +1,21 @@
+<Textures>
+  <TextureSheet name="man01act01" >
+      <Texture name="boom" width="204" height="204" path="pics/boom03.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="19" />
+      <Texture name="light07" width="164" height="122" path="pics/l0201.png" registrationPointX="0.80" registrationPointY="0.40" zIndex="18" />
+      <Texture name="light05" width="164" height="136" path="pics/l0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="17" />
+      <Texture name="light06" width="164" height="136" path="pics/l0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="16" />
+      <Texture name="light01" width="164" height="136" path="pics/l0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="15" />
+      <Texture name="light03" width="164" height="136" path="pics/l0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="13" />
+      <Texture name="light04" width="164" height="122" path="pics/l0201.png" registrationPointX="0.80" registrationPointY="0.40" zIndex="12" />
+      <Texture name="smoke08" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="10" />
+      <Texture name="smoke07" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="9" />
+      <Texture name="smoke10" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="8" />
+      <Texture name="smoke09" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="7" />
+      <Texture name="smoke03" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="6" />
+      <Texture name="smoke05" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="5" />
+      <Texture name="smoke04" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="4" />
+      <Texture name="smoke02" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="3" />
+      <Texture name="smoke01" width="164" height="115" path="pics/s0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="2" />
+      <Texture name="ring" width="199" height="195" path="pics/ring.png" registrationPointX="-0.40" registrationPointY="-1.60" zIndex="1" />
+  </TextureSheet>
+</Textures>

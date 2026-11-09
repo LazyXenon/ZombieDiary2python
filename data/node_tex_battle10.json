@@ -1,0 +1,647 @@
+{
+ "resolved": {
+  "0xd64ec344": "pic/ui/buttons/distance.png",
+  "0xd64ec204": "pic/ui/battlefield/combo.png",
+  "0xd64eb944": "pic/ui/buttons/Button_L.png",
+  "0xf28b4384": "pic/ui/buttons/Button_L.png",
+  "0xf28b44c4": "pic/ui/buttons/Button_Weapon.png",
+  "0xf28b4604": "pic/ui/buttons/Button_Act.png",
+  "0xf28b4744": "pic/ui/common/wp_select_box.png",
+  "0xd65fcb84": "pic/ui/buttons/button_pause.png",
+  "0xd65f7b84": "pic/ui/dialog/failed_bg.png",
+  "0xd65f8084": "pic/ui/dialog/victory_bg.png",
+  "0xd65f8584": "pic/ui/buttons/hp_bar_head_1.png",
+  "0xd65f8804": "pic/soldier/death_suit/tou.png",
+  "0xd65f8a84": "pic/ui/buttons/hp_bar_head_0.png",
+  "0xd65fa104": "pic/ui/common/coin.png",
+  "0xd65fb284": "pic/ui/common/crystal.png",
+  "0xd65f8d04": "pic/ui/buttons/zombie_kill.png",
+  "0xd65f9c04": "pic/ui/battlefield/combo.png",
+  "0xcb8d4504": "pic/soldier/death_suit/zuobi.png",
+  "0xcb8d6d04": "pic/mech/10/tou.png",
+  "0xcb8ff004": "pic/items/item_ring.png",
+  "0xcc6b9e04": "pic/items/item_light.png",
+  "0xd65fbc84": "pic/ui/buttons/Button_L.png",
+  "0xd65fbf04": "pic/ui/buttons/Button_R.png",
+  "0xd65fc184": "pic/ui/buttons/Button_Weapon.png",
+  "0xd65fc404": "pic/ui/buttons/Button_Act.png",
+  "0xd65fc904": "pic/ui/shop/select_box.png",
+  "0xd65fc684": "pic/mech/05/penghuofadongji01.png",
+  "0xcb8e1704": "pic/ui/user_guide/press_hand.png",
+  "0xd65f7e04": "pic/ui/dialog/victory_bg.png",
+  "0xd65f8304": "pic/ui/buttons/hp_bar_bg_end.png",
+  "0xd65fa604": "pic/gun/m870_fire_spark.png",
+  "0xd65fa884": "pic/gun/m870_fire_spark.png",
+  "0xd65fab04": "pic/gun/m870_fire_spark.png",
+  "0xd65fad84": "pic/gun/m870_fire_spark.png",
+  "0xd65fb004": "pic/gun/m870_fire_spark.png",
+  "0xd65fb784": "pic/gun/m870_fire_spark.png",
+  "0xd6bf8a84": "pic/soldier/yinying.png",
+  "0xd65f8f84": "pic/gun/m870_fire_spark.png",
+  "0xd65f9204": "pic/gun/m870_fire_spark.png",
+  "0xd65f9484": "pic/gun/m870_fire_spark.png",
+  "0xd65f9704": "pic/gun/m870_fire_spark.png",
+  "0xd65f9e84": "pic/fonts/number_blood.png",
+  "0xcb8df904": "pic/ui/shop/ability_shield_1.png",
+  "0xcb8dfb84": "pic/ui/shop/ability_shield_1.png",
+  "0xcb8e0304": "pic/ui/battlefield/chat_dialog.png",
+  "0xcb8e0584": "pic/ui/shop/ability_shield_1.png",
+  "0xcb8e0804": "pic/ui/battlefield/chat_dialog.png",
+  "0xcb8e0a84": "pic/ui/battlefield/chat_dialog.png",
+  "0xcb8e0d04": "pic/ui/battlefield/chat_dialog.png",
+  "0xcb8e0f84": "pic/ui/shop/ability_shield_1.png",
+  "0xcb8e1204": "pic/ui/battlefield/chat_dialog.png",
+  "0xcb8e1484": "pic/ui/common/girl.png",
+  "0xd0720984": "pic/gun/freezer_wave.png",
+  "0xcc4e5b04": "pic/gun/freezer_wave.png",
+  "0xcc46f284": "pic/gun/freezer_wave.png",
+  "0xcc470b84": "pic/gun/freezer_wave.png",
+  "0xcc470e04": "pic/gun/freezer_wave.png",
+  "0xd6663684": "pic/soldier/01/zuotui.png",
+  "0xd6663504": "pic/soldier/01/youtui.png",
+  "0xd6b6aa04": "pic/soldier/girl_02/bian01.png",
+  "0xd6b6ab84": "pic/soldier/girl_02/bian02.png",
+  "0xd6662c04": "pic/soldier/01/zuobi.png",
+  "0xd6b6ae84": "pic/ui/user_guide/press_hand.png",
+  "0xd6662d84": "pic/soldier/01/zuoshou.png",
+  "0xd6662784": "pic/soldier/01/qungan.png",
+  "0xd6662604": "pic/soldier/01/majiazuo.png",
+  "0xd6662904": "pic/soldier/01/tou.png",
+  "0xd6662484": "pic/soldier/01/majiayou.png",
+  "0xd6662a84": "pic/soldier/01/youbi.png",
+  "0xcb8d9004": "pic/mech/03/youtui03.png",
+  "0xcb8d9284": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8d9504": "pic/mech/03/youtui03.png",
+  "0xcb8d9784": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8d9a04": "pic/mech/03/youtui03.png",
+  "0xcb8d9c84": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8d9f04": "pic/mech/03/youtui03.png",
+  "0xcb8da184": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8da404": "pic/mech/03/youtui03.png",
+  "0xcb8da684": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8da904": "pic/mech/03/youtui03.png",
+  "0xcb8dab84": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dae04": "pic/mech/03/youtui03.png",
+  "0xcb8db084": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8db304": "pic/mech/03/youtui03.png",
+  "0xcb8db584": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8db804": "pic/mech/03/youtui03.png",
+  "0xcb8dba84": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dbd04": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dbf84": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dc204": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dc484": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dc704": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dc984": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dcc04": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dce84": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dd104": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dd384": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dd604": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8dd884": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8ddb04": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8ddd84": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8de004": "pic/ui/user_guide/title_cloud.png",
+  "0xcb8de284": "pic/mech/03/youtui03.png",
+  "0xcb8de504": "pic/mech/03/youtui03.png",
+  "0xcb8de784": "pic/mech/03/youtui03.png",
+  "0xd65f7904": "pic/soldier/01/zuotui.png",
+  "0xd65f7404": "pic/soldier/01/youtui.png",
+  "0xd6bf6784": "pic/soldier/girl_02/bian01.png",
+  "0xd6bf6a04": "pic/soldier/girl_02/bian02.png",
+  "0xd65f6f04": "pic/soldier/01/zuobi.png",
+  "0xd6bf6c84": "pic/ui/shop/ability_shield_1.png",
+  "0xd6bf9984": "pic/soldier/01/zuoshou.png",
+  "0xd65f6784": "pic/soldier/01/qungan.png",
+  "0xd65f6004": "pic/soldier/01/majiazuo.png",
+  "0xd6bfa884": "pic/soldier/01/tou.png",
+  "0xd6bfa104": "pic/soldier/01/majiayou.png",
+  "0xd6bf9204": "pic/soldier/01/youbi.png"
+ },
+ "sub": {
+  "0xd65f7b84": [
+   97,
+   30,
+   97,
+   30
+  ],
+  "0xd65f8084": [
+   230,
+   61,
+   230,
+   61
+  ],
+  "0xcb8d4504": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "0xcb8d6d04": [
+   0,
+   0,
+   69,
+   56
+  ],
+  "0xcb8ff004": [
+   300,
+   100,
+   100,
+   100
+  ],
+  "0xcc6b9e04": [
+   200,
+   150,
+   40,
+   150
+  ],
+  "0xd65fc684": [
+   0,
+   0,
+   58,
+   54
+  ],
+  "0xd65f7e04": [
+   230,
+   61,
+   230,
+   61
+  ],
+  "0xd65fa604": [
+   72,
+   0,
+   36,
+   40
+  ],
+  "0xd65fa884": [
+   360,
+   0,
+   36,
+   40
+  ],
+  "0xd65fab04": [
+   324,
+   0,
+   36,
+   40
+  ],
+  "0xd65fad84": [
+   324,
+   0,
+   36,
+   40
+  ],
+  "0xd65fb004": [
+   324,
+   0,
+   36,
+   40
+  ],
+  "0xd65fb784": [
+   144,
+   0,
+   36,
+   40
+  ],
+  "0xd65f8f84": [
+   324,
+   0,
+   36,
+   40
+  ],
+  "0xd65f9204": [
+   540,
+   0,
+   36,
+   40
+  ],
+  "0xd65f9484": [
+   0,
+   0,
+   36,
+   40
+  ],
+  "0xd65f9704": [
+   324,
+   0,
+   36,
+   40
+  ],
+  "0xd65f9e84": [
+   252,
+   0,
+   28,
+   30
+  ],
+  "0xcb8df904": [
+   26,
+   26,
+   26,
+   26
+  ],
+  "0xcb8dfb84": [
+   0,
+   0,
+   26,
+   26
+  ],
+  "0xcb8e0304": [
+   52,
+   0,
+   26,
+   26
+  ],
+  "0xcb8e0584": [
+   26,
+   0,
+   26,
+   26
+  ],
+  "0xcb8e0804": [
+   0,
+   52,
+   26,
+   26
+  ],
+  "0xcb8e0a84": [
+   52,
+   52,
+   26,
+   26
+  ],
+  "0xcb8e0d04": [
+   26,
+   52,
+   26,
+   26
+  ],
+  "0xcb8e0f84": [
+   0,
+   26,
+   26,
+   26
+  ],
+  "0xcb8e1204": [
+   52,
+   26,
+   26,
+   26
+  ],
+  "0xd0720984": [
+   0,
+   0,
+   400,
+   240
+  ],
+  "0xcc4e5b04": [
+   0,
+   0,
+   200,
+   240
+  ],
+  "0xcc46f284": [
+   0,
+   0,
+   200,
+   240
+  ],
+  "0xcc470b84": [
+   0,
+   0,
+   200,
+   240
+  ],
+  "0xcc470e04": [
+   0,
+   0,
+   200,
+   240
+  ],
+  "0xcb8d9004": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8d9284": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8d9504": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8d9784": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8d9a04": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8d9c84": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8d9f04": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8da184": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8da404": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8da684": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8da904": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8dab84": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8dae04": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8db084": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8db304": [
+   32,
+   40,
+   32,
+   32
+  ],
+  "0xcb8db584": [
+   64,
+   64,
+   32,
+   32
+  ],
+  "0xcb8db804": [
+   32,
+   8,
+   32,
+   32
+  ],
+  "0xcb8dba84": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dbd04": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dbf84": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dc204": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dc484": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dc704": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dc984": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dcc04": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dce84": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dd104": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dd384": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dd604": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8dd884": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8ddb04": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8ddd84": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8de004": [
+   96,
+   0,
+   32,
+   32
+  ],
+  "0xcb8de284": [
+   64,
+   8,
+   32,
+   32
+  ],
+  "0xcb8de504": [
+   0,
+   8,
+   32,
+   32
+  ],
+  "0xcb8de784": [
+   0,
+   8,
+   32,
+   32
+  ],
+  "0xd6bf6c84": [
+   0,
+   0,
+   73,
+   49
+  ]
+ },
+ "glyph": {
+  "0xd65f9e84": {
+   "font": "pic/fonts/number_blood.png",
+   "cx": 252,
+   "cw": 28,
+   "ch": 30
+  },
+  "0xd65fa604": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 72,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65fa884": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 360,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65fab04": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 324,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65fad84": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 324,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65fb004": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 324,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65fb784": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 144,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65f8f84": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 324,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65f9204": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 540,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65f9484": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 0,
+   "cw": 36,
+   "ch": 40
+  },
+  "0xd65f9704": {
+   "font": "pic/fonts/score_white.png",
+   "cx": 324,
+   "cw": 36,
+   "ch": 40
+  }
+ },
+ "missing": [
+  "0xf2975080",
+  "0xd6b68604",
+  "0xf2937984",
+  "0xd6b57644",
+  "0xf2938404",
+  "0xf2975804",
+  "0xcc6b9204",
+  "0xd65fba04",
+  "0xd64ebe44",
+  "0xf2975944",
+  "0xd64ec484",
+  "0xd64ec0c4",
+  "0xcc471304",
+  "0xd64ea544",
+  "0xd6b57d44",
+  "0xd64e9a04",
+  "0xf28b3ac4",
+  "0xd6b579c4",
+  "0xd6b57b84",
+  "0xd6b57804",
+  "0xd6663804",
+  "0xd6663984",
+  "0xd64e9b44",
+  "0xd0740784",
+  "0xf28b3c04",
+  "0xf28b3d44",
+  "0xf28b3e84",
+  "0xf28b3fc4",
+  "0xf28b4104",
+  "0xd6663384",
+  "0xd6b6a884",
+  "0xf28b4244",
+  "0xd64e9c84",
+  "0xcb8dea04"
+ ]
+}

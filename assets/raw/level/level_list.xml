@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+  <training_levels>
+    <training_level min_id="5" max_id="10000" type="training_mission" zombie_config_xml="level/training_1.xml"/>
+  </training_levels>
+  <levels>
+    <level id="1">
+      <mission_desc type="kill_mission" zone="hospital" number="10" reward_coin="800" zombie_config_xml="level/1_1.xml"/>
+    </level>
+    <level id="2">
+      <mission_desc type="distance_mission" zone="hospital" number="10" reward_coin="850" zombie_config_xml="level/2_1.xml"/>
+      <mission_desc type="kill_mission" zone="bridge" number="15" reward_coin="900" zombie_config_xml="level/2_2.xml"/>
+    </level>
+    <level id="3">
+      <mission_desc type="time_mission" zone="hospital" number="30" reward_coin="950" zombie_config_xml="level/3_1.xml"/>
+      <mission_desc type="distance_mission" zone="bridge" number="20" reward_coin="1000" zombie_config_xml="level/3_2.xml"/>
+      <mission_desc type="kill_mission" zone="cemetery" number="20" reward_coin="1050" zombie_config_xml="level/3_3.xml"/>
+    </level>
+    <level id="4">
+      <mission_desc type="guard_mission" zone="bridge" number="10" number2="45" reward_coin="1100" zombie_config_xml="level/4_1.xml"/>
+      <mission_desc type="distance_mission" zone="cemetery" number="25" reward_coin="1150" zombie_config_xml="level/4_2.xml"/>
+      <mission_desc type="kill_mission" zone="country" number="30" reward_coin="1200" zombie_config_xml="level/4_3.xml"/>
+    </level>
+    <level id="5">
+      <mission_desc type="hostage_mission" zone="jailbreak" number="25" reward_coin="1250" zombie_config_xml="level/5_1.xml"/>
+      <mission_desc type="guard_mission" zone="bridge" number="8" number2="60" reward_coin="1300" zombie_config_xml="level/5_2.xml"/>
+      <mission_desc type="distance_mission" zone="country" number="30" reward_coin="1350" zombie_config_xml="level/5_3.xml"/>
+      <mission_desc type="kill_mission" zone="cemetery" number="40" reward_coin="1400" zombie_config_xml="level/5_4.xml"/>
+    </level>
+    <level id="6">
+      <mission_desc type="distance_time_mission" zone="hospital" number="35" number2="60" reward_coin="1500" zombie_config_xml="level/6_1.xml"/>
+      <mission_desc type="time_mission" zone="country" number="70" reward_coin="1600" zombie_config_xml="level/6_2.xml"/>
+      <mission_desc type="hostage_mission" zone="forest" number="30" reward_coin="1700" zombie_config_xml="level/6_3.xml"/>
+      <mission_desc type="kill_mission" zone="cemetery" number="45" reward_coin="1800" zombie_config_xml="level/6_4.xml"/>
+    </level>
+    <level id="7">
+      <mission_desc type="collect_mission" zone="jailbreak" number="3" reward_coin="1900" zombie_config_xml="level/7_1.xml"/>
+      <mission_desc type="distance_mission" zone="metro" number="40" reward_coin="2000" zombie_config_xml="level/7_2.xml"/>
+      <mission_desc type="kill_mission" zone="country" number="50" reward_coin="2100" zombie_config_xml="level/7_3.xml"/>
+      <mission_desc type="guard_mission" zone="bridge" number="5" number2="70" reward_coin="2200" zombie_config_xml="level/7_4.xml"/>
+    </level>
+    <level id="8">
+      <mission_desc type="kill_time_mission" zone="hospital" number="45" number2="60" reward_coin="2300" zombie_config_xml="level/8_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="drainage" number="40" number2="75" reward_coin="2400" zombie_config_xml="level/8_2.xml"/>
+      <mission_desc type="hostage_mission" zone="forest" number="40" reward_coin="2500" zombie_config_xml="level/8_3.xml"/>
+      <mission_desc type="kill_mission" zone="jailbreak" number="60" reward_coin="2600" zombie_config_xml="level/8_4.xml"/>
+    </level>
+    <level id="9">
+      <mission_desc type="time_mission" zone="lab" number="80" reward_coin="2700" zombie_config_xml="level/9_1.xml"/>
+      <mission_desc type="hostage_time_mission" zone="country" number="40" number2="80" reward_coin="2800" zombie_config_xml="level/9_2.xml"/>
+      <mission_desc type="distance_mission" zone="metro" number="45" reward_coin="2900" zombie_config_xml="level/9_3.xml"/>
+      <mission_desc type="collect_mission" zone="bridge" number="5" reward_coin="3000" zombie_config_xml="level/9_4.xml"/>
+    </level>
+    <level id="10">
+      <mission_desc type="kill_time_mission" zone="bankside" number="60" number2="75" reward_coin="3100" zombie_config_xml="level/10_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="hospital" number="50" number2="100" reward_coin="3200" zombie_config_xml="level/10_2.xml"/>
+      <mission_desc type="guard_mission" zone="drainage" number="5" number2="90" reward_coin="3300" zombie_config_xml="level/10_3.xml"/>
+      <mission_desc type="kill_mission" zone="cemetery" number="70" reward_coin="3400" zombie_config_xml="level/10_4.xml"/>
+    </level>
+    <level id="11">
+      <mission_desc type="collect_time_mission" zone="prison" number="6" number2="90" reward_coin="3550" zombie_config_xml="level/11_1.xml"/>
+      <mission_desc type="hostage_mission" zone="country" number="50" reward_coin="3700" zombie_config_xml="level/11_2.xml"/>
+      <mission_desc type="time_mission" zone="lab" number="100" reward_coin="3850" zombie_config_xml="level/11_3.xml"/>
+      <mission_desc type="kill_mission" zone="bridge" number="80" reward_coin="4000" zombie_config_xml="level/11_4.xml"/>
+    </level>
+    <level id="12">
+      <mission_desc type="kill_time_mission" zone="hospital" number="90" number2="100" reward_coin="4150" zombie_config_xml="level/12_1.xml"/>
+      <mission_desc type="distance_mission" zone="forest" number="55" reward_coin="4300" zombie_config_xml="level/12_2.xml"/>
+      <mission_desc type="distance_time_mission" zone="cemetery" number="50" number2="100" reward_coin="4450" zombie_config_xml="level/12_3.xml"/>
+      <mission_desc type="guard_mission" zone="metro" number="5" number2="100" reward_coin="4600" zombie_config_xml="level/12_4.xml"/>
+    </level>
+    <level id="13">
+      <mission_desc type="collect_mission" zone="bankside" number="7" reward_coin="4750" zombie_config_xml="level/13_1.xml"/>
+      <mission_desc type="time_mission" zone="jailbreak" number="120" reward_coin="4900" zombie_config_xml="level/13_2.xml"/>
+      <mission_desc type="kill_mission" zone="drainage" number="100" reward_coin="5050" zombie_config_xml="level/13_3.xml"/>
+      <mission_desc type="hostage_mission" zone="country" number="55" reward_coin="5200" zombie_config_xml="level/13_4.xml"/>
+    </level>
+    <level id="14">
+      <mission_desc type="distance_mission" zone="lab" number="60" reward_coin="5350" zombie_config_xml="level/14_1.xml"/>
+      <mission_desc type="kill_time_mission" zone="forest" number="110" number2="120" reward_coin="5500" zombie_config_xml="level/14_2.xml"/>
+      <mission_desc type="distance_time_mission" zone="cemetery" number="60" number2="120" reward_coin="5650" zombie_config_xml="level/14_3.xml"/>
+      <mission_desc type="guard_mission" zone="hospital" number="5" number2="120" reward_coin="5800" zombie_config_xml="level/14_4.xml"/>
+    </level>
+    <level id="15">
+      <mission_desc type="hostage_mission" zone="country" number="60" reward_coin="5950" zombie_config_xml="level/15_1.xml"/>
+      <mission_desc type="time_mission" zone="prison" number="130" reward_coin="6100" zombie_config_xml="level/15_2.xml"/>
+      <mission_desc type="collect_time_mission" zone="bridge" number="8" number2="120" reward_coin="6250" zombie_config_xml="level/15_3.xml"/>
+      <mission_desc type="kill_mission" zone="metro" number="120" reward_coin="6400" zombie_config_xml="level/15_4.xml"/>
+    </level>
+    <level id="16">
+      <mission_desc type="kill_time_mission" zone="lab" number="120" number2="130" reward_coin="6600" zombie_config_xml="level/16_1.xml"/>
+      <mission_desc type="distance_mission" zone="cemetery" number="65" reward_coin="6800" zombie_config_xml="level/16_2.xml"/>
+      <mission_desc type="hostage_time_mission" zone="forest" number="60" number2="120" reward_coin="7000" zombie_config_xml="level/16_3.xml"/>
+      <mission_desc type="time_mission" zone="country" number="140" reward_coin="7200" zombie_config_xml="level/16_4.xml"/>
+    </level>
+    <level id="17">
+      <mission_desc type="kill_mission" zone="bankside" number="130" reward_coin="7400" zombie_config_xml="level/17_1.xml"/>
+      <mission_desc type="guard_mission" zone="metro" number="5" number2="130" reward_coin="7600" zombie_config_xml="level/17_2.xml"/>
+      <mission_desc type="hostage_mission" zone="country" number="65" reward_coin="7800" zombie_config_xml="level/17_3.xml"/>
+      <mission_desc type="distance_time_mission" zone="drainage" number="65" number2="130" reward_coin="8000" zombie_config_xml="level/17_4.xml"/>
+    </level>
+    <level id="18">
+      <mission_desc type="kill_time_mission" zone="jailbreak" number="140" number2="150" reward_coin="8200" zombie_config_xml="level/18_1.xml"/>
+      <mission_desc type="distance_mission" zone="bridge" number="70" reward_coin="8400" zombie_config_xml="level/18_2.xml"/>
+      <mission_desc type="time_mission" zone="cemetery" number="150" reward_coin="8600" zombie_config_xml="level/18_3.xml"/>
+      <mission_desc type="collect_time_mission" zone="drainage" number="9" number2="140" reward_coin="8800" zombie_config_xml="level/18_4.xml"/>
+    </level>
+    <level id="19">
+      <mission_desc type="kill_mission" zone="hospital" number="150" reward_coin="9000" zombie_config_xml="level/19_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="prison" number="70" number2="140" reward_coin="9200" zombie_config_xml="level/19_2.xml"/>
+      <mission_desc type="guard_mission" zone="forest" number="5" number2="140" reward_coin="9400" zombie_config_xml="level/19_3.xml"/>
+      <mission_desc type="hostage_time_mission" zone="lab" number="65" number2="130" reward_coin="9600" zombie_config_xml="level/19_4.xml"/>
+    </level>
+    <level id="20">
+      <mission_desc type="hostage_mission" zone="metro" number="70" reward_coin="9800" zombie_config_xml="level/20_1.xml"/>
+      <mission_desc type="kill_time_mission" zone="hospital" number="150" number2="160" reward_coin="10000" zombie_config_xml="level/20_2.xml"/>
+      <mission_desc type="distance_mission" zone="country" number="75" reward_coin="10200" zombie_config_xml="level/20_3.xml"/>
+      <mission_desc type="time_mission" zone="bridge" number="160" reward_coin="10400" zombie_config_xml="level/20_4.xml"/>
+    </level>
+    <level id="21">
+      <mission_desc type="kill_mission" zone="cemetery" number="150" reward_coin="10700" zombie_config_xml="level/21_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="prison" number="75" number2="150" reward_coin="11000" zombie_config_xml="level/21_2.xml"/>
+      <mission_desc type="guard_mission" zone="drainage" number="5" number2="150" reward_coin="11300" zombie_config_xml="level/21_3.xml"/>
+      <mission_desc type="time_mission" zone="bankside" number="150" reward_coin="11600" zombie_config_xml="level/21_4.xml"/>
+    </level>
+    <level id="22">
+      <mission_desc type="distance_mission" zone="metro" number="85" reward_coin="11900" zombie_config_xml="level/22_1.xml"/>
+      <mission_desc type="kill_time_mission" zone="bridge" number="160" number2="170" reward_coin="12200" zombie_config_xml="level/22_2.xml"/>
+      <mission_desc type="hostage_mission" zone="lab" number="80" reward_coin="12500" zombie_config_xml="level/22_3.xml"/>
+      <mission_desc type="collect_mission" zone="forest" number="10" reward_coin="12800" zombie_config_xml="level/22_4.xml"/>
+    </level>
+    <level id="23">
+      <mission_desc type="time_mission" zone="bankside" number="150" reward_coin="13100" zombie_config_xml="level/23_1.xml"/>
+      <mission_desc type="kill_mission" zone="jailbreak" number="160" reward_coin="13400" zombie_config_xml="level/23_2.xml"/>
+      <mission_desc type="distance_time_mission" zone="country" number="80" number2="160" reward_coin="13700" zombie_config_xml="level/23_3.xml"/>
+      <mission_desc type="distance_mission" zone="lab" number="90" reward_coin="14000" zombie_config_xml="level/23_4.xml"/>
+    </level>
+    <level id="24">
+      <mission_desc type="kill_time_mission" zone="prison" number="170" number2="180" reward_coin="14300" zombie_config_xml="level/24_1.xml"/>
+      <mission_desc type="distance_mission" zone="hospital" number="95" reward_coin="14600" zombie_config_xml="level/24_2.xml"/>
+      <mission_desc type="guard_mission" zone="country" number="5" number2="150" reward_coin="14900" zombie_config_xml="level/24_3.xml"/>
+      <mission_desc type="hostage_mission" zone="drainage" number="85" reward_coin="15200" zombie_config_xml="level/24_4.xml"/>
+    </level>
+    <level id="25">
+      <mission_desc type="collect_mission" zone="cemetery" number="11" reward_coin="15500" zombie_config_xml="level/25_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="forest" number="90" number2="180" reward_coin="15800" zombie_config_xml="level/25_2.xml"/>
+      <mission_desc type="kill_mission" zone="hospital" number="180" reward_coin="16100" zombie_config_xml="level/25_3.xml"/>
+      <mission_desc type="time_mission" zone="lab" number="150" reward_coin="16400" zombie_config_xml="level/25_4.xml"/>
+    </level>
+    <level id="26">
+      <mission_desc type="kill_mission" zone="metro" number="180" reward_coin="16800" zombie_config_xml="level/26_1.xml"/>
+      <mission_desc type="kill_time_mission" zone="drainage" number="180" number2="190" reward_coin="17200" zombie_config_xml="level/26_2.xml"/>
+      <mission_desc type="hostage_time_mission" zone="jailbreak" number="80" number2="160" reward_coin="17600" zombie_config_xml="level/26_3.xml"/>
+      <mission_desc type="collect_time_mission" zone="bankside" number="12" number2="180" reward_coin="18000" zombie_config_xml="level/26_4.xml"/>
+    </level>
+    <level id="27">
+      <mission_desc type="distance_time_mission" zone="prison" number="100" number2="200" reward_coin="18400" zombie_config_xml="level/27_1.xml"/>
+      <mission_desc type="guard_mission" zone="hospital" number="5" number2="130" reward_coin="18800" zombie_config_xml="level/27_2.xml"/>
+      <mission_desc type="time_mission" zone="forest" number="150" reward_coin="19200" zombie_config_xml="level/27_3.xml"/>
+      <mission_desc type="collect_mission" zone="lab" number="13" reward_coin="19600" zombie_config_xml="level/27_4.xml"/>
+    </level>
+    <level id="28">
+      <mission_desc type="hostage_mission" zone="bridge" number="90" reward_coin="20000" zombie_config_xml="level/28_1.xml"/>
+      <mission_desc type="time_mission" zone="cemetery" number="160" reward_coin="20400" zombie_config_xml="level/28_2.xml"/>
+      <mission_desc type="distance_mission" zone="metro" number="105" reward_coin="20800" zombie_config_xml="level/28_3.xml"/>
+      <mission_desc type="kill_time_mission" zone="lab" number="190" number2="200" reward_coin="21200" zombie_config_xml="level/28_4.xml"/>
+    </level>
+    <level id="29">
+      <mission_desc type="guard_mission" zone="bankside" number="5" number2="140" reward_coin="21600" zombie_config_xml="level/29_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="jailbreak" number="105" number2="210" reward_coin="22000" zombie_config_xml="level/29_2.xml"/>
+      <mission_desc type="distance_mission" zone="country" number="110" reward_coin="22400" zombie_config_xml="level/29_3.xml"/>
+      <mission_desc type="kill_mission" zone="drainage" number="200" reward_coin="22800" zombie_config_xml="level/29_4.xml"/>
+    </level>
+    <level id="30">
+      <mission_desc type="hostage_mission" zone="hospital" number="100" reward_coin="23200" zombie_config_xml="level/30_1.xml"/>
+      <mission_desc type="collect_time_mission" zone="lab" number="13" number2="180" reward_coin="23600" zombie_config_xml="level/30_2.xml"/>
+      <mission_desc type="time_mission" zone="prison" number="160" reward_coin="24000" zombie_config_xml="level/30_3.xml"/>
+      <mission_desc type="kill_mission" zone="cemetery" number="200" reward_coin="24400" zombie_config_xml="level/30_4.xml"/>
+    </level>
+    <level id="31">
+      <mission_desc type="collect_mission" zone="jailbreak" number="13" reward_coin="25000" zombie_config_xml="level/31_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="bankside" number="110" number2="220" reward_coin="25500" zombie_config_xml="level/31_2.xml"/>
+      <mission_desc type="kill_time_mission" zone="country" number="200" number2="210" reward_coin="26000" zombie_config_xml="level/31_3.xml"/>
+      <mission_desc type="kill_mission" zone="drainage" number="210" reward_coin="26500" zombie_config_xml="level/31_4.xml"/>
+    </level>
+    <level id="32">
+      <mission_desc type="kill_mission" zone="prison" number="220" reward_coin="27000" zombie_config_xml="level/32_1.xml"/>
+      <mission_desc type="time_mission" zone="forest" number="150" reward_coin="27500" zombie_config_xml="level/32_2.xml"/>
+      <mission_desc type="guard_mission" zone="metro" number="5" number2="150" reward_coin="28000" zombie_config_xml="level/32_3.xml"/>
+      <mission_desc type="hostage_mission" zone="lab" number="105" reward_coin="28500" zombie_config_xml="level/32_4.xml"/>
+    </level>
+    <level id="33">
+      <mission_desc type="kill_time_mission" zone="jailbreak" number="240" number2="240" reward_coin="29000" zombie_config_xml="level/33_1.xml"/>
+      <mission_desc type="distance_time_mission" zone="bankside" number="110" number2="220" reward_coin="29500" zombie_config_xml="level/33_2.xml"/>
+      <mission_desc type="hostage_time_mission" zone="metro" number="90" number2="180" reward_coin="30000" zombie_config_xml="level/33_3.xml"/>
+      <mission_desc type="distance_mission" zone="drainage" number="115" reward_coin="30500" zombie_config_xml="level/33_4.xml"/>
+    </level>
+    <level id="34">
+      <mission_desc type="time_mission" zone="cemetery" number="160" reward_coin="31000" zombie_config_xml="level/34_1.xml"/>
+      <mission_desc type="hostage_mission" zone="hospital" number="110" reward_coin="31500" zombie_config_xml="level/34_2.xml"/>
+      <mission_desc type="kill_mission" zone="forest" number="250" reward_coin="32000" zombie_config_xml="level/34_3.xml"/>
+      <mission_desc type="collect_mission" zone="lab" number="14" reward_coin="32500" zombie_config_xml="level/34_4.xml"/>
+    </level>
+    <level id="35">
+      <mission_desc type="guard_mission" zone="prison" number="5" number2="160" reward_coin="33000" zombie_config_xml="level/35_1.xml"/>
+      <mission_desc type="distance_mission" zone="bankside" number="120" reward_coin="35000" zombie_config_xml="level/35_2.xml"/>
+      <mission_desc type="time_mission" zone="country" number="180" reward_coin="37000" zombie_config_xml="level/35_3.xml"/>
+      <mission_desc type="kill_mission" zone="drainage" number="300" reward_coin="39000" zombie_config_xml="level/35_4.xml"/>
+    </level>
+  </levels>
+</config>

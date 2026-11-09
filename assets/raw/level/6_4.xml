@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<battle_field>
+  <zombie_type zombie_name="zombie_14" update_time="2" capacity="20"/>
+  <zombie_type zombie_name="zombie_8" update_time="2" capacity="20"/>
+  <zombie_type zombie_name="zombie_14" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="zombie_8" update_time="3" capacity="20"/>
+</battle_field>

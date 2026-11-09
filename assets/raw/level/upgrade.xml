@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<upgrade>
+	
+	<gun name="laser_sword" sprite_name_1="qiubang">
+		<level id="0" power="8.5" speed="6.0" crit="6.0" damage="330" min_interval="0.3" crit_rate="0.12" next_coin="0" next_crystal="160" />
+		<level id="1" power="9.5" speed="6.5" crit="6.5" damage="445" min_interval="0.26" crit_rate="0.13" next_coin="0" next_crystal="240" />
+		<level id="2" power="10.5" speed="6.5" crit="7.0" damage="600" min_interval="0.26" crit_rate="0.14" next_coin="0" next_crystal="400" />
+		<level id="3" power="11.5" speed="7.0" crit="7.5" damage="810" min_interval="0.23" crit_rate="0.15" next_coin="0" next_crystal="400" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="-3" anchor_y_1="-25"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="4" anchor_y_1="-40"/>
+	</gun>
+	
+	<gun name="axe" sprite_name_1="fuzi">
+		<level id="0" power="6.5" speed="4.0" crit="4.5" damage="185" min_interval="0.6" crit_rate="0.09" next_coin="12000" next_crystal="0" />
+		<level id="1" power="7.5" speed="4.0" crit="5.0" damage="245" min_interval="0.6" crit_rate="0.1" next_coin="18000" next_crystal="0" />
+		<level id="2" power="8.5" speed="4.0" crit="5.5" damage="330" min_interval="0.6" crit_rate="0.11" next_coin="30000" next_crystal="0" />
+		<level id="3" power="9.5" speed="4.5" crit="6.0" damage="445" min_interval="0.5" crit_rate="0.12" next_coin="30000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="4" anchor_y_1="6"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="4" anchor_y_1="6"/>
+	</gun>
+	
+	<gun name="guitar" sprite_name_1="fuzi">
+		<level id="0" power="2.5" speed="4.5" crit="5.0" damage="60" min_interval="0.5" crit_rate="0.1" next_coin="0" next_crystal="15" />
+		<level id="1" power="3.5" speed="4.5" crit="5.5" damage="80" min_interval="0.5" crit_rate="0.11" next_coin="0" next_crystal="20" />
+		<level id="2" power="4.5" speed="4.5" crit="6.0" damage="105" min_interval="0.5" crit_rate="0.12" next_coin="0" next_crystal="30" />
+		<level id="3" power="5.5" speed="5.0" crit="6.5" damage="140" min_interval="0.4" crit_rate="0.13" next_coin="0" next_crystal="30" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="-10" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="-10" />
+	</gun>
+	
+	<gun name="wrench" sprite_name_1="qiubang">
+		<level id="0" power="1.0" speed="5.0" crit="4.0" damage="30" min_interval="0.4" crit_rate="0.08" next_coin="1200" next_crystal="0" />
+		<level id="1" power="1.5" speed="5.0" crit="4.5" damage="40" min_interval="0.4" crit_rate="0.09" next_coin="1600" next_crystal="0" />
+		<level id="2" power="2.0" speed="5.0" crit="5.0" damage="50" min_interval="0.4" crit_rate="0.1" next_coin="2500" next_crystal="0" />
+		<level id="3" power="2.5" speed="5.5" crit="5.5" damage="65" min_interval="0.35" crit_rate="0.11" next_coin="2500" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="-6" anchor_y_1="-2"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="-6" anchor_y_1="-10"/>
+	</gun>
+	
+	<gun name="katana" sprite_name_1="qiubang">
+		<level id="0" power="4.0" speed="4.5" crit="5.5" damage="90" min_interval="0.5" crit_rate="0.11" next_coin="5000" next_crystal="0" />
+		<level id="1" power="5.0" speed="4.5" crit="6.0" damage="120" min_interval="0.5" crit_rate="0.12" next_coin="9000" next_crystal="0" />
+		<level id="2" power="6.0" speed="4.5" crit="6.5" damage="160" min_interval="0.5" crit_rate="0.13" next_coin="18000" next_crystal="0" />
+		<level id="3" power="7.0" speed="5.0" crit="7.0" damage="215" min_interval="0.4" crit_rate="0.14" next_coin="18000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="8" anchor_y_1="-10"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="14" anchor_y_1="4"/>
+	</gun>
+	
+	<gun name="p220" sprite_name_1="gun02">
+		<level id="0" power="0.5" speed="4.5" crit="5.0" damage="25" min_interval="0.5" crit_rate="0.1" next_coin="1000" next_crystal="0" />
+		<level id="1" power="1.0" speed="4.5" crit="5.5" damage="30" min_interval="0.5" crit_rate="0.11" next_coin="1500" next_crystal="0" />
+		<level id="2" power="1.5" speed="4.5" crit="6.0" damage="40" min_interval="0.5" crit_rate="0.12" next_coin="2000" next_crystal="0" />
+		<level id="3" power="2.0" speed="5.0" crit="6.5" damage="50" min_interval="0.4" crit_rate="0.13" next_coin="2000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="3.00" anchor_y_1="-5.00" ge_offset_y="-4"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="3.00" anchor_y_1="-5.00" ge_offset_y="-4"/>
+	</gun>
+	
+	<gun name="desert_eagle" sprite_name_1="gun02">
+		<level id="0" power="1.5" speed="4.5" crit="5.5" damage="40" min_interval="0.5" crit_rate="0.11" next_coin="1500" next_crystal="0" />
+		<level id="1" power="2.0" speed="4.5" crit="6.0" damage="50" min_interval="0.5" crit_rate="0.12" next_coin="2500" next_crystal="0" />
+		<level id="2" power="2.5" speed="4.5" crit="6.5" damage="65" min_interval="0.5" crit_rate="0.13" next_coin="4000" next_crystal="0" />
+		<level id="3" power="3.5" speed="5.0" crit="7.0" damage="85" min_interval="0.4" crit_rate="0.14" next_coin="4000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-2.00" ge_offset_x="15"/>
+		<change_look min_lv="3" look_index="2" anchor_y_1="-2.00" ge_offset_x="15"/>
+	</gun>
+	
+	<gun name="desert_eagle_gold" sprite_name_1="gun02">
+		<level id="0" power="2.0" speed="4.5" crit="7.5" damage="50" min_interval="0.5" crit_rate="0.15" next_coin="0" next_crystal="20" />
+		<level id="1" power="2.5" speed="4.5" crit="8.0" damage="65" min_interval="0.5" crit_rate="0.16" next_coin="0" next_crystal="30" />
+		<level id="2" power="3.5" speed="4.5" crit="8.5" damage="85" min_interval="0.5" crit_rate="0.17" next_coin="0" next_crystal="50" />
+		<level id="3" power="4.5" speed="5.0" crit="9.0" damage="110" min_interval="0.4" crit_rate="0.18" next_coin="0" next_crystal="50" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-4.00" ge_offset_x="15"/>
+		<change_look min_lv="3" look_index="2" anchor_y_1="-4.00" ge_offset_x="15"/>
+	</gun>
+	
+	<gun name="ak47" sprite_name_1="gun03">
+		<level id="0" power="2.5" speed="7.0" crit="3.0" damage="60" min_interval="0.23" crit_rate="0.06" next_coin="8000" next_crystal="0" />
+		<level id="1" power="3.5" speed="7.0" crit="3.5" damage="80" min_interval="0.23" crit_rate="0.07" next_coin="15000" next_crystal="0" />
+		<level id="2" power="4.5" speed="7.0" crit="4.0" damage="105" min_interval="0.23" crit_rate="0.08" next_coin="20000" next_crystal="0" />
+		<level id="3" power="5.5" speed="7.5" crit="4.5" damage="140" min_interval="0.2" crit_rate="0.09" next_coin="20000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="2.00" anchor_y_1="-10.00" ge_offset_y="7"/>
+	</gun>
+	
+	<gun name="ak47_gold" sprite_name_1="gun03">
+		<level id="0" power="3.0" speed="7.0" crit="6.0" damage="70" min_interval="0.23" crit_rate="0.12" next_coin="0" next_crystal="60" />
+		<level id="1" power="4.0" speed="7.0" crit="6.5" damage="90" min_interval="0.23" crit_rate="0.13" next_coin="0" next_crystal="90" />
+		<level id="2" power="5.0" speed="7.0" crit="7.0" damage="120" min_interval="0.23" crit_rate="0.14" next_coin="0" next_crystal="150" />
+		<level id="3" power="6.0" speed="7.5" crit="7.5" damage="160" min_interval="0.2" crit_rate="0.15" next_coin="0" next_crystal="150" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="5.00" anchor_y_1="-12.00" ge_offset_y="7" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="-2.00" anchor_y_1="-12.00" ge_offset_y="7"/>
+	</gun>
+	
+	<gun name="uzi" sprite_name_1="gunwuzi">
+		<level id="0" power="0.5" speed="8.5" crit="0.5" damage="20" min_interval="0.16" crit_rate="0.01" next_coin="3000" next_crystal="0" />
+		<level id="1" power="0.5" speed="9.0" crit="1.0" damage="25" min_interval="0.14" crit_rate="0.02" next_coin="4500" next_crystal="0" />
+		<level id="2" power="1.0" speed="9.0" crit="1.5" damage="30" min_interval="0.14" crit_rate="0.03" next_coin="8000" next_crystal="0" />
+		<level id="3" power="1.5" speed="9.5" crit="2.0" damage="40" min_interval="0.12" crit_rate="0.04" next_coin="8000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="3.00" anchor_y_1="4.00" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="2.00" anchor_y_1="0.00" ge_offset_x="13"/>
+	</gun>
+	
+	<gun name="p90" sprite_name_1="gun04">
+		<level id="0" power="1.0" speed="8.5" crit="1.0" damage="35" min_interval="0.16" crit_rate="0.02" next_coin="8000" next_crystal="0" />
+		<level id="1" power="1.5" speed="9.0" crit="1.5" damage="45" min_interval="0.14" crit_rate="0.03" next_coin="12000" next_crystal="0" />
+		<level id="2" power="2.5" speed="9.0" crit="2.0" damage="60" min_interval="0.14" crit_rate="0.04" next_coin="20000" next_crystal="0" />
+		<level id="3" power="3.5" speed="9.5" crit="2.5" damage="80" min_interval="0.12" crit_rate="0.05" next_coin="20000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="2.00" anchor_y_1="0.00" ge_offset_x="5"/>
+	</gun>
+	
+	<gun name="aug" sprite_name_1="Aug">
+		<level id="0" power="6.5" speed="7.0" crit="4.0" damage="195" min_interval="0.23" crit_rate="0.09" next_coin="35000" next_crystal="0" />
+		<level id="1" power="7.5" speed="7.0" crit="4.5" damage="260" min_interval="0.23" crit_rate="0.1" next_coin="55000" next_crystal="0" />
+		<level id="2" power="8.5" speed="7.0" crit="5.0" damage="350" min_interval="0.23" crit_rate="0.11" next_coin="90000" next_crystal="0" />
+		<level id="3" power="9.5" speed="7.5" crit="5.5" damage="470" min_interval="0.2" crit_rate="0.12" next_coin="90000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-2.00" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="-9.00" anchor_y_1="-2.00"/>
+	</gun>
+	
+	<gun name="colt_anaconda" sprite_name_1="gunmailin">
+		<level id="0" power="4.5" speed="4.5" crit="7.0" damage="110" min_interval="0.5" crit_rate="0.14" next_coin="8000" next_crystal="0" />
+		<level id="1" power="5.5" speed="4.5" crit="7.5" damage="145" min_interval="0.5" crit_rate="0.15" next_coin="12000" next_crystal="0" />
+		<level id="2" power="6.5" speed="4.5" crit="8.0" damage="195" min_interval="0.5" crit_rate="0.16" next_coin="18000" next_crystal="0" />
+		<level id="3" power="7.5" speed="5.0" crit="8.5" damage="260" min_interval="0.4" crit_rate="0.17" next_coin="18000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="3.00" anchor_y_1="-10.00" ge_offset_y="-2" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="2.00" anchor_y_1="-10.00" ge_offset_x="15" ge_offset_y="-5" />
+	</gun>
+	
+	<gun name="m16" sprite_name_1="gun04">
+		<level id="0" power="4.5" speed="7.0" crit="3.5" damage="110" min_interval="0.23" crit_rate="0.07" next_coin="18000" next_crystal="0" />
+		<level id="1" power="5.5" speed="7.0" crit="4.0" damage="145" min_interval="0.23" crit_rate="0.08" next_coin="25000" next_crystal="0" />
+		<level id="2" power="6.5" speed="7.0" crit="4.5" damage="195" min_interval="0.23" crit_rate="0.09" next_coin="45000" next_crystal="0" />
+		<level id="3" power="7.5" speed="7.5" crit="5.0" damage="260" min_interval="0.2" crit_rate="0.1" next_coin="45000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" />
+	</gun>
+	
+	<gun name="m4" sprite_name_1="gun04">
+		<level id="0" power="8.5" speed="7.5" crit="4.5" damage="350" min_interval="0.2" crit_rate="0.09" next_coin="80000" next_crystal="0" />
+		<level id="1" power="9.5" speed="7.5" crit="5.0" damage="470" min_interval="0.2" crit_rate="0.1" next_coin="120000" next_crystal="0" />
+		<level id="2" power="10.5" speed="7.5" crit="5.5" damage="630" min_interval="0.2" crit_rate="0.11" next_coin="200000" next_crystal="0" />
+		<level id="3" power="11.5" speed="8.0" crit="6.0" damage="850" min_interval="0.18" crit_rate="0.12" next_coin="200000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" ge_offset_x="4" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-8.00" ge_offset_x="4"  ge_offset_y="-8"/>
+	</gun>
+	
+	<gun name="mp5" sprite_name_1="gun04">
+		<level id="0" power="2.5" speed="9.0" crit="1.5" damage="60" min_interval="0.14" crit_rate="0.03" next_coin="18000" next_crystal="0" />
+		<level id="1" power="3.5" speed="9.5" crit="2.0" damage="80" min_interval="0.12" crit_rate="0.04" next_coin="24000" next_crystal="0" />
+		<level id="2" power="4.5" speed="9.5" crit="2.5" damage="105" min_interval="0.12" crit_rate="0.05" next_coin="40000" next_crystal="0" />
+		<level id="3" power="5.5" speed="10" crit="3.0" damage="140" min_interval="0.11" crit_rate="0.06" next_coin="40000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-5.00" ge_offset_x="17" ge_offset_y="-5" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-6.00" ge_offset_x="17"  ge_offset_y="-8"/>
+	</gun>
+	
+	<gun name="m870" sprite_name_1="gun05" sprite_name_2="gun050">
+		<level id="0" power="4.0" speed="1.5" crit="3.5" damage="90" min_interval="1.4" crit_rate="0.07" next_coin="7500" next_crystal="0" />
+		<level id="1" power="5.0" speed="1.5" crit="4.0" damage="120" min_interval="1.4" crit_rate="0.08" next_coin="12000" next_crystal="0" />
+		<level id="2" power="6.0" speed="1.5" crit="4.5" damage="160" min_interval="1.4" crit_rate="0.09" next_coin="18000" next_crystal="0" />
+		<level id="3" power="7.0" speed="2.0" crit="5.0" damage="215" min_interval="1.2" crit_rate="0.1" next_coin="18000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1"  />
+		<change_look min_lv="3" look_index="2" />
+	</gun>
+	
+	<gun name="flamethrower" sprite_name_1="gunfire">
+		<level id="0" power="5.5" speed="4.0" crit="4.5" damage="145" min_interval="0.6" crit_rate="0.09" next_coin="35000" next_crystal="0" />
+		<level id="1" power="6.5" speed="4.0" crit="5.0" damage="195" min_interval="0.6" crit_rate="0.1" next_coin="50000" next_crystal="0" />
+		<level id="2" power="7.5" speed="4.0" crit="5.5" damage="260" min_interval="0.6" crit_rate="0.11" next_coin="80000" next_crystal="0" />
+		<level id="3" power="8.5" speed="4.5" crit="6.0" damage="350" min_interval="0.5" crit_rate="0.12" next_coin="80000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-14.00" ge_offset_x="15"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="15.00" anchor_y_1="-15.00" ge_offset_x="15"/>
+	</gun>
+	
+	<gun name="spas12" sprite_name_1="gun05" sprite_name_2="gun050">
+		<level id="0" power="6.5" speed="1.5" crit="4.0" damage="185" min_interval="1.4" crit_rate="0.08" next_coin="0" next_crystal="50" />
+		<level id="1" power="7.5" speed="1.5" crit="4.5" damage="245" min_interval="1.4" crit_rate="0.09" next_coin="0" next_crystal="75" />
+		<level id="2" power="8.5" speed="1.5" crit="5.0" damage="330" min_interval="1.4" crit_rate="0.1" next_coin="0" next_crystal="120" />
+		<level id="3" power="9.5" speed="2.0" crit="5.5" damage="445" min_interval="1.2" crit_rate="0.11" next_coin="0" next_crystal="120" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="5.00" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="7.00" anchor_y_1="-5.00" />
+	</gun>
+	
+	<gun name="freezer" sprite_name_1="gunico">
+		<level id="0" power="6.5" speed="4.0" crit="4.0" damage="185" min_interval="0.6" crit_rate="0.08" next_coin="0" next_crystal="150" />
+		<level id="1" power="7.5" speed="4.0" crit="4.5" damage="245" min_interval="0.6" crit_rate="0.09" next_coin="0" next_crystal="200" />
+		<level id="2" power="8.5" speed="4.0" crit="5.0" damage="330" min_interval="0.6" crit_rate="0.1" next_coin="0" next_crystal="350" />
+		<level id="3" power="9.5" speed="4.5" crit="5.5" damage="445" min_interval="0.5" crit_rate="0.11" next_coin="0" next_crystal="350" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="1.00" />
+		<change_look min_lv="3" look_index="2" anchor_x_1="30.00" anchor_y_1="-18.00" ge_offset_x="25" ge_offset_y="-8"/>
+	</gun>
+	
+	<gun name="m200" sprite_name_1="gun06">
+		<level id="0" power="7.5" speed="3.0" crit="10.0" damage="245" min_interval="0.85" crit_rate="0.2" next_coin="50000" next_crystal="0" />
+		<level id="1" power="8.5" speed="3.0" crit="10.5" damage="330" min_interval="0.85" crit_rate="0.21" next_coin="75000" next_crystal="0" />
+		<level id="2" power="9.5" speed="3.0" crit="11.0" damage="445" min_interval="0.85" crit_rate="0.22" next_coin="120000" next_crystal="0" />
+		<level id="3" power="10.5" speed="3.5" crit="11.5" damage="600" min_interval="0.7" crit_rate="0.23" next_coin="120000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-10.00" ge_offset_y="-10"/>
+	</gun>
+	
+	<gun name="milkor_mgl" sprite_name_1="gun06">
+		<level id="0" power="8.5" speed="1.5" crit="2.0" damage="330" min_interval="1.4" crit_rate="0.04" next_coin="30000" next_crystal="0" />
+		<level id="1" power="9.5" speed="1.5" crit="2.5" damage="445" min_interval="1.4" crit_rate="0.05" next_coin="45000" next_crystal="0" />
+		<level id="2" power="10.5" speed="1.5" crit="3.0" damage="600" min_interval="1.4" crit_rate="0.06" next_coin="75000" next_crystal="0" />
+		<level id="3" power="11.5" speed="2.0" crit="3.5" damage="810" min_interval="1.2" crit_rate="0.07" next_coin="75000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-3.00" ge_offset_y="-3"/>
+	</gun>
+	
+	<gun name="saw" sprite_name_1="dianju">
+		<level id="0" power="5.0" speed="6.0" crit="2.5" damage="120" min_interval="0.3" crit_rate="0.05" next_coin="24000" next_crystal="0" />
+		<level id="1" power="6.0" speed="6.0" crit="3.0" damage="160" min_interval="0.3" crit_rate="0.06" next_coin="36000" next_crystal="0" />
+		<level id="2" power="7.0" speed="6.0" crit="3.5" damage="215" min_interval="0.3" crit_rate="0.07" next_coin="75000" next_crystal="0" />
+		<level id="3" power="8.0" speed="6.5" crit="4.0" damage="290" min_interval="0.26" crit_rate="0.08" next_coin="75000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="19.00" anchor_y_1="-2.00"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="20.00" anchor_y_1="-3.00" />
+	</gun>
+	
+	<gun name="rocket" sprite_name_1="RPG">
+		<level id="0" power="9.5" speed="2.5" crit="3.0" damage="445" min_interval="1.0" crit_rate="0.06" next_coin="0" next_crystal="250" />
+		<level id="1" power="10.5" speed="3.0" crit="3.5" damage="600" min_interval="0.85" crit_rate="0.07" next_coin="0" next_crystal="350" />
+		<level id="2" power="11.5" speed="3.0" crit="4.0" damage="810" min_interval="0.85" crit_rate="0.08" next_coin="0" next_crystal="600" />
+		<level id="3" power="12.0" speed="3.5" crit="4.5" damage="1090" min_interval="0.7" crit_rate="0.09" next_coin="0" next_crystal="600" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-15.00" ge_offset_y="-15"/>
+	</gun>
+	
+	<gun name="m134" sprite_name_1="gunGelin">
+		<level id="0" power="7.5" speed="10.5" crit="0.5" damage="245" min_interval="0.1" crit_rate="0.01" next_coin="180000" next_crystal="0" />
+		<level id="1" power="8.5" speed="11.0" crit="1.0" damage="330" min_interval="0.08" crit_rate="0.02" next_coin="250000" next_crystal="0" />
+		<level id="2" power="9.5" speed="11.5" crit="1.5" damage="445" min_interval="0.07" crit_rate="0.03" next_coin="400000" next_crystal="0" />
+		<level id="3" power="10.5" speed="12.0" crit="2.0" damage="600" min_interval="0.06" crit_rate="0.04" next_coin="400000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_x_1="15.00" anchor_y_1="-18.00" ge_offset_x="10" ge_offset_y="-10"/>
+		<change_look min_lv="3" look_index="2" anchor_x_1="40.00" anchor_y_1="-25.00" ge_offset_x="33"  ge_offset_y="-10" />
+	</gun>
+	
+	<gun name="sonic" sprite_name_1="gunJiguang">
+		<level id="0" power="8.5" speed="4.5" crit="6.0" damage="330" min_interval="0.5" crit_rate="0.12" next_coin="100000" next_crystal="0" />
+		<level id="1" power="9.5" speed="4.5" crit="6.5" damage="445" min_interval="0.5" crit_rate="0.13" next_coin="150000" next_crystal="0" />
+		<level id="2" power="10.5" speed="4.5" crit="7.0" damage="600" min_interval="0.5" crit_rate="0.14" next_coin="250000" next_crystal="0" />
+		<level id="3" power="11.5" speed="5.0" crit="7.5" damage="810" min_interval="0.4" crit_rate="0.15" next_coin="250000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-3.00" ge_offset_y="-3"/>
+	</gun>
+	
+	<gun name="laser" sprite_name_1="gunJiguang">
+		<level id="0" power="8.0" speed="7.5" crit="3.0" damage="290" min_interval="0.2" crit_rate="0.06" next_coin="250000" next_crystal="0" />
+		<level id="1" power="9.0" speed="8.0" crit="3.5" damage="390" min_interval="0.18" crit_rate="0.07" next_coin="350000" next_crystal="0" />
+		<level id="2" power="10.0" speed="8.0" crit="4.0" damage="525" min_interval="0.18" crit_rate="0.08" next_coin="600000" next_crystal="0" />
+		<level id="3" power="11.0" speed="8.5" crit="4.5" damage="705" min_interval="0.16" crit_rate="0.09" next_coin="600000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-3.00" ge_offset_x="2" ge_offset_y="-4" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-10.00" ge_offset_x="10"  ge_offset_y="-5"/>
+	</gun>
+	
+	<gun name="thunder" sprite_name_1="gunJiguang">
+		<level id="0" power="8.0" speed="8.0" crit="4.0" damage="290" min_interval="0.18" crit_rate="0.08" next_coin="0" next_crystal="900" />
+		<level id="1" power="9.0" speed="8.5" crit="4.5" damage="390" min_interval="0.16" crit_rate="0.09" next_coin="0" next_crystal="1500" />
+		<level id="2" power="10.0" speed="9.0" crit="5.0" damage="525" min_interval="0.14" crit_rate="0.1" next_coin="0" next_crystal="2500" />
+		<level id="3" power="11.0" speed="9.5" crit="5.5" damage="705" min_interval="0.12" crit_rate="0.11" next_coin="0" next_crystal="2500" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-3.00" ge_offset_x="2" ge_offset_y="-4" />
+		<change_look min_lv="3" look_index="2" anchor_y_1="-5.00" ge_offset_x="20"  ge_offset_y="-10"/>
+	</gun>
+	
+	<gun name="bubble" sprite_name_1="gun02">
+		<level id="0" power="6.0" speed="5.0" crit="5.0" damage="160" min_interval="0.4" crit_rate="0.1" next_coin="16000" next_crystal="0" />
+		<level id="1" power="7.0" speed="5.0" crit="5.5" damage="215" min_interval="0.4" crit_rate="0.11" next_coin="24000" next_crystal="0" />
+		<level id="2" power="8.0" speed="5.0" crit="6.0" damage="290" min_interval="0.4" crit_rate="0.12" next_coin="40000" next_crystal="0" />
+		<level id="3" power="9.0" speed="5.5" crit="6.5" damage="390" min_interval="0.35" crit_rate="0.13" next_coin="40000" next_crystal="0" />
+		
+		<change_look min_lv="1" look_index="1" anchor_y_1="-2.00" ge_offset_x="15"/>
+		<change_look min_lv="3" look_index="2" anchor_y_1="-2.00" ge_offset_x="15"/>
+	</gun>
+	
+	<soldier name="soldier_1" >
+		<blood_level id="0" blood="250" pval="1.0" next_potion="3" />
+		<blood_level id="1" blood="300" pval="1.5" next_potion="3" />
+		<blood_level id="2" blood="350" pval="2.0" next_potion="3" />
+		<blood_level id="3" blood="400" pval="2.5" next_potion="3" />
+		
+		<speed_level id="0" speed="150" pval="2.0" next_potion="1" />
+		<speed_level id="1" speed="155" pval="2.5" next_potion="1" />
+		<speed_level id="2" speed="160" pval="3.0" next_potion="1" />
+		<speed_level id="3" speed="165" pval="3.5" next_potion="1" />
+		
+		<armor_level id="0" armor="0.03" pval="1.0" next_potion="2" />
+		<armor_level id="1" armor="0.06" pval="2.0" next_potion="2" />
+		<armor_level id="2" armor="0.09" pval="3.0" next_potion="2" />
+		<armor_level id="3" armor="0.12" pval="4.0" next_potion="2" />
+	</soldier>
+	
+	<soldier name="soldier_2" >
+		<blood_level id="0" blood="300" pval="1.0" next_potion="2" />
+		<blood_level id="1" blood="325" pval="1.5" next_potion="2" />
+		<blood_level id="2" blood="350" pval="2.0" next_potion="2" />
+		<blood_level id="3" blood="375" pval="2.5" next_potion="2" />
+		
+		<speed_level id="0" speed="210" pval="7.0" next_potion="3" />
+		<speed_level id="1" speed="225" pval="8.0" next_potion="3" />
+		<speed_level id="2" speed="240" pval="9.0" next_potion="3" />
+		<speed_level id="3" speed="255" pval="10.0" next_potion="3" />
+		
+		<armor_level id="0" armor="0.02" pval="1.0" next_potion="1" />
+		<armor_level id="1" armor="0.04" pval="1.5" next_potion="1" />
+		<armor_level id="2" armor="0.06" pval="2.0" next_potion="1" />
+		<armor_level id="3" armor="0.08" pval="2.5" next_potion="1" />
+	</soldier>
+	
+	<soldier name="soldier_3" >
+		<blood_level id="0" blood="500" pval="3.0" next_potion="3" />
+		<blood_level id="1" blood="550" pval="3.5" next_potion="3" />
+		<blood_level id="2" blood="600" pval="4.0" next_potion="3" />
+		<blood_level id="3" blood="650" pval="4.5" next_potion="3" />
+		
+		<speed_level id="0" speed="130" pval="1.0" next_potion="1" />
+		<speed_level id="1" speed="135" pval="1.5" next_potion="1" />
+		<speed_level id="2" speed="140" pval="2.0" next_potion="1" />
+		<speed_level id="3" speed="145" pval="2.5" next_potion="1" />
+		
+		<armor_level id="0" armor="0.1" pval="3.0" next_potion="4" />
+		<armor_level id="1" armor="0.16" pval="5.0" next_potion="4" />
+		<armor_level id="2" armor="0.22" pval="7.0" next_potion="4" />
+		<armor_level id="3" armor="0.28" pval="9.0" next_potion="4" />
+	</soldier>
+	
+	<soldier name="soldier_4" >
+		<blood_level id="0" blood="900" pval="6.5" next_potion="5" />
+		<blood_level id="1" blood="1000" pval="7.0" next_potion="5" />
+		<blood_level id="2" blood="1100" pval="7.5" next_potion="5" />
+		<blood_level id="3" blood="1200" pval="8.0" next_potion="5" />
+		
+		<speed_level id="0" speed="180" pval="4.0" next_potion="2" />
+		<speed_level id="1" speed="190" pval="5.0" next_potion="2" />
+		<speed_level id="2" speed="200" pval="6.0" next_potion="2" />
+		<speed_level id="3" speed="210" pval="7.0" next_potion="2" />
+		
+		<armor_level id="0" armor="0.06" pval="2.0" next_potion="3" />
+		<armor_level id="1" armor="0.1" pval="3.0" next_potion="3" />
+		<armor_level id="2" armor="0.14" pval="4.5" next_potion="3" />
+		<armor_level id="3" armor="0.18" pval="6.0" next_potion="3" />
+	</soldier>
+	
+	<soldier name="soldier_5" >
+		<blood_level id="0" blood="1000" pval="6.5" next_potion="5" />
+		<blood_level id="1" blood="1100" pval="7.0" next_potion="5" />
+		<blood_level id="2" blood="1200" pval="7.5" next_potion="5" />
+		<blood_level id="3" blood="1300" pval="8.0" next_potion="5" />
+		
+		<speed_level id="0" speed="140" pval="1.5" next_potion="2" />
+		<speed_level id="1" speed="150" pval="2.5" next_potion="2" />
+		<speed_level id="2" speed="160" pval="3.0" next_potion="2" />
+		<speed_level id="3" speed="170" pval="4.0" next_potion="2" />
+		
+		<armor_level id="0" armor="0.12" pval="4.0" next_potion="5" />
+		<armor_level id="1" armor="0.2"  pval="6.5" next_potion="5" />
+		<armor_level id="2" armor="0.28" pval="9.0" next_potion="5" />
+		<armor_level id="3" armor="0.36" pval="12.0" next_potion="5" />
+	</soldier>
+	
+	<soldier name="soldier_6" >
+		<blood_level id="0" blood="500" pval="3.0" next_potion="3" />
+		<blood_level id="1" blood="550" pval="3.5" next_potion="3" />
+		<blood_level id="2" blood="600" pval="4.0" next_potion="3" />
+		<blood_level id="3" blood="650" pval="4.5" next_potion="3" />
+		
+		<speed_level id="0" speed="220" pval="7.5" next_potion="4" />
+		<speed_level id="1" speed="240" pval="9.0" next_potion="4" />
+		<speed_level id="2" speed="260" pval="10.5" next_potion="4" />
+		<speed_level id="3" speed="280" pval="12.0" next_potion="4" />
+		
+		<armor_level id="0" armor="0.03" pval="1.0" next_potion="2" />
+		<armor_level id="1" armor="0.06" pval="2.0" next_potion="2" />
+		<armor_level id="2" armor="0.09" pval="3.0" next_potion="2" />
+		<armor_level id="3" armor="0.12" pval="4.0" next_potion="2" />
+	</soldier>
+	
+	<soldier name="soldier_7" >
+		<blood_level id="0" blood="1800" pval="9.0" next_potion="10" />
+		<blood_level id="1" blood="2000" pval="10.0" next_potion="10" />
+		<blood_level id="2" blood="2200" pval="11.0" next_potion="10" />
+		<blood_level id="3" blood="2400" pval="12.0" next_potion="10" />
+		
+		<speed_level id="0" speed="200" pval="6.0" next_potion="3" />
+		<speed_level id="1" speed="215" pval="7.0" next_potion="3" />
+		<speed_level id="2" speed="230" pval="8.0" next_potion="3" />
+		<speed_level id="3" speed="245" pval="9.0" next_potion="3" />
+		
+		<armor_level id="0" armor="0.1" pval="3.0" next_potion="4" />
+		<armor_level id="1" armor="0.15" pval="5.0" next_potion="4" />
+		<armor_level id="2" armor="0.2" pval="6.5" next_potion="4" />
+		<armor_level id="3" armor="0.25" pval="8.0" next_potion="4" />
+	</soldier>
+</upgrade>

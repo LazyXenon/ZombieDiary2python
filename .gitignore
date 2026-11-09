@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+save.json
+cache/
+save_data/
+.venv/
+.DS_Store
+.backup/

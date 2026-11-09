@@ -1,0 +1,40 @@
+<Animations>
+  <Animation name="lws" frameCount="16">
+    <Part name="baolizhao01">
+      <Frame x="37.00" y="46.50" index="0"/>
+      <Frame x="37.00" y="46.50" index="1"/>
+      <Frame x="37.00" y="46.50" index="2"/>
+      <Frame x="37.00" y="46.50" index="3"/>
+      <Frame x="37.00" y="46.50" index="4"/>
+      <Frame x="37.00" y="46.50" index="5"/>
+      <Frame x="37.00" y="46.50" index="6"/>
+      <Frame x="37.00" y="46.50" index="7"/>
+      <Frame x="37.00" y="46.50" index="8"/>
+      <Frame x="37.00" y="46.50" index="9"/>
+      <Frame x="37.00" y="46.50" index="10"/>
+      <Frame x="37.00" y="46.50" index="11"/>
+      <Frame x="37.00" y="46.50" index="12"/>
+      <Frame x="37.00" y="46.50" index="13"/>
+      <Frame x="37.00" y="46.50" index="14"/>
+      <Frame x="37.00" y="46.50" index="15"/>
+    </Part>
+    <Part name="xingzang01">
+      <Frame x="69.50" y="54.00" index="0"/>
+      <Frame x="69.20" y="54.00" scaleX="1.003" scaleY="1.006" index="1"/>
+      <Frame x="68.85" y="54.00" scaleX="1.007" scaleY="1.011" index="2"/>
+      <Frame x="68.55" y="54.05" scaleX="1.010" scaleY="1.017" index="3"/>
+      <Frame x="68.30" y="54.00" scaleX="1.013" scaleY="1.023" index="4"/>
+      <Frame x="67.95" y="54.00" scaleX="1.017" scaleY="1.029" index="5"/>
+      <Frame x="67.65" y="54.00" scaleX="1.020" scaleY="1.034" index="6"/>
+      <Frame x="67.35" y="54.00" scaleX="1.023" scaleY="1.040" index="7"/>
+      <Frame x="67.60" y="54.05" scaleX="1.021" scaleY="1.035" index="8"/>
+      <Frame x="67.85" y="54.05" scaleX="1.018" scaleY="1.030" index="9"/>
+      <Frame x="68.15" y="54.00" scaleX="1.015" scaleY="1.025" index="10"/>
+      <Frame x="68.45" y="54.05" scaleX="1.012" scaleY="1.020" index="11"/>
+      <Frame x="68.70" y="54.00" scaleX="1.009" scaleY="1.015" index="12"/>
+      <Frame x="68.95" y="54.00" scaleX="1.006" scaleY="1.010" index="13"/>
+      <Frame x="69.25" y="54.05" scaleX="1.003" scaleY="1.005" index="14"/>
+      <Frame x="69.50" y="54.00" index="15"/>
+    </Part>
+  </Animation>
+</Animations>

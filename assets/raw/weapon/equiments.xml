@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equiments>
+	
+	<equiment name="soldier_1">
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/01/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/01/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/01/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/01/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/01/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="majiayou"  new_tex="pic/soldier/01/majiayou.png" />
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/01/tou.png" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="pic/soldier/01/majiazuo.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/01/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/01/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/01/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/01/zuotui.png" />
+		
+		<ChangeSprite sprite_name="bian01"  new_tex="" />
+		<ChangeSprite sprite_name="bian02"  new_tex="" />
+	</equiment>
+	
+	<equiment name="soldier_2" >
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/girl_02/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/girl_02/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/girl_02/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/girl_02/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/girl_02/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/girl_02/tou.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/girl_02/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/girl_02/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/girl_02/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/girl_02/zuotui.png" />
+		
+		<ChangeSprite sprite_name="majiayou"  new_tex="" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="" />
+	</equiment>
+	
+	<equiment name="soldier_3" >
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/rarger_suit/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/rarger_suit/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/rarger_suit/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/rarger_suit/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/rarger_suit/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/rarger_suit/tou.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/rarger_suit/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/rarger_suit/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/rarger_suit/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/rarger_suit/zuotui.png" />
+	
+		<ChangeSprite sprite_name="majiayou"  new_tex="" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="" />
+		<ChangeSprite sprite_name="bian01"  new_tex="" />
+		<ChangeSprite sprite_name="bian02"  new_tex="" />
+		
+		<ChangeAnchorPoint sprite_name="qungan"  registrationPointX="6.00" registrationPointY="2.00" />
+	</equiment>
+	
+	<equiment name="soldier_4" >
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/death_suit/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/death_suit/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/death_suit/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/death_suit/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/death_suit/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="majiayou"  new_tex="pic/soldier/death_suit/majiayou.png" />
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/death_suit/tou.png" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="pic/soldier/death_suit/majiazuo.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/death_suit/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/death_suit/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/death_suit/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/death_suit/zuotui.png" />
+		
+		<ChangeSprite sprite_name="bian01"  new_tex="" />
+		<ChangeSprite sprite_name="bian02"  new_tex="" />
+	</equiment>
+	
+	<equiment name="soldier_5" >
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/robocop_suit/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/robocop_suit/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/robocop_suit/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/robocop_suit/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/robocop_suit/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/robocop_suit/tou.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/robocop_suit/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/robocop_suit/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/robocop_suit/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/robocop_suit/zuotui.png" />
+		
+		<ChangeSprite sprite_name="majiayou"  new_tex="" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="" />
+		<ChangeSprite sprite_name="bian01"  new_tex="" />
+		<ChangeSprite sprite_name="bian02"  new_tex="" />
+		
+		<ChangeAnchorPoint sprite_name="youbi" registrationPointX="2.00" registrationPointY="5.00" />
+		<ChangeAnchorPoint sprite_name="youbi02"  registrationPointX="2.00" registrationPointY="5.00" />
+		<ChangeAnchorPoint sprite_name="qungan"  registrationPointX="8.00" registrationPointY="2.00" />
+
+	</equiment>
+	
+	<equiment name="soldier_6" >
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/ninjia/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/ninjia/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/ninjia/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/ninjia/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/ninjia/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/ninjia/tou.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/ninjia/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/ninjia/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/ninjia/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/ninjia/zuotui.png" />
+	
+		<ChangeSprite sprite_name="majiayou"  new_tex="" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="" />
+		<ChangeSprite sprite_name="bian01"  new_tex="" />
+		<ChangeSprite sprite_name="bian02"  new_tex="" />
+	</equiment>
+	
+	<equiment name="soldier_7" >
+		<ChangeSprite sprite_name="youbi02"  new_tex="pic/soldier/mech_dog/youbi02.png" />
+		<ChangeSprite sprite_name="zuoshou02"  new_tex="pic/soldier/mech_dog/zuoshou02.png" />
+		<ChangeSprite sprite_name="youbi"  new_tex="pic/soldier/mech_dog/youbi.png" />
+		<ChangeSprite sprite_name="zuoshou"  new_tex="pic/soldier/mech_dog/zuoshou.png" />
+		<ChangeSprite sprite_name="zuoshou03"  new_tex="pic/soldier/mech_dog/zuoshou03.png" />
+		
+		<ChangeSprite sprite_name="tou"  new_tex="pic/soldier/mech_dog/tou.png" />
+		<ChangeSprite sprite_name="qungan"  new_tex="pic/soldier/mech_dog/qungan.png" />
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/soldier/mech_dog/zuobi.png" />
+		
+		<ChangeSprite sprite_name="youtui"  new_tex="pic/soldier/mech_dog/youtui.png" />
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/soldier/mech_dog/zuotui.png" />
+	
+		<ChangeSprite sprite_name="majiayou"  new_tex="" />
+		<ChangeSprite sprite_name="majiazuo"  new_tex="" />
+		<ChangeSprite sprite_name="bian01"  new_tex="" />
+		<ChangeSprite sprite_name="bian02"  new_tex="" />
+	</equiment>
+</equiments>

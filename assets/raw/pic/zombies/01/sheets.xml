@@ -1,0 +1,12 @@
+<Textures>
+  <TextureSheet name="zombie01act01">
+    <Texture name="zuobi" width="72" height="38" path="zuobi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="majiazuo" width="42" height="79" path="majiazuo.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="tou" width="105" height="88" path="tou.png" registrationPointX="2.00" registrationPointY="-10.00" zIndex="5"/>
+    <Texture name="qungan" width="57" height="79" path="qungan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="majiayou" width="45" height="76" path="majiayou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="youbi" width="62" height="32" path="youbi.png" registrationPointX="2.00" registrationPointY="2.00"/>
+	<Texture name="zuotui" width="42" height="57" path="zuotui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="youtui" width="42" height="59" path="youtui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+  </TextureSheet>
+</Textures>

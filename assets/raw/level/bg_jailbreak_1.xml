@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<battle_field>
+
+	<parallax_background>
+		<scroll_background zorder="1" speed_ratio="1.0" >
+			<background bg_tex="pic_bg/background/jailbreak_01.jpg" odds="25"/>
+			<background bg_tex="pic_bg/background/jailbreak_02.jpg" odds="25"/>
+			<background bg_tex="pic_bg/background/jailbreak_03.jpg" odds="25"/>
+			<background bg_tex="pic_bg/background/jailbreak_04.jpg" odds="25"/>
+		</scroll_background>
+
+		
+	</parallax_background>
+	
+</battle_field>

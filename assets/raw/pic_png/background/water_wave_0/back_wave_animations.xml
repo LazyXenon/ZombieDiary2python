@@ -1,0 +1,46 @@
+<Animations>
+  <Animation name="hou" frameCount="40">
+    <Part name="hou">
+      <Frame x="38.90" y="14.60" scaleX="0.415" scaleY="0.379" alpha="0.04" index="0"/>
+      <Frame x="37.45" y="14.05" scaleX="0.437" scaleY="0.402" alpha="0.10" index="1"/>
+      <Frame x="36.00" y="13.55" scaleX="0.459" scaleY="0.425" alpha="0.17" index="2"/>
+      <Frame x="34.60" y="13.00" scaleX="0.480" scaleY="0.448" alpha="0.23" index="3"/>
+      <Frame x="33.10" y="12.40" scaleX="0.502" scaleY="0.471" alpha="0.30" index="4"/>
+      <Frame x="31.65" y="11.85" scaleX="0.524" scaleY="0.495" alpha="0.36" index="5"/>
+      <Frame x="30.20" y="11.35" scaleX="0.546" scaleY="0.518" alpha="0.42" index="6"/>
+      <Frame x="28.75" y="10.80" scaleX="0.568" scaleY="0.541" alpha="0.49" index="7"/>
+      <Frame x="27.35" y="10.30" scaleX="0.589" scaleY="0.564" alpha="0.55" index="8"/>
+      <Frame x="25.90" y="9.75" scaleX="0.611" scaleY="0.587" alpha="0.62" index="9"/>
+      <Frame x="24.45" y="9.20" scaleX="0.633" scaleY="0.610" alpha="0.68" index="10"/>
+      <Frame x="22.95" y="8.65" scaleX="0.655" scaleY="0.633" alpha="0.74" index="11"/>
+      <Frame x="21.50" y="8.10" scaleX="0.677" scaleY="0.657" alpha="0.81" index="12"/>
+      <Frame x="20.10" y="7.55" scaleX="0.698" scaleY="0.680" alpha="0.87" index="13"/>
+      <Frame x="18.60" y="7.05" scaleX="0.720" scaleY="0.703" alpha="0.94" index="14"/>
+      <Frame x="17.15" y="6.50" scaleX="0.742" scaleY="0.726" index="15"/>
+      <Frame x="16.45" y="6.25" scaleX="0.753" scaleY="0.737" alpha="0.96" index="16"/>
+      <Frame x="15.70" y="5.95" scaleX="0.763" scaleY="0.749" alpha="0.92" index="17"/>
+      <Frame x="15.00" y="5.70" scaleX="0.774" scaleY="0.760" alpha="0.88" index="18"/>
+      <Frame x="14.35" y="5.45" scaleX="0.785" scaleY="0.772" alpha="0.84" index="19"/>
+      <Frame x="13.60" y="5.15" scaleX="0.796" scaleY="0.783" alpha="0.80" index="20"/>
+      <Frame x="12.90" y="4.90" scaleX="0.806" scaleY="0.794" alpha="0.76" index="21"/>
+      <Frame x="12.15" y="4.60" scaleX="0.817" scaleY="0.806" alpha="0.72" index="22"/>
+      <Frame x="11.45" y="4.35" scaleX="0.828" scaleY="0.817" alpha="0.68" index="23"/>
+      <Frame x="10.75" y="4.05" scaleX="0.839" scaleY="0.829" alpha="0.64" index="24"/>
+      <Frame x="10.00" y="3.80" scaleX="0.849" scaleY="0.840" alpha="0.60" index="25"/>
+      <Frame x="9.30" y="3.55" scaleX="0.860" scaleY="0.852" alpha="0.56" index="26"/>
+      <Frame x="8.65" y="3.35" scaleX="0.871" scaleY="0.863" alpha="0.52" index="27"/>
+      <Frame x="7.90" y="3.10" scaleX="0.882" scaleY="0.874" alpha="0.48" index="28"/>
+      <Frame x="7.20" y="2.80" scaleX="0.892" scaleY="0.886" alpha="0.44" index="29"/>
+      <Frame x="6.45" y="2.55" scaleX="0.903" scaleY="0.897" alpha="0.40" index="30"/>
+      <Frame x="5.75" y="2.25" scaleX="0.914" scaleY="0.909" alpha="0.36" index="31"/>
+      <Frame x="5.05" y="2.00" scaleX="0.925" scaleY="0.920" alpha="0.32" index="32"/>
+      <Frame x="4.25" y="1.75" scaleX="0.935" scaleY="0.931" alpha="0.28" index="33"/>
+      <Frame x="3.55" y="1.45" scaleX="0.946" scaleY="0.943" alpha="0.24" index="34"/>
+      <Frame x="2.90" y="1.20" scaleX="0.957" scaleY="0.954" alpha="0.20" index="35"/>
+      <Frame x="2.15" y="0.90" scaleX="0.968" scaleY="0.966" alpha="0.16" index="36"/>
+      <Frame x="1.45" y="0.65" scaleX="0.979" scaleY="0.977" alpha="0.12" index="37"/>
+      <Frame x="0.70" y="0.35" scaleX="0.989" scaleY="0.989" alpha="0.08" index="38"/>
+      <Frame alpha="0.04" index="39"/>
+    </Part>
+  </Animation>
+</Animations>

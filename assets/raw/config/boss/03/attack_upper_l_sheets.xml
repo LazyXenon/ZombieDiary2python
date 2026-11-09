@@ -1,0 +1,10 @@
+<Textures>
+  <TextureSheet name="zombie01act01">
+    <Texture name="zuobid" width="51" height="64" path="pic/boss/03/zuobid.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="zuobiu" width="44" height="50" path="pic/boss/03/zuobiu.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="10"/>
+    <Texture name="tou" width="94" height="81" path="pic/boss/03/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="tou02" width="62" height="44" path="pic/boss/03/tou02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="qugan" width="71" height="105" path="pic/boss/03/qugan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="she" width="176" height="28" path="pic/boss/03/she.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

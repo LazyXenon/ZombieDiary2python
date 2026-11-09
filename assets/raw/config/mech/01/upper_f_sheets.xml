@@ -1,0 +1,8 @@
+<Textures>
+  <TextureSheet name="jijia00act00">
+    <Texture name="gun" width="92" height="66" path="pic/mech/01/gun.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="13"/>
+    <Texture name="tou" width="213" height="146" path="pic/mech/01/tou.png" registrationPointX="2.00" registrationPointY="0.00" zIndex="12"/>
+    <Texture name="ren" width="89" height="88" path="pic/mech/01/ren.png" registrationPointX="-1.00" registrationPointY="3.00" zIndex="11"/>
+    <Texture name="xian02" width="44" height="48" path="pic/mech/01/xian02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+   </TextureSheet>
+</Textures>

@@ -1,0 +1,7 @@
+<Textures>
+  <TextureSheet name="pic/mech/10">
+    <Texture name="zuoxiaotui" width="76" height="84" path="pic/mech/10/youxiaotui.png" registrationPointX="-4.00" registrationPointY="-2.00" zIndex="5"/>
+    <Texture name="zuojiaoban" width="117" height="46" path="pic/mech/10/youjiaoban.png" registrationPointX="3.00" registrationPointY="-4.00" zIndex="4"/>
+    <Texture name="zuodatui" width="44" height="64" path="pic/mech/10/youdatui.png" registrationPointX="4.00" registrationPointY="2.00" zIndex="3"/>
+  </TextureSheet>
+</Textures>

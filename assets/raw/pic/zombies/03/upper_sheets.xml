@@ -1,0 +1,8 @@
+<Textures>
+  <TextureSheet name="zombie01act01">
+    <Texture name="zuobi" width="92" height="51" path="pic/zombies/03/zuobi.png" registrationPointX="0.00" registrationPointY="-14.35" zIndex="7"/>
+    <Texture name="tou" width="107" height="105" path="pic/zombies/03/tou.png" registrationPointX="6.00" registrationPointY="-6.25" zIndex="5"/>
+    <Texture name="qungan" width="57" height="79" path="pic/zombies/03/qungan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="youbi" width="75" height="36" path="pic/zombies/03/youbi.png" registrationPointX="2.00" registrationPointY="-4.00"/>
+  </TextureSheet>
+</Textures>

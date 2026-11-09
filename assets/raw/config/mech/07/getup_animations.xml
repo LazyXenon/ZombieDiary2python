@@ -1,0 +1,215 @@
+<Animations>
+  <Animation name="lws" frameCount="31">
+    <Part name="danyaoxiang">
+      <Frame x="12.00" y="87.50" scaleY="0.462" rotation="-32.979" index="18"/>
+      <Frame x="12.10" y="87.50" scaleX="0.998" scaleY="0.670" rotation="-32.862" index="19"/>
+      <Frame x="12.00" y="87.50" scaleY="0.880" rotation="-32.979" index="20"/>
+      <Frame x="12.05" y="87.50" scaleX="0.998" scaleY="0.939" rotation="-32.862" index="21"/>
+      <Frame x="12.00" y="87.50" rotation="-32.979" index="22"/>
+      <Frame x="12.05" y="87.40" scaleX="0.998" scaleY="0.998" rotation="-32.862" index="23"/>
+      <Frame x="12.00" y="87.50" rotation="-32.979" index="24"/>
+      <Frame x="14.60" y="64.90" scaleX="0.999" scaleY="0.999" rotation="-16.325" index="25"/>
+      <Frame x="19.00" y="43.00" index="26"/>
+      <Frame x="19.00" y="43.00" index="27"/>
+      <Frame x="19.00" y="43.00" index="28"/>
+      <Frame x="19.00" y="43.00" index="29"/>
+      <Frame x="19.00" y="43.00" index="30"/>
+    </Part>
+    <Part name="dizuo">
+      <Frame x="61.00" y="172.00" index="0"/>
+      <Frame x="61.00" y="172.00" index="1"/>
+      <Frame x="61.00" y="172.00" index="2"/>
+      <Frame x="61.00" y="172.00" index="3"/>
+      <Frame x="61.00" y="172.00" index="4"/>
+      <Frame x="61.00" y="172.00" index="5"/>
+      <Frame x="61.00" y="172.00" index="6"/>
+      <Frame x="61.00" y="172.00" index="7"/>
+      <Frame x="61.00" y="172.00" index="8"/>
+      <Frame x="61.00" y="172.00" index="9"/>
+      <Frame x="61.00" y="172.00" index="10"/>
+      <Frame x="61.00" y="172.00" index="11"/>
+      <Frame x="61.00" y="172.00" index="12"/>
+      <Frame x="61.00" y="172.00" index="13"/>
+      <Frame x="61.00" y="172.00" index="14"/>
+      <Frame x="61.00" y="172.00" index="15"/>
+      <Frame x="61.00" y="172.00" index="16"/>
+      <Frame x="61.00" y="172.00" index="17"/>
+      <Frame x="61.00" y="172.00" index="18"/>
+      <Frame x="61.00" y="172.00" index="19"/>
+      <Frame x="61.00" y="172.00" index="20"/>
+      <Frame x="61.00" y="172.00" index="21"/>
+      <Frame x="61.00" y="172.00" index="22"/>
+      <Frame x="61.00" y="172.00" index="23"/>
+      <Frame x="61.00" y="172.00" index="24"/>
+      <Frame x="61.00" y="172.00" index="25"/>
+      <Frame x="61.00" y="172.00" index="26"/>
+      <Frame x="61.00" y="172.00" index="27"/>
+      <Frame x="61.00" y="172.00" index="28"/>
+      <Frame x="61.00" y="172.00" index="29"/>
+      <Frame x="61.00" y="172.00" index="30"/>
+    </Part>
+    <Part name="gudinghuan">
+      <Frame x="96.00" y="25.50" index="27"/>
+      <Frame x="140.00" y="25.50" index="28"/>
+      <Frame x="184.00" y="25.50" index="29"/>
+      <Frame x="181.00" y="25.50" index="30"/>
+    </Part>
+    <Part name="jishen">
+      <Frame x="74.20" y="50.40" scaleX="0.507" scaleY="0.507" rotation="-12.778" index="14"/>
+      <Frame x="52.80" y="52.70" scaleX="0.507" scaleY="0.507" rotation="-18.008" index="15"/>
+      <Frame x="19.35" y="53.90" scaleX="0.787" scaleY="0.787" rotation="-24.344" index="16"/>
+      <Frame x="-14.15" y="62.05" scaleX="1.068" scaleY="1.068" rotation="-30.981" index="17"/>
+      <Frame x="-16.75" y="62.00" scaleX="1.093" scaleY="1.093" rotation="-30.981" index="18"/>
+      <Frame x="-14.15" y="62.05" scaleX="1.068" scaleY="1.068" rotation="-30.981" index="19"/>
+      <Frame x="-18.30" y="61.95" scaleX="1.108" scaleY="1.108" rotation="-30.982" index="20"/>
+      <Frame x="-14.15" y="62.05" scaleX="1.068" scaleY="1.068" rotation="-30.981" index="21"/>
+      <Frame x="-15.00" y="60.65" scaleX="1.082" scaleY="1.092" rotation="-30.981" index="22"/>
+      <Frame x="-14.15" y="62.05" scaleX="1.068" scaleY="1.068" rotation="-30.981" index="23"/>
+      <Frame x="-14.15" y="62.05" scaleX="1.068" scaleY="1.068" rotation="-30.981" index="24"/>
+      <Frame x="-5.85" y="33.20" scaleX="1.033" scaleY="1.033" rotation="-15.323" index="25"/>
+      <Frame x="9.00" y="9.00" index="26"/>
+      <Frame x="9.00" y="9.00" index="27"/>
+      <Frame x="9.00" y="9.00" index="28"/>
+      <Frame x="9.00" y="9.00" index="29"/>
+      <Frame x="9.00" y="9.00" index="30"/>
+    </Part>
+    <Part name="qianggaun01">
+      <Frame x="23.55" y="74.00" rotation="-30.995" index="18"/>
+      <Frame x="46.90" y="59.20" scaleX="1.020" scaleY="0.999" rotation="-30.860" index="19"/>
+      <Frame x="70.25" y="44.40" scaleX="1.040" scaleY="0.999" rotation="-30.861" index="20"/>
+      <Frame x="93.65" y="29.80" scaleX="1.063" rotation="-30.996" index="21"/>
+      <Frame x="94.05" y="29.55" rotation="-30.995" index="22"/>
+      <Frame x="94.10" y="29.50" scaleX="0.999" scaleY="0.999" rotation="-30.860" index="23"/>
+      <Frame x="94.05" y="29.55" rotation="-30.995" index="24"/>
+      <Frame x="99.25" y="31.60" scaleX="0.999" scaleY="0.999" rotation="-15.324" index="25"/>
+      <Frame x="105.00" y="34.00" index="26"/>
+      <Frame x="105.00" y="34.00" index="27"/>
+      <Frame x="105.00" y="34.00" index="28"/>
+      <Frame x="105.00" y="34.00" index="29"/>
+      <Frame x="105.00" y="34.00" index="30"/>
+    </Part>
+    <Part name="qianggaun02">
+      <Frame x="33.80" y="76.05" rotation="-30.995" index="20"/>
+      <Frame x="54.65" y="62.85" scaleX="1.029" scaleY="0.999" rotation="-30.860" index="21"/>
+      <Frame x="75.40" y="49.65" scaleX="1.060" scaleY="0.999" rotation="-30.860" index="22"/>
+      <Frame x="96.20" y="36.40" scaleX="1.092" rotation="-30.996" index="23"/>
+      <Frame x="96.85" y="36.00" scaleX="0.987" rotation="-30.996" index="24"/>
+      <Frame x="100.15" y="38.25" scaleX="0.993" scaleY="0.999" rotation="-15.324" index="25"/>
+      <Frame x="104.00" y="41.00" index="26"/>
+      <Frame x="104.00" y="41.00" index="27"/>
+      <Frame x="104.00" y="41.00" index="28"/>
+      <Frame x="104.00" y="41.00" index="29"/>
+      <Frame x="104.00" y="41.00" index="30"/>
+    </Part>
+    <Part name="qianggaun03">
+      <Frame x="28.60" y="57.00" rotation="-30.995" index="19"/>
+      <Frame x="49.10" y="46.70" scaleX="1.022" scaleY="0.999" rotation="-30.859" index="20"/>
+      <Frame x="69.65" y="36.35" scaleX="1.046" scaleY="0.999" rotation="-30.860" index="21"/>
+      <Frame x="90.20" y="26.05" scaleX="1.072" rotation="-30.995" index="22"/>
+      <Frame x="90.65" y="25.75" rotation="-30.995" index="23"/>
+      <Frame x="90.65" y="25.75" rotation="-30.995" index="24"/>
+      <Frame x="97.00" y="27.20" scaleX="0.999" scaleY="0.999" rotation="-15.324" index="25"/>
+      <Frame x="104.00" y="29.00" index="26"/>
+      <Frame x="104.00" y="29.00" index="27"/>
+      <Frame x="104.00" y="29.00" index="28"/>
+      <Frame x="104.00" y="29.00" index="29"/>
+      <Frame x="104.00" y="29.00" index="30"/>
+    </Part>
+    <Part name="qianggaun04"/>
+    <Part name="tuopan">
+      <Frame x="137.20" y="218.10" scaleX="0.683" scaleY="0.683" rotation="-127.065" index="8"/>
+      <Frame x="38.30" y="146.90" rotation="-52.446" index="9"/>
+      <Frame x="162.55" y="121.10" rotation="-157.455" index="10"/>
+      <Frame x="167.35" y="58.25" scaleX="0.998" scaleY="0.998" rotation="145.632" index="11"/>
+      <Frame x="108.20" y="10.35" rotation="88.491" index="12"/>
+      <Frame x="52.55" y="16.30" scaleX="0.998" scaleY="0.998" rotation="38.827" index="13"/>
+      <Frame x="22.30" y="66.35" rotation="-10.961" index="14"/>
+      <Frame x="21.15" y="81.35" rotation="-22.909" index="15"/>
+      <Frame x="21.30" y="74.55" scaleX="0.999" scaleY="0.999" rotation="-17.533" index="16"/>
+      <Frame x="21.95" y="67.90" rotation="-12.212" index="17"/>
+      <Frame x="23.05" y="62.35" rotation="-7.735" index="18"/>
+      <Frame x="21.95" y="67.90" rotation="-12.212" index="19"/>
+      <Frame x="23.05" y="62.35" rotation="-7.735" index="20"/>
+      <Frame x="21.95" y="67.90" rotation="-12.212" index="21"/>
+      <Frame x="23.05" y="62.35" rotation="-7.735" index="22"/>
+      <Frame x="24.45" y="57.50" rotation="-3.780" index="23"/>
+      <Frame x="26.00" y="53.00" index="24"/>
+      <Frame x="26.00" y="53.00" index="25"/>
+      <Frame x="26.00" y="53.00" index="26"/>
+      <Frame x="26.00" y="53.00" index="27"/>
+      <Frame x="26.00" y="53.00" index="28"/>
+      <Frame x="26.00" y="53.00" index="29"/>
+      <Frame x="26.00" y="53.00" index="30"/>
+    </Part>
+    <Part name="zhiguan01">
+      <Frame x="127.95" y="184.00" scaleX="0.311" scaleY="0.311" rotation="116.945" index="2"/>
+      <Frame x="138.45" y="168.30" scaleX="0.425" scaleY="0.425" rotation="97.302" index="3"/>
+      <Frame x="141.20" y="148.65" scaleX="0.539" scaleY="0.539" rotation="77.976" index="4"/>
+      <Frame x="134.00" y="128.35" scaleX="0.654" scaleY="0.654" rotation="58.441" index="5"/>
+      <Frame x="100.25" y="108.05" scaleX="0.826" scaleY="0.826" rotation="25.595" index="6"/>
+      <Frame x="53.85" y="116.80" rotation="-6.953" index="7"/>
+      <Frame x="63.00" y="109.00" index="8"/>
+      <Frame x="63.00" y="109.00" index="9"/>
+      <Frame x="63.00" y="109.00" index="10"/>
+      <Frame x="63.00" y="109.00" index="11"/>
+      <Frame x="63.00" y="109.00" index="12"/>
+      <Frame x="63.00" y="109.00" index="13"/>
+      <Frame x="63.00" y="109.00" index="14"/>
+      <Frame x="63.00" y="109.00" index="15"/>
+      <Frame x="63.00" y="109.00" index="16"/>
+      <Frame x="63.00" y="109.00" index="17"/>
+      <Frame x="63.00" y="109.00" index="18"/>
+      <Frame x="63.00" y="109.00" index="19"/>
+      <Frame x="63.00" y="109.00" index="20"/>
+      <Frame x="63.00" y="109.00" index="21"/>
+      <Frame x="63.00" y="109.00" index="22"/>
+      <Frame x="63.00" y="109.00" index="23"/>
+      <Frame x="63.00" y="109.00" index="24"/>
+      <Frame x="63.00" y="109.00" index="25"/>
+      <Frame x="63.00" y="109.00" index="26"/>
+      <Frame x="63.00" y="109.00" index="27"/>
+      <Frame x="63.00" y="109.00" index="28"/>
+      <Frame x="63.00" y="109.00" index="29"/>
+      <Frame x="63.00" y="109.00" index="30"/>
+    </Part>
+    <Part name="zhiguan02">
+      <Frame x="126.15" y="187.45" scaleX="0.311" scaleY="0.311" rotation="-141.108" index="3"/>
+      <Frame x="131.40" y="180.95" scaleX="0.482" scaleY="0.482" rotation="-166.442" index="4"/>
+      <Frame x="144.25" y="170.75" scaleX="0.655" scaleY="0.655" rotation="168.478" index="5"/>
+      <Frame x="146.95" y="106.25" scaleX="0.826" scaleY="0.826" rotation="76.394" index="6"/>
+      <Frame x="24.55" y="106.40" rotation="-63.342" index="7"/>
+      <Frame x="84.90" y="69.10" rotation="14.969" index="8"/>
+      <Frame x="78.35" y="68.70" rotation="7.312" index="9"/>
+      <Frame x="72.00" y="69.00" index="10"/>
+      <Frame x="72.00" y="69.00" index="11"/>
+      <Frame x="72.00" y="69.00" index="12"/>
+      <Frame x="72.00" y="69.00" index="13"/>
+      <Frame x="72.00" y="69.00" index="14"/>
+      <Frame x="72.00" y="69.00" index="15"/>
+      <Frame x="72.00" y="69.00" index="16"/>
+      <Frame x="72.00" y="69.00" index="17"/>
+      <Frame x="72.00" y="69.00" index="18"/>
+      <Frame x="72.00" y="69.00" index="19"/>
+      <Frame x="72.00" y="69.00" index="20"/>
+      <Frame x="72.00" y="69.00" index="21"/>
+      <Frame x="72.00" y="69.00" index="22"/>
+      <Frame x="72.00" y="69.00" index="23"/>
+      <Frame x="72.00" y="69.00" index="24"/>
+      <Frame x="72.00" y="69.00" index="25"/>
+      <Frame x="72.00" y="69.00" index="26"/>
+      <Frame x="72.00" y="69.00" index="27"/>
+      <Frame x="72.00" y="69.00" index="28"/>
+      <Frame x="72.00" y="69.00" index="29"/>
+      <Frame x="72.00" y="69.00" index="30"/>
+    </Part>
+    <Part name="zidanlian">
+      <Frame x="34.65" y="98.35" scaleX="0.628" scaleY="0.301" rotation="-30.906" index="24"/>
+      <Frame x="33.20" y="83.65" scaleX="0.721" scaleY="0.476" rotation="-23.074" index="25"/>
+      <Frame x="32.00" y="67.80" scaleX="0.814" scaleY="0.651" rotation="-15.313" index="26"/>
+      <Frame x="31.25" y="50.80" scaleX="0.907" scaleY="0.826" rotation="-7.560" index="27"/>
+      <Frame x="30.80" y="33.00" scaleY="1.002" index="28"/>
+      <Frame x="31.15" y="33.00" scaleY="1.001" index="29"/>
+      <Frame x="31.00" y="33.00" index="30"/>
+    </Part>
+  </Animation>
+</Animations>

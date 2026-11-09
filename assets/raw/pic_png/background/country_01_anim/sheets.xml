@@ -1,0 +1,11 @@
+<Textures>
+  <TextureSheet name="fengche">
+    <Texture name="neizang02" width="45" height="41" path="fengche/neizang02.png" registrationPointX="0.00" registrationPointY="-3.00" zIndex="6"/>
+    <Texture name="gutou01" width="53" height="45" path="fengche/gutou01.png" registrationPointX="-3.00" registrationPointY="-1.00" zIndex="5"/>
+    <Texture name="neizang" width="50" height="52" path="fengche/neizang.png" registrationPointX="0.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="fengche04" width="122" height="185" path="fengche/fengche01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="fengche03" width="123" height="186" path="fengche/fengche02.png" registrationPointX="3.00" registrationPointY="3.00" zIndex="2"/>
+    <Texture name="fengche02" width="122" height="185" path="fengche/fengche02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="fengche01" width="122" height="185" path="fengche/fengche01.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

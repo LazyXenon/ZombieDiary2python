@@ -1,0 +1,32 @@
+<Animations>
+  <Animation name="r01" frameCount="15" >
+    <Part name="b01">
+      <Frame x="37.00" y="38.00" scaleX="0.07" scaleY="0.07" index="0" />
+      <Frame x="-7.05" y="-6.05" scaleX="1.70" scaleY="1.70" index="1" />
+      <Frame x="-51.00" y="-50.00" scaleX="3.33" scaleY="3.33" index="2" />
+      <Frame x="-109.00" y="-108.00" scaleX="5.48" scaleY="5.48" index="3" />
+      <Frame x="-75.00" y="-74.00" scaleX="4.22" scaleY="4.22" index="4" />
+      <Frame x="-47.25" y="-46.30" scaleX="3.19" scaleY="3.19" index="5" />
+      <Frame x="-19.55" y="-18.55" scaleX="2.17" scaleY="2.17" index="6" />
+      <Frame x="8.20" y="9.20" scaleX="1.14" scaleY="1.14" index="7" />
+      <Frame x="35.95" y="36.95" scaleX="0.11" scaleY="0.11" index="8" />
+    </Part>
+    <Part name="r01">
+      <Frame x="42.00" y="41.00" scaleX="0.07" scaleY="0.07" rotation="-180.000" index="0" />
+      <Frame x="67.30" y="43.40" scaleX="0.72" scaleY="0.72" rotation="144.123" index="1" />
+      <Frame x="86.80" y="15.10" scaleX="1.38" scaleY="1.38" rotation="108.019" index="2" />
+      <Frame x="75.15" y="-30.00" scaleX="2.03" scaleY="2.03" rotation="71.982" index="3" />
+      <Frame x="23.75" y="-62.00" scaleX="2.68" scaleY="2.68" rotation="35.876" index="4" />
+      <Frame x="-50.00" y="-51.00" scaleX="3.33" scaleY="3.33" index="5" />
+      <Frame x="-62.35" y="-63.35" scaleX="3.79" scaleY="3.79" index="6" />
+      <Frame x="-74.65" y="-75.70" scaleX="4.25" scaleY="4.25" index="7" />
+      <Frame x="-87.00" y="-88.00" scaleX="4.70" scaleY="4.70" index="8" />
+      <Frame x="-90.75" y="-91.75" scaleX="4.84" scaleY="4.84" alpha="0.84" index="9" />
+      <Frame x="-94.50" y="-95.50" scaleX="4.98" scaleY="4.98" alpha="0.68" index="10" />
+      <Frame x="-98.25" y="-99.25" scaleX="5.12" scaleY="5.12" alpha="0.53" index="11" />
+      <Frame x="-102.05" y="-103.05" scaleX="5.26" scaleY="5.26" alpha="0.37" index="12" />
+      <Frame x="-105.75" y="-106.80" scaleX="5.40" scaleY="5.40" alpha="0.21" index="13" />
+      <Frame x="-109.50" y="-110.50" scaleX="5.54" scaleY="5.54" alpha="0.05" index="14" />
+    </Part>
+  </Animation>
+</Animations>

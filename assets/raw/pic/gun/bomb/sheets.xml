@@ -1,0 +1,14 @@
+<Textures>
+  <TextureSheet name="man01act01" >
+      <Texture name="boom" width="204" height="204" path="pic/gun/bomb/boom.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="9" />
+      <Texture name="light01" width="164" height="136" path="pic/gun/bomb/light01.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="8" />
+      <Texture name="light02" width="164" height="122" path="pic/gun/bomb/light02.png" registrationPointX="1.40" registrationPointY="0.70" zIndex="7" />
+      <Texture name="light03" width="164" height="136" path="pic/gun/bomb/light01.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="6" />
+      <Texture name="light04" width="164" height="122" path="pic/gun/bomb/light02.png" registrationPointX="1.40" registrationPointY="0.70" zIndex="5" />
+      <Texture name="smoke03" width="164" height="115" path="pic/gun/bomb/smoke01.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="4" />
+      <Texture name="smoke05" width="164" height="115" path="pic/gun/bomb/smoke01.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="3" />
+      <Texture name="smoke04" width="164" height="115" path="pic/gun/bomb/smoke01.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="2" />
+      <Texture name="smoke02" width="164" height="115" path="pic/gun/bomb/smoke01.png" registrationPointX="1.40" registrationPointY="1.40" zIndex="1" />
+      <Texture name="smoke01" width="164" height="115" path="pic/gun/bomb/smoke01.png" registrationPointX="1.40" registrationPointY="1.40" />
+  </TextureSheet>
+</Textures>

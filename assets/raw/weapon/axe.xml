@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soldier weapon_name="axe" min_interval="0.5" multi_shot="0"
+         width="300" height="300" centerX="118" soldier_width="150">
+
+	<animation name="walk_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/axe_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/axe_walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="stand_upper" duration="0.7">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/axe_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/axe_stand_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="fire_upper" duration="0.7">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/axe_fire_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/axe_fire_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/lower_sheets.xml"
+			   animatioin_xml="config/soldier/01/axe_walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.7">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/lower_sheets.xml"
+			   animatioin_xml="config/soldier/01/axe_stand_animations.xml" zorder="2" />
+	</animation>
+	
+	<weapon_effect type="firearm" delay="0.3" damage="35" shoot_distance="220" area_damage="1" 
+	               bomb_radius="0" shotback_dis="40">
+		
+	</weapon_effect>
+	
+	<Shadow offset_y="297" tex="pic/soldier/yinying.png" />
+</soldier>

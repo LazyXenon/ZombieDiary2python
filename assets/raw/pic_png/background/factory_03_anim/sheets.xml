@@ -1,0 +1,6 @@
+<Textures>
+  <TextureSheet name="peiyangcao">
+    <Texture name="baolizhao01" width="278" height="227" path="peiyangcao/baolizhao01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="xingzang01" width="140" height="167" path="peiyangcao/xingzang01.png" registrationPointX="-47.00" registrationPointY="2.00" zIndex="1"/>
+  </TextureSheet>
+</Textures>

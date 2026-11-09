@@ -1,0 +1,78 @@
+<Animations>
+  <Animation name="qiangqian" frameCount="12">
+    <Part name="huo1">
+      <Frame x="36.00" y="52.00" index="0"/>
+      <Frame x="36.00" y="52.00" index="3"/>
+      <Frame x="36.00" y="52.00" index="6"/>
+      <Frame x="36.00" y="52.00" index="9"/>
+    </Part>
+    <Part name="huo2">
+      <Frame x="35.00" y="52.25" index="1"/>
+      <Frame x="35.00" y="52.25" index="4"/>
+      <Frame x="35.00" y="52.25" index="7"/>
+      <Frame x="35.00" y="52.25" index="10"/>
+    </Part>
+    <Part name="huo3">
+      <Frame x="35.00" y="52.00" index="2"/>
+      <Frame x="35.00" y="52.00" index="5"/>
+      <Frame x="35.00" y="52.00" index="8"/>
+      <Frame x="35.00" y="52.00" index="11"/>
+    </Part>
+    <Part name="jishen">
+      <Frame index="0"/>
+      <Frame index="1"/>
+      <Frame index="2"/>
+      <Frame index="3"/>
+      <Frame index="4"/>
+      <Frame index="5"/>
+      <Frame index="6"/>
+      <Frame index="7"/>
+      <Frame index="8"/>
+      <Frame index="9"/>
+      <Frame index="10"/>
+      <Frame index="11"/>
+    </Part>
+    <Part name="qiangqian">
+      <Frame x="34.80" y="27.75" rotation="21.216" index="0"/>
+      <Frame x="32.80" y="27.10" scaleX="0.999" scaleY="0.999" rotation="21.078" index="1"/>
+      <Frame x="30.80" y="26.35" scaleX="0.999" scaleY="0.999" rotation="21.078" index="2"/>
+      <Frame x="28.90" y="25.50" rotation="21.216" index="3"/>
+      <Frame x="30.85" y="26.40" scaleX="0.999" scaleY="0.999" rotation="21.078" index="4"/>
+      <Frame x="32.85" y="27.15" scaleX="0.999" scaleY="0.999" rotation="21.078" index="5"/>
+      <Frame x="34.80" y="27.75" rotation="21.216" index="6"/>
+      <Frame x="34.75" y="27.85" scaleX="0.999" scaleY="0.999" rotation="21.078" index="7"/>
+      <Frame x="34.75" y="27.85" scaleX="0.999" scaleY="0.999" rotation="21.078" index="8"/>
+      <Frame x="34.80" y="27.75" rotation="21.216" index="9"/>
+      <Frame x="34.75" y="27.95" scaleX="0.998" scaleY="0.998" rotation="21.061" index="10"/>
+      <Frame x="34.75" y="27.85" scaleX="0.999" scaleY="0.999" rotation="21.078" index="11"/>
+    </Part>
+    <Part name="qianhou">
+      <Frame x="35.25" y="29.90" rotation="10.191" index="0"/>
+      <Frame x="35.25" y="30.05" scaleX="0.999" scaleY="0.999" rotation="10.053" index="1"/>
+      <Frame x="35.25" y="30.05" scaleX="0.999" scaleY="0.999" rotation="10.053" index="2"/>
+      <Frame x="35.25" y="29.90" rotation="10.191" index="3"/>
+      <Frame x="35.25" y="30.05" scaleX="0.999" scaleY="0.999" rotation="10.053" index="4"/>
+      <Frame x="35.25" y="30.05" scaleX="0.999" scaleY="0.999" rotation="10.053" index="5"/>
+      <Frame x="35.25" y="29.90" rotation="10.191" index="6"/>
+      <Frame x="33.10" y="29.65" scaleX="0.999" scaleY="0.999" rotation="10.053" index="7"/>
+      <Frame x="31.00" y="29.25" scaleX="0.999" scaleY="0.999" rotation="10.053" index="8"/>
+      <Frame x="28.85" y="28.70" rotation="10.191" index="9"/>
+      <Frame x="31.00" y="29.20" scaleX="0.999" scaleY="0.999" rotation="10.037" index="10"/>
+      <Frame x="33.10" y="29.60" scaleX="0.999" scaleY="0.999" rotation="10.053" index="11"/>
+    </Part>
+    <Part name="wolun">
+      <Frame x="30.00" y="22.00" index="0"/>
+      <Frame x="30.00" y="22.00" index="1"/>
+      <Frame x="30.00" y="22.00" index="2"/>
+      <Frame x="30.00" y="22.00" index="3"/>
+      <Frame x="30.00" y="22.00" index="4"/>
+      <Frame x="30.00" y="22.00" index="5"/>
+      <Frame x="30.00" y="22.00" index="6"/>
+      <Frame x="30.00" y="22.00" index="7"/>
+      <Frame x="30.00" y="22.00" index="8"/>
+      <Frame x="30.00" y="22.00" index="9"/>
+      <Frame x="30.00" y="22.00" index="10"/>
+      <Frame x="30.00" y="22.00" index="11"/>
+    </Part>
+  </Animation>
+</Animations>

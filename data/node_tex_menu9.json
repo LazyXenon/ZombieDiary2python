@@ -1,0 +1,53 @@
+{
+"resolved": {
+"0xe78daf04": "pic/ui/dialog/button_gift_card.png",
+"0xe78db084": "pic/ui/dialog/button_gift_card.png",
+"0xe78db204": "pic/ui/mainmenu/bt_play.png",
+"0xe78db384": "pic/ui/mainmenu/button_introgame.png",
+"0xd6666204": "pic/ui/dialog/button_music_on_off.png",
+"0xd6666c04": "pic/ui/dialog/button_music_on_off.png",
+"0xcc77b204": "pic/ui/dialog/button_sound_on_off.png",
+"0xcc77b404": "pic/zombies/xuezi04.png",
+"0xd0721884": "pic/ui/mainmenu/bt_play.png",
+"0xd0721604": "pic/ui/mainmenu/button_introgame.png"
+},
+"sub": {
+"0xd6666204": [
+0,
+0,
+212,
+46
+],
+"0xd6666c04": [
+0,
+46,
+212,
+46
+],
+"0xcc77b204": [
+0,
+0,
+212,
+46
+],
+"0xcc77b404": [
+3,
+41,
+212,
+46
+]
+},
+"glyph": {},
+"missing": [
+"0xf29751c0",
+"0xd6b55dc4",
+"0xf2938b04",
+"0xd0721d84",
+"0xf2939584",
+"0xf2975304",
+"0xf29756c4",
+"0xf2975f84",
+"0xf29760c4",
+"0xf2976204"
+]
+}

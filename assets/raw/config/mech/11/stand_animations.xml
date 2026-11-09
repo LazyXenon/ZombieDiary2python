@@ -1,0 +1,100 @@
+<Animations>
+  <Animation name="wolun" frameCount="21">
+    <Part name="huo1">
+      <Frame x="42.00" y="72.00" index="0"/>
+      <Frame x="42.00" y="72.70" index="3"/>
+      <Frame x="42.00" y="73.35" index="6"/>
+      <Frame x="42.00" y="74.05" index="9"/>
+      <Frame x="42.00" y="73.80" index="12"/>
+      <Frame x="42.00" y="73.15" index="15"/>
+      <Frame x="42.00" y="72.45" index="18"/>
+    </Part>
+    <Part name="huo2">
+      <Frame x="42.00" y="73.05" index="1"/>
+      <Frame x="42.00" y="73.70" index="4"/>
+      <Frame x="42.00" y="74.40" index="7"/>
+      <Frame x="42.00" y="75.05" index="10"/>
+      <Frame x="42.00" y="74.40" index="13"/>
+      <Frame x="42.00" y="73.70" index="16"/>
+      <Frame x="42.00" y="73.05" index="19"/>
+    </Part>
+    <Part name="huo3">
+      <Frame x="41.00" y="74.05" index="2"/>
+      <Frame x="41.00" y="74.75" index="5"/>
+      <Frame x="41.00" y="75.40" index="8"/>
+      <Frame x="41.00" y="75.65" index="11"/>
+      <Frame x="41.00" y="74.95" index="14"/>
+      <Frame x="41.00" y="74.30" index="17"/>
+      <Frame x="41.00" y="73.60" index="20"/>
+    </Part>
+    <Part name="jiqiang">
+      <Frame x="62.00" y="33.00" index="0"/>
+      <Frame x="62.00" y="33.70" index="1"/>
+      <Frame x="62.00" y="34.35" index="2"/>
+      <Frame x="62.00" y="35.05" index="3"/>
+      <Frame x="62.00" y="35.70" index="4"/>
+      <Frame x="62.00" y="36.40" index="5"/>
+      <Frame x="62.00" y="37.05" index="6"/>
+      <Frame x="62.00" y="37.75" index="7"/>
+      <Frame x="62.00" y="38.40" index="8"/>
+      <Frame x="62.00" y="39.10" index="9"/>
+      <Frame x="62.00" y="39.75" index="10"/>
+      <Frame x="62.00" y="39.10" index="11"/>
+      <Frame x="62.00" y="38.40" index="12"/>
+      <Frame x="62.00" y="37.75" index="13"/>
+      <Frame x="62.00" y="37.05" index="14"/>
+      <Frame x="62.00" y="36.40" index="15"/>
+      <Frame x="62.00" y="35.70" index="16"/>
+      <Frame x="62.00" y="35.05" index="17"/>
+      <Frame x="62.00" y="34.35" index="18"/>
+      <Frame x="62.00" y="33.70" index="19"/>
+      <Frame x="62.00" y="33.00" index="20"/>
+    </Part>
+    <Part name="jishen">
+      <Frame index="0"/>
+      <Frame y="0.70" index="1"/>
+      <Frame y="1.35" index="2"/>
+      <Frame y="2.05" index="3"/>
+      <Frame y="2.70" index="4"/>
+      <Frame y="3.40" index="5"/>
+      <Frame y="4.05" index="6"/>
+      <Frame y="4.75" index="7"/>
+      <Frame y="5.40" index="8"/>
+      <Frame y="6.10" index="9"/>
+      <Frame y="6.75" index="10"/>
+      <Frame y="6.10" index="11"/>
+      <Frame y="5.40" index="12"/>
+      <Frame y="4.75" index="13"/>
+      <Frame y="4.05" index="14"/>
+      <Frame y="3.40" index="15"/>
+      <Frame y="2.70" index="16"/>
+      <Frame y="2.05" index="17"/>
+      <Frame y="1.35" index="18"/>
+      <Frame y="0.70" index="19"/>
+      <Frame index="20"/>
+    </Part>
+    <Part name="wolun">
+      <Frame x="33.00" y="36.00" index="0"/>
+      <Frame x="33.00" y="36.25" index="1"/>
+      <Frame x="33.00" y="36.45" index="2"/>
+      <Frame x="33.00" y="36.70" index="3"/>
+      <Frame x="33.00" y="36.90" index="4"/>
+      <Frame x="33.00" y="37.15" index="5"/>
+      <Frame x="33.00" y="37.35" index="6"/>
+      <Frame x="33.00" y="37.60" index="7"/>
+      <Frame x="33.00" y="37.80" index="8"/>
+      <Frame x="33.00" y="38.05" index="9"/>
+      <Frame x="33.00" y="38.25" index="10"/>
+      <Frame x="33.00" y="38.05" index="11"/>
+      <Frame x="33.00" y="37.80" index="12"/>
+      <Frame x="33.00" y="37.60" index="13"/>
+      <Frame x="33.00" y="37.35" index="14"/>
+      <Frame x="33.00" y="37.15" index="15"/>
+      <Frame x="33.00" y="36.90" index="16"/>
+      <Frame x="33.00" y="36.70" index="17"/>
+      <Frame x="33.00" y="36.45" index="18"/>
+      <Frame x="33.00" y="36.25" index="19"/>
+      <Frame x="33.00" y="36.00" index="20"/>
+    </Part>
+  </Animation>
+</Animations>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<soldiers>
+	<soldier name="soldier_1" width="300" height="300" scale="1.3" title="john bob">
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="config/soldier/01/de_sheets.xml"
+				animatioin_xml="config/soldier/01/de_stand_animations.xml" />
+		<animation name="fire" duration="0.5" repeat_count="2" 
+		        sheet_xml="config/soldier/01/de_sheets.xml"
+				animatioin_xml="config/soldier/01/de_fire_animations.xml" />
+		
+		<FireSpark duration="0.1" offset_x="215" offset_y="170" tex="pic/gun/ak47_fire_spark.png" />
+		<BulletCase rot_speed="180" offset_x="143" offset_y="200" tex="pic/gun/pistol_bulletcase.png" />
+	</soldier>
+
+	<soldier name="soldier_2" width="300" height="300" scale="1.3" cost_coin="25000" title="j.k.sophia">
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="pic/soldier/girl_02/saw_sheets.xml"
+				animatioin_xml="config/soldier/01/saw_stand_animations.xml" />
+		<animation name="fire" duration="0.7" repeat_count="2" 
+		        sheet_xml="pic/soldier/girl_02/saw_sheets.xml"
+				animatioin_xml="config/soldier/01/saw_fire_animations.xml" />
+	</soldier>
+	
+	<soldier name="soldier_3" width="300" height="300" scale="1.3" cost_coin="50000" title="ray park">
+		 
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="pic/soldier/rarger_suit/m4_sheets.xml"
+				animatioin_xml="config/soldier/01/m4_stand_animations.xml" />
+		<animation name="fire" duration="0.5" repeat_count="2" 
+		        sheet_xml="pic/soldier/rarger_suit/m4_sheets.xml"
+				animatioin_xml="config/soldier/01/m4_fire_animations.xml" />
+				
+		<FireSpark duration="0.1" offset_x="200" offset_y="180" tex="pic/gun/ak47_fire_spark.png" />
+		<BulletCase rot_speed="140" offset_x="113" offset_y="200" tex="pic/gun/rifle_bulletcase.png" />
+	</soldier>
+	
+	<soldier name="soldier_4" width="300" height="300" scale="1.33" cost_coin="100000" title="bane">
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="pic/soldier/death_suit/m870_sheets.xml"
+				animatioin_xml="config/soldier/01/m870_stand_animations.xml" />
+		<animation name="fire" duration="1.0" repeat_count="2" 
+		        sheet_xml="pic/soldier/death_suit/m870_sheets.xml"
+				animatioin_xml="config/soldier/01/m870_fire_animations.xml" />
+		
+		<FireSpark scale="1.4" duration="0.3" offset_x="230" offset_y="150" row_count="1" 
+				col_count="6" tex="pic/gun/m870_fire_spark.png" />
+		<BulletCase rot_speed="100" offset_x="113" offset_y="200" tex="pic/gun/m870_bulletcase.png" />
+	</soldier>
+	
+	<soldier name="soldier_6" width="300" height="300" scale="1.3" cost_crystal="150" title="snake eyes">
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="pic/soldier/ninjia/laser_sword_sheets.xml"
+				animatioin_xml="config/soldier/01/laser_sword_stand_animations.xml" />
+		<animation name="fire" duration="0.7" repeat_count="2" 
+		        sheet_xml="pic/soldier/ninjia/laser_sword_sheets.xml"
+				animatioin_xml="config/soldier/01/laser_sword_fire_animations.xml" />
+	</soldier>
+	
+	<soldier name="soldier_5" width="300" height="300" scale="1.3" cost_crystal="300" title="alex murphy">
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="pic/soldier/robocop_suit/laser_sword_sheets.xml"
+				animatioin_xml="config/soldier/01/laser_sword_stand_animations.xml" />
+		<animation name="fire" duration="0.7" repeat_count="2" 
+		        sheet_xml="pic/soldier/robocop_suit/laser_sword_sheets.xml"
+				animatioin_xml="config/soldier/01/laser_sword_fire_animations.xml" />
+	</soldier>
+	
+	<soldier name="soldier_7" width="300" height="300" scale="1.3" cost_crystal="600" title="franken dog">
+		<animation name="stand" duration="0.7" repeat_count="3" 
+		        sheet_xml="pic/soldier/mech_dog/ak47_sheets.xml"
+				animatioin_xml="config/soldier/01/ak47_stand_animations.xml" />
+		<animation name="fire" duration="0.5" repeat_count="2" 
+		        sheet_xml="pic/soldier/mech_dog/ak47_sheets.xml"
+				animatioin_xml="config/soldier/01/ak47_fire_animations.xml" />
+		
+		<FireSpark duration="0.1" offset_x="205" offset_y="175" tex="pic/gun/ak47_fire_spark.png" />
+		<BulletCase rot_speed="140" offset_x="113" offset_y="200" tex="pic/gun/rifle_bulletcase.png" />
+	</soldier>
+</soldiers>

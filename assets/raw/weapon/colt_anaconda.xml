@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soldier weapon_name="colt_anaconda" min_interval="0.4" multi_shot="0" 
+         width="300" height="300" centerX="118" soldier_width="150">
+
+	<animation name="walk_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/colt_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/colt_walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="stand_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/colt_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/colt_stand_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="fire_upper" duration="0.35">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/colt_upper_sheets.xml"
+			   animatioin_xml="config/soldier/01/colt_fire_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/lower_sheets.xml"
+			   animatioin_xml="config/soldier/01/colt_walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/soldier/01/lower_sheets.xml"
+			   animatioin_xml="config/soldier/01/colt_stand_animations.xml" zorder="2" />
+	</animation>
+	
+	<weapon_effect type="firearm" damage="120" shoot_distance="600" area_damage="0" bomb_radius="0">
+		<FireSpark duration="0.07" offset_x="205" offset_y="155" tex="pic/gun/ak47_fire_spark.png" />
+		<BulletCase offset_x="143" offset_y="200" tex="pic/gun/pistol_bulletcase.png" />
+	</weapon_effect>
+	
+	<Shadow offset_y="297" tex="pic/soldier/yinying.png" />
+</soldier>

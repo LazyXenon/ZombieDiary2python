@@ -1,0 +1,315 @@
+<Animations>
+  <Animation name="majiayou" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+  <Animation name="majiazuo" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+  <Animation name="qugan" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+  <Animation name="tou" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+  <Animation name="youbi" frameCount="24">
+    <Part name="guo">
+      <Frame x="87.00" y="47.15" index="0"/>
+      <Frame x="91.80" y="45.50" rotation="2.512" index="1"/>
+      <Frame x="96.60" y="43.95" rotation="5.025" index="2"/>
+      <Frame x="101.60" y="42.50" rotation="7.539" index="3"/>
+      <Frame x="106.75" y="41.00" rotation="10.191" index="4"/>
+      <Frame x="98.55" y="44.70" rotation="5.787" index="5"/>
+      <Frame x="90.55" y="48.55" rotation="1.523" index="6"/>
+      <Frame x="83.15" y="52.50" rotation="-2.554" index="7"/>
+      <Frame x="75.60" y="56.95" scaleX="0.999" scaleY="0.999" rotation="-7.004" index="8"/>
+      <Frame x="68.65" y="61.45" scaleX="0.999" scaleY="0.999" rotation="-11.272" index="9"/>
+      <Frame x="61.95" y="66.30" scaleX="0.999" scaleY="0.999" rotation="-15.541" index="10"/>
+      <Frame x="55.50" y="71.15" scaleX="0.999" scaleY="0.999" rotation="-19.812" index="11"/>
+      <Frame x="49.45" y="76.20" rotation="-24.209" index="12"/>
+      <Frame x="50.80" y="76.20" scaleX="0.998" scaleY="0.998" rotation="-24.549" index="13"/>
+      <Frame x="52.00" y="75.95" scaleX="0.998" scaleY="0.998" rotation="-24.827" index="14"/>
+      <Frame x="53.20" y="76.10" scaleX="0.999" scaleY="0.999" rotation="-25.277" index="15"/>
+      <Frame x="56.90" y="72.15" scaleX="0.998" scaleY="0.998" rotation="-22.055" index="16"/>
+      <Frame x="60.70" y="68.15" scaleX="0.998" scaleY="0.998" rotation="-18.822" index="17"/>
+      <Frame x="64.60" y="64.55" scaleX="0.998" scaleY="0.998" rotation="-15.776" index="18"/>
+      <Frame x="68.85" y="60.75" scaleX="0.999" scaleY="0.999" rotation="-12.543" index="19"/>
+      <Frame x="73.20" y="57.05" scaleX="0.999" scaleY="0.999" rotation="-9.312" index="20"/>
+      <Frame x="77.65" y="53.70" scaleX="0.999" scaleY="0.999" rotation="-6.269" index="21"/>
+      <Frame x="82.30" y="50.20" rotation="-3.040" index="22"/>
+      <Frame x="87.00" y="47.15" index="23"/>
+    </Part>
+    <Part name="majiayou">
+      <Frame x="111.00" y="132.00" index="0"/>
+      <Frame x="113.60" y="131.05" rotation="2.812" index="1"/>
+      <Frame x="116.40" y="130.15" rotation="5.813" index="2"/>
+      <Frame x="119.25" y="129.30" rotation="8.816" index="3"/>
+      <Frame x="122.25" y="128.55" rotation="11.995" index="4"/>
+      <Frame x="118.90" y="129.50" rotation="8.520" index="5"/>
+      <Frame x="115.55" y="130.60" rotation="5.036" index="6"/>
+      <Frame x="112.35" y="131.90" rotation="1.550" index="7"/>
+      <Frame x="109.45" y="133.15" rotation="-1.556" index="8"/>
+      <Frame x="106.30" y="134.70" rotation="-5.040" index="9"/>
+      <Frame x="103.30" y="136.30" rotation="-8.526" index="10"/>
+      <Frame x="100.35" y="138.10" scaleX="0.999" scaleY="0.999" rotation="-12.013" index="11"/>
+      <Frame x="97.40" y="139.95" rotation="-15.449" index="12"/>
+      <Frame x="98.55" y="139.10" scaleX="0.999" scaleY="0.999" rotation="-14.051" index="13"/>
+      <Frame x="99.55" y="138.35" scaleX="0.999" scaleY="0.999" rotation="-12.789" index="14"/>
+      <Frame x="100.65" y="137.70" scaleX="0.999" scaleY="0.999" rotation="-11.527" index="15"/>
+      <Frame x="101.75" y="137.00" scaleX="0.999" scaleY="0.999" rotation="-10.266" index="16"/>
+      <Frame x="102.95" y="136.20" scaleX="0.999" scaleY="0.999" rotation="-8.816" index="17"/>
+      <Frame x="104.00" y="135.50" rotation="-7.556" index="18"/>
+      <Frame x="105.10" y="134.85" rotation="-6.296" index="19"/>
+      <Frame x="106.25" y="134.20" rotation="-5.033" index="20"/>
+      <Frame x="107.45" y="133.60" rotation="-3.774" index="21"/>
+      <Frame x="108.55" y="133.00" rotation="-2.512" index="22"/>
+      <Frame x="109.75" y="132.40" rotation="-1.259" index="23"/>
+    </Part>
+    <Part name="majiazuo">
+      <Frame x="138.00" y="129.90" index="0"/>
+      <Frame x="140.50" y="129.55" rotation="2.781" index="1"/>
+      <Frame x="143.10" y="129.25" rotation="5.563" index="2"/>
+      <Frame x="145.85" y="129.00" scaleX="0.999" scaleY="0.999" rotation="8.534" index="3"/>
+      <Frame x="148.60" y="128.90" rotation="11.488" index="4"/>
+      <Frame x="145.30" y="129.20" rotation="7.814" index="5"/>
+      <Frame x="142.25" y="129.45" rotation="4.502" index="6"/>
+      <Frame x="139.15" y="129.95" rotation="1.004" index="7"/>
+      <Frame x="136.30" y="130.50" rotation="-2.307" index="8"/>
+      <Frame x="133.35" y="131.30" rotation="-5.807" index="9"/>
+      <Frame x="130.45" y="132.15" scaleX="0.999" scaleY="0.999" rotation="-9.308" index="10"/>
+      <Frame x="127.65" y="133.20" scaleX="0.999" scaleY="0.999" rotation="-12.810" index="11"/>
+      <Frame x="124.95" y="134.40" rotation="-16.445" index="12"/>
+      <Frame x="126.10" y="133.90" scaleX="0.999" scaleY="0.999" rotation="-15.028" index="13"/>
+      <Frame x="127.15" y="133.40" scaleX="0.999" scaleY="0.999" rotation="-13.557" index="14"/>
+      <Frame x="128.15" y="133.00" scaleX="0.999" scaleY="0.999" rotation="-12.274" index="15"/>
+      <Frame x="129.20" y="132.50" scaleX="0.999" scaleY="0.999" rotation="-10.802" index="16"/>
+      <Frame x="130.25" y="132.15" scaleX="0.999" scaleY="0.999" rotation="-9.518" index="17"/>
+      <Frame x="131.40" y="131.80" rotation="-8.047" index="18"/>
+      <Frame x="132.45" y="131.45" rotation="-6.764" index="19"/>
+      <Frame x="133.60" y="131.00" rotation="-5.293" index="20"/>
+      <Frame x="134.70" y="130.75" rotation="-4.010" index="21"/>
+      <Frame x="135.85" y="130.40" rotation="-2.539" index="22"/>
+      <Frame x="136.95" y="130.15" rotation="-1.279" index="23"/>
+    </Part>
+    <Part name="qungan">
+      <Frame x="118.20" y="128.05" index="0"/>
+      <Frame x="119.75" y="127.85" rotation="1.031" index="1"/>
+      <Frame x="121.30" y="127.70" rotation="2.063" index="2"/>
+      <Frame x="123.00" y="127.35" rotation="3.282" index="3"/>
+      <Frame x="124.70" y="127.10" rotation="4.499" index="4"/>
+      <Frame x="122.55" y="127.55" rotation="3.047" index="5"/>
+      <Frame x="120.55" y="127.95" rotation="1.783" index="6"/>
+      <Frame x="118.60" y="128.30" rotation="0.516" index="7"/>
+      <Frame x="116.70" y="128.60" rotation="-0.561" index="8"/>
+      <Frame x="114.55" y="129.15" rotation="-2.015" index="9"/>
+      <Frame x="112.65" y="129.65" rotation="-3.281" index="10"/>
+      <Frame x="110.70" y="130.15" rotation="-4.546" index="11"/>
+      <Frame x="108.60" y="130.85" rotation="-5.991" index="12"/>
+      <Frame x="109.50" y="130.50" rotation="-5.308" index="13"/>
+      <Frame x="110.25" y="130.30" rotation="-4.803" index="14"/>
+      <Frame x="111.10" y="130.00" rotation="-4.299" index="15"/>
+      <Frame x="111.85" y="129.85" rotation="-3.794" index="16"/>
+      <Frame x="112.65" y="129.60" rotation="-3.291" index="17"/>
+      <Frame x="113.40" y="129.35" rotation="-2.786" index="18"/>
+      <Frame x="114.25" y="129.05" rotation="-2.282" index="19"/>
+      <Frame x="115.00" y="128.95" rotation="-1.778" index="20"/>
+      <Frame x="115.80" y="128.70" rotation="-1.273" index="21"/>
+      <Frame x="116.60" y="128.45" rotation="-0.769" index="22"/>
+      <Frame x="117.40" y="128.15" rotation="-0.311" index="23"/>
+    </Part>
+    <Part name="tou">
+      <Frame x="87.00" y="63.00" index="0"/>
+      <Frame x="89.85" y="62.30" rotation="1.031" index="1"/>
+      <Frame x="92.75" y="61.60" rotation="2.063" index="2"/>
+      <Frame x="95.70" y="60.80" rotation="3.282" index="3"/>
+      <Frame x="98.70" y="59.80" rotation="4.499" index="4"/>
+      <Frame x="94.40" y="61.35" rotation="3.047" index="5"/>
+      <Frame x="90.25" y="62.65" rotation="1.783" index="6"/>
+      <Frame x="86.10" y="64.05" rotation="0.516" index="7"/>
+      <Frame x="82.20" y="65.30" rotation="-0.561" index="8"/>
+      <Frame x="77.95" y="66.85" rotation="-2.015" index="9"/>
+      <Frame x="73.95" y="68.35" rotation="-3.281" index="10"/>
+      <Frame x="69.85" y="69.75" rotation="-4.546" index="11"/>
+      <Frame x="65.80" y="71.40" rotation="-5.991" index="12"/>
+      <Frame x="67.65" y="70.55" rotation="-5.308" index="13"/>
+      <Frame x="69.35" y="69.80" rotation="-4.803" index="14"/>
+      <Frame x="71.15" y="69.10" rotation="-4.299" index="15"/>
+      <Frame x="72.90" y="68.40" rotation="-3.794" index="16"/>
+      <Frame x="74.65" y="67.65" rotation="-3.291" index="17"/>
+      <Frame x="76.45" y="67.00" rotation="-2.786" index="18"/>
+      <Frame x="78.25" y="66.25" rotation="-2.282" index="19"/>
+      <Frame x="80.00" y="65.55" rotation="-1.778" index="20"/>
+      <Frame x="81.80" y="64.85" rotation="-1.273" index="21"/>
+      <Frame x="83.55" y="64.15" rotation="-0.769" index="22"/>
+      <Frame x="85.40" y="63.50" rotation="-0.311" index="23"/>
+    </Part>
+    <Part name="youbi">
+      <Frame x="76.05" y="128.85" rotation="7.194" index="0"/>
+      <Frame x="80.20" y="123.80" scaleX="0.999" scaleY="0.999" rotation="13.274" index="1"/>
+      <Frame x="84.70" y="118.80" scaleX="0.999" scaleY="0.999" rotation="19.312" index="2"/>
+      <Frame x="89.50" y="114.15" scaleX="0.999" scaleY="0.999" rotation="25.522" index="3"/>
+      <Frame x="84.25" y="121.60" scaleX="0.999" scaleY="0.999" rotation="15.520" index="4"/>
+      <Frame x="79.75" y="129.80" scaleX="0.999" scaleY="0.999" rotation="5.510" index="5"/>
+      <Frame x="76.00" y="138.25" scaleX="0.999" scaleY="0.999" rotation="-4.304" index="6"/>
+      <Frame x="73.10" y="147.30" rotation="-14.459" index="7"/>
+      <Frame x="72.85" y="139.50" scaleX="0.999" scaleY="0.999" rotation="-4.304" index="8"/>
+      <Frame x="73.30" y="132.10" scaleX="0.999" scaleY="0.999" rotation="5.509" index="9"/>
+      <Frame x="74.60" y="125.15" scaleX="0.999" scaleY="0.999" rotation="15.520" index="10"/>
+      <Frame x="76.75" y="118.90" scaleX="0.999" scaleY="0.999" rotation="25.522" index="11"/>
+      <Frame x="73.40" y="126.00" scaleX="0.999" scaleY="0.999" rotation="15.520" index="12"/>
+      <Frame x="70.80" y="133.65" scaleX="0.999" scaleY="0.999" rotation="5.510" index="13"/>
+      <Frame x="69.10" y="141.70" scaleX="0.999" scaleY="0.999" rotation="-4.304" index="14"/>
+      <Frame x="68.10" y="150.30" rotation="-14.459" index="15"/>
+      <Frame x="70.35" y="141.00" scaleX="0.999" scaleY="0.999" rotation="-4.304" index="16"/>
+      <Frame x="73.45" y="132.25" scaleX="0.999" scaleY="0.999" rotation="5.509" index="17"/>
+      <Frame x="77.35" y="123.90" scaleX="0.999" scaleY="0.999" rotation="15.520" index="18"/>
+      <Frame x="82.00" y="116.15" scaleX="0.999" scaleY="0.999" rotation="25.522" index="19"/>
+      <Frame x="78.55" y="123.20" scaleX="0.999" scaleY="0.999" rotation="15.520" index="20"/>
+      <Frame x="75.65" y="130.95" scaleX="0.999" scaleY="0.999" rotation="5.510" index="21"/>
+      <Frame x="73.75" y="139.10" scaleX="0.999" scaleY="0.999" rotation="-4.304" index="22"/>
+      <Frame x="72.60" y="147.80" rotation="-14.459" index="23"/>
+    </Part>
+    <Part name="youtui">
+      <Frame x="112.95" y="176.35" rotation="-0.001" index="0"/>
+      <Frame x="112.95" y="176.35" index="1"/>
+      <Frame x="112.95" y="176.35" index="2"/>
+      <Frame x="112.95" y="176.35" index="3"/>
+      <Frame x="112.95" y="176.35" rotation="-0.001" index="4"/>
+      <Frame x="112.50" y="176.55" rotation="-0.562" index="5"/>
+      <Frame x="112.00" y="176.75" rotation="-1.312" index="6"/>
+      <Frame x="111.40" y="177.05" rotation="-2.060" index="7"/>
+      <Frame x="110.90" y="177.30" rotation="-2.810" index="8"/>
+      <Frame x="110.35" y="177.65" rotation="-3.560" index="9"/>
+      <Frame x="109.85" y="177.85" rotation="-4.309" index="10"/>
+      <Frame x="109.35" y="178.15" rotation="-5.059" index="11"/>
+      <Frame x="108.70" y="178.50" rotation="-5.975" index="12"/>
+      <Frame x="109.05" y="178.25" rotation="-5.303" index="13"/>
+      <Frame x="109.45" y="178.05" rotation="-4.800" index="14"/>
+      <Frame x="109.75" y="177.85" rotation="-4.295" index="15"/>
+      <Frame x="110.15" y="177.70" rotation="-3.791" index="16"/>
+      <Frame x="110.50" y="177.50" rotation="-3.289" index="17"/>
+      <Frame x="110.85" y="177.30" rotation="-2.784" index="18"/>
+      <Frame x="111.20" y="177.10" rotation="-2.280" index="19"/>
+      <Frame x="111.60" y="176.95" rotation="-1.777" index="20"/>
+      <Frame x="111.90" y="176.75" rotation="-1.272" index="21"/>
+      <Frame x="112.30" y="176.60" rotation="-0.769" index="22"/>
+      <Frame x="112.65" y="176.45" rotation="-0.311" index="23"/>
+    </Part>
+    <Part name="zuobi">
+      <Frame x="89.75" y="147.10" rotation="-8.217" index="0"/>
+      <Frame x="92.00" y="151.35" scaleX="0.999" scaleY="0.999" rotation="-12.026" index="1"/>
+      <Frame x="94.35" y="155.75" scaleX="0.999" scaleY="0.999" rotation="-15.807" index="2"/>
+      <Frame x="96.85" y="160.20" rotation="-19.773" index="3"/>
+      <Frame x="95.40" y="150.05" scaleX="0.999" scaleY="0.999" rotation="-10.814" index="4"/>
+      <Frame x="94.85" y="140.35" rotation="-2.046" index="5"/>
+      <Frame x="95.05" y="131.15" scaleX="0.999" scaleY="0.999" rotation="6.531" index="6"/>
+      <Frame x="95.95" y="122.15" rotation="15.411" index="7"/>
+      <Frame x="91.90" y="130.90" scaleX="0.999" scaleY="0.999" rotation="6.532" index="8"/>
+      <Frame x="88.75" y="139.90" rotation="-2.045" index="9"/>
+      <Frame x="86.30" y="149.40" scaleX="0.999" scaleY="0.999" rotation="-10.813" index="10"/>
+      <Frame x="84.60" y="159.20" rotation="-19.773" index="11"/>
+      <Frame x="84.45" y="149.30" scaleX="0.999" scaleY="0.999" rotation="-10.814" index="12"/>
+      <Frame x="85.20" y="139.85" rotation="-2.046" index="13"/>
+      <Frame x="86.65" y="130.80" scaleX="0.999" scaleY="0.999" rotation="6.531" index="14"/>
+      <Frame x="88.95" y="122.15" rotation="15.411" index="15"/>
+      <Frame x="87.80" y="130.85" scaleX="0.999" scaleY="0.999" rotation="6.532" index="16"/>
+      <Frame x="87.50" y="139.75" rotation="-2.045" index="17"/>
+      <Frame x="87.90" y="149.20" scaleX="0.999" scaleY="0.999" rotation="-10.813" index="18"/>
+      <Frame x="89.10" y="158.95" rotation="-19.773" index="19"/>
+      <Frame x="89.40" y="149.00" scaleX="0.999" scaleY="0.999" rotation="-10.814" index="20"/>
+      <Frame x="90.55" y="139.40" rotation="-2.046" index="21"/>
+      <Frame x="92.45" y="130.35" scaleX="0.999" scaleY="0.999" rotation="6.531" index="22"/>
+      <Frame x="95.20" y="121.65" rotation="15.411" index="23"/>
+    </Part>
+    <Part name="zuotui">
+      <Frame x="137.05" y="180.75" rotation="-0.001" index="0"/>
+      <Frame x="137.05" y="180.75" index="1"/>
+      <Frame x="137.05" y="180.75" index="2"/>
+      <Frame x="137.05" y="180.75" index="3"/>
+      <Frame x="137.05" y="180.75" rotation="-0.001" index="4"/>
+      <Frame x="136.20" y="181.05" rotation="-1.781" index="5"/>
+      <Frame x="135.35" y="181.45" rotation="-3.751" index="6"/>
+      <Frame x="134.55" y="181.80" rotation="-5.533" index="7"/>
+      <Frame x="133.75" y="182.20" rotation="-7.503" index="8"/>
+      <Frame x="133.00" y="182.60" scaleX="0.999" scaleY="0.999" rotation="-9.286" index="9"/>
+      <Frame x="132.25" y="183.05" scaleX="0.999" scaleY="0.999" rotation="-11.257" index="10"/>
+      <Frame x="131.55" y="183.50" scaleX="0.999" scaleY="0.999" rotation="-13.041" index="11"/>
+      <Frame x="130.85" y="184.05" rotation="-15.000" index="12"/>
+      <Frame x="131.35" y="183.65" scaleX="0.999" scaleY="0.999" rotation="-13.574" index="13"/>
+      <Frame x="131.85" y="183.35" scaleX="0.999" scaleY="0.999" rotation="-12.320" index="14"/>
+      <Frame x="132.35" y="183.05" scaleX="0.999" scaleY="0.999" rotation="-11.070" index="15"/>
+      <Frame x="132.85" y="182.75" scaleX="0.999" scaleY="0.999" rotation="-9.820" index="16"/>
+      <Frame x="133.35" y="182.45" scaleX="0.999" scaleY="0.999" rotation="-8.567" index="17"/>
+      <Frame x="133.85" y="182.25" rotation="-7.316" index="18"/>
+      <Frame x="134.40" y="181.90" rotation="-6.066" index="19"/>
+      <Frame x="134.90" y="181.70" rotation="-4.814" index="20"/>
+      <Frame x="135.40" y="181.45" rotation="-3.751" index="21"/>
+      <Frame x="135.90" y="181.25" rotation="-2.501" index="22"/>
+      <Frame x="136.50" y="181.05" rotation="-1.250" index="23"/>
+    </Part>
+  </Animation>
+  <Animation name="youtui" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+  <Animation name="zuobi" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+  <Animation name="zuotui" frameCount="0">
+    <Part name="guo"/>
+    <Part name="majiayou"/>
+    <Part name="majiazuo"/>
+    <Part name="qungan"/>
+    <Part name="tou"/>
+    <Part name="youbi"/>
+    <Part name="youtui"/>
+    <Part name="zuobi"/>
+    <Part name="zuotui"/>
+  </Animation>
+</Animations>

@@ -1,0 +1,8 @@
+<Textures>
+  <TextureSheet name="jijia00act00">
+    <Texture name="zuotui01" width="77" height="77" path="pic/mech/03/youtui01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="zuotui04" width="135" height="44" path="pic/mech/03/youtui04.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="zuotui03" width="112" height="81" path="pic/mech/03/youtui03.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="zuotui02" width="56" height="54" path="pic/mech/01/youtui02.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

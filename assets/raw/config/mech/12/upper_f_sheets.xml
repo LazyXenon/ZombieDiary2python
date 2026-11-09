@@ -1,0 +1,5 @@
+<Textures>
+  <TextureSheet name="feixingqi">
+    <Texture name="qiangqian" width="73" height="29" path="pic/mech/12/jiqiang1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+  </TextureSheet>
+</Textures>

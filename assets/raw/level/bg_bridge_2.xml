@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<battle_field>
+
+	<parallax_background>
+		<scroll_background zorder="1" speed_ratio="1.0" is_in_water="1" water_type="1" bg_seq="0, 1, 2, 3, 4">
+			<background bg_tex="pic_bg/background/bridge_01.jpg" mask_tex="pic_png/background/bridge_01_mask.png" odds="20"/>
+			<background bg_tex="pic_bg/background/bridge_02.jpg" mask_tex="pic_png/background/bridge_02_mask.png" odds="20"/>
+			<background bg_tex="pic_bg/background/bridge_03.jpg" mask_tex="pic_png/background/bridge_03_mask.png" odds="20"/>
+			<background bg_tex="pic_bg/background/bridge_04.jpg" mask_tex="pic_png/background/bridge_04_mask.png" odds="20"/>
+			<background bg_tex="pic_bg/background/bridge_05.jpg" mask_tex="pic_png/background/bridge_05_mask.png" odds="20"/>
+		</scroll_background>
+		
+	</parallax_background>
+	
+</battle_field>

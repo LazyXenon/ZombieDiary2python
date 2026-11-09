@@ -1,0 +1,5 @@
+<Textures>
+  <TextureSheet name="xuezi">
+    <Texture name="xuezi1" width="127" height="55" path="pic_png/background/water_blood/xuezi1.png" registrationPointX="1.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

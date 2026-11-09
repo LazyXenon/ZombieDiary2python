@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<zombie name="zombie_1" bonus="300" />
+	<zombie name="zombie_2" bonus="25" />
+	<zombie name="zombie_3" bonus="35" />
+	<zombie name="zombie_4" bonus="60" />
+	<zombie name="zombie_5" bonus="60" />
+	<zombie name="zombie_6" bonus="70" />
+	<zombie name="zombie_7" bonus="160" />
+	<zombie name="zombie_8" bonus="30" />
+	<zombie name="zombie_9" bonus="12" />
+	<zombie name="zombie_10" bonus="60" />
+	<zombie name="zombie_11" bonus="100" />
+	<zombie name="zombie_12" bonus="200" />
+	<zombie name="zombie_13" bonus="40" />
+	<zombie name="zombie_14" bonus="10" />
+	<zombie name="zombie_15" bonus="100" />
+	<zombie name="zombie_16" bonus="80" />
+	<zombie name="zombie_17" bonus="240" />
+	<zombie name="zombie_18" bonus="50" />
+	<zombie name="zombie_19" bonus="120" />
+	
+	<zombie name="boss_4" bonus="1800" />
+	<zombie name="boss_3" bonus="600" />
+	<zombie name="boss_2" bonus="1200" />
+	<zombie name="boss_1" bonus="3600" />
+</config>

@@ -1,0 +1,426 @@
+{
+"resolved": {
+"0xcc7e7704": "pic/ui/daily_task/task.png",
+"0xcc5e2504": "pic/ui/zk_shop/icon.png",
+"0xcc5e2684": "pic/ui/map/button_slots.png",
+"0xcc5e2804": "pic/ui/map/button_reward_notify.png",
+"0xcc5e2984": "pic/ui/shop/button_back.png",
+"0xd079f284": "pic/ui/map/map_up_bar.png",
+"0xc7dff884": "pic/ui/shop/up_bar.png",
+"0xc7dffb04": "pic/ui/shop/up_bar.png",
+"0xec050004": "pic/ui/shop/up_bar.png",
+"0xec050284": "pic/ui/shop/up_bar.png",
+"0xec050504": "pic/ui/shop/up_bar.png",
+"0xec050784": "pic/ui/shop/up_bar.png",
+"0xec050a04": "pic/ui/shop/up_bar.png",
+"0xec050c84": "pic/ui/shop/up_bar.png",
+"0xec050f04": "pic/ui/map/map_lab_light_3.png",
+"0xec051184": "pic/ui/map/map_cemetery_light_l.png",
+"0xec051404": "pic/ui/map/map_cemetery_light_r.png",
+"0xec051684": "pic/ui/map/map_lcd_light.png",
+"0xec051904": "pic/ui/map/map_country_light.png",
+"0xec051b84": "pic/ui/map/map_country_light.png",
+"0xec051e04": "pic/ui/map/map_country_light.png",
+"0xec052584": "pic/soldier/death_suit/zuobi.png",
+"0xec052804": "pic/soldier/death_suit/zuobi.png",
+"0xec052a84": "pic/soldier/death_suit/zuobi.png",
+"0xec052d04": "pic/soldier/death_suit/zuobi.png",
+"0xec053204": "pic/soldier/death_suit/zuobi.png",
+"0xd64c0484": "pic/ui/map/zone_hospital.png",
+"0xd69fd004": "pic/ui/map/map_bg_mission.png",
+"0xf2938784": "pic/mech/01/tou.png",
+"0xec0fca04": "pic/ui/map/button_shop.png",
+"0xec0fcd04": "pic/ui/map/button_achivement.png",
+"0xcc7e5184": "pic/ui/map/button_achivement.png",
+"0xcc5e2b04": "pic/ui/buttons/add_crystal_button.png",
+"0xec053484": "pic/ui/dialog/level_start_bg.png",
+"0xec053704": "pic/ui/dialog/recommend_bg_2.png",
+"0xd69fd184": "pic/effect/focus_level_effect/man01act01/b01.png",
+"0xc7dfc684": "pic/ui/daily_task/task.png",
+"0xc7dfc904": "pic/ui/map/count_bg.png",
+"0xc7dfce04": "pic/ui/zk_shop/icon.png",
+"0xc7dfd084": "pic/ui/map/button_slots.png",
+"0xc7dfd304": "pic/ui/map/text_free_slot.png",
+"0xc7dfd584": "pic/ui/map/button_reward_notify.png",
+"0xc7dfd804": "pic/ui/shop/button_back.png",
+"0xd64c0e84": "pic/gun/m870_fire_spark.png",
+"0xc7dfda84": "pic/ui/common/coin.png",
+"0xc7dfec04": "pic/ui/common/crystal.png",
+"0xf28b1e04": "pic/ui/dialog/level_start_bg.png",
+"0xcc5e2c84": "pic/ui/dialog/button_accept.png",
+"0xcc5e2e04": "pic/ui/dialog/button_close.png",
+"0xcc5e2f84": "pic/ui/recommend/button_buy.png",
+"0xcc5e3104": "pic/ui/recommend/button_buy.png",
+"0xcc5e3284": "pic/ui/recommend/button_buy.png",
+"0xd64bff84": "pic/ui/map/map_bg_mission.png",
+"0xd64c0204": "pic/ui/map/map_mission_kill.png",
+"0xd64c1104": "pic/gun/m870_fire_spark.png",
+"0xd07a3884": "pic/ui/map/button_shop.png",
+"0xc7dfb004": "pic/ui/map/button_achivement.png",
+"0xc7dfb504": "pic/ui/map/count_bg.png",
+"0xc7dfc404": "pic/ui/map/button_setting.png",
+"0xc7dfdf84": "pic/fonts/score_blue.png",
+"0xc7dfe204": "pic/fonts/score_blue.png",
+"0xc7dfe484": "pic/fonts/score_blue.png",
+"0xc7dfe704": "pic/fonts/score_blue.png",
+"0xc7dfe984": "pic/fonts/score_blue.png",
+"0xc7dff104": "pic/ui/dialog/level_start_bg.png",
+"0xc7dff384": "pic/ui/buttons/add_crystal_button.png",
+"0xf28b3844": "pic/ui/dialog/preview_bg.png",
+"0xd6847c84": "pic/ui/dialog/text_bankside.png",
+"0xd6847f04": "pic/ui/dialog/kill_mission_text_1.png",
+"0xd6848684": "pic/ui/dialog/kill_mission_text_2.png",
+"0xd6848904": "pic/ui/dialog/text_reward.png",
+"0xd64bd784": "pic/ui/bank/big_sale.png",
+"0xd64bda04": "pic/ui/shop/ability_airstrike.png",
+"0xd64bdc84": "pic/gun/burn_fire.png",
+"0xcc5d9f44": "pic/effect/focus_level_effect/man01act01/b01.png",
+"0xcc5da104": "pic/effect/add_time/paopao/s01.png",
+"0xcc5da2c4": "pic/effect/focus_level_effect/man01act01/b03.png",
+"0xc7dfc184": "pic/gun/m870_fire_spark.png",
+"0xd6847784": "pic/gun/freezer_wave.png",
+"0xd6847a04": "pic/ui/dialog/preview_bg.png",
+"0xd6848184": "pic/fonts/shop_gun_number.png",
+"0xd6848404": "pic/fonts/shop_gun_number.png",
+"0xd64c1884": "pic/ui/common/coin.png",
+"0xc7dfcb84": "pic/ui/common/crystal.png",
+"0xd6847004": "pic/ui/dialog/gift.png",
+"0xec053984": "pic/ui/dialog/button_accept.png",
+"0xec053c04": "pic/ui/dialog/button_close.png",
+"0xf28b35c4": "pic/ui/recommend/offer_wall.png",
+"0xec053e84": "pic/ui/recommend/button_buy.png",
+"0xec054104": "pic/ui/recommend/button_buy.png",
+"0xec054384": "pic/ui/recommend/button_buy.png",
+"0xd64c0704": "pic/effect/focus_level_effect/man01act01/r01.png",
+"0xd64c0984": "pic/effect/focus_level_effect/man01act01/r02.png",
+"0xd64c0c04": "pic/effect/focus_level_effect/man01act01/r03.png",
+"0xd64c1d84": "pic/fonts/score_blue.png",
+"0xd079fa04": "pic/fonts/score_blue.png",
+"0xd07a3384": "pic/fonts/score_blue.png",
+"0xc7dfee84": "pic/ui/dialog/level_start_bg.png",
+"0xd6847504": "pic/gun/m870_fire_spark.png",
+"0xd64bdf04": "pic/ui/common/spark_5.png",
+"0xd64be184": "pic/ui/common/spark_5.png",
+"0xd64be404": "pic/ui/common/spark_5.png",
+"0xd64be684": "pic/ui/common/spark_5.png",
+"0xd64be904": "pic/ui/common/spark_5.png",
+"0xd64beb84": "pic/ui/common/spark_5.png",
+"0xd64bee04": "pic/ui/common/spark_5.png",
+"0xd64bf084": "pic/ui/common/spark_5.png",
+"0xd64bf304": "pic/ui/common/spark_5.png",
+"0xd64bf584": "pic/ui/common/spark_5.png",
+"0xd64bf804": "pic/ui/common/spark_5.png",
+"0xd64bfa84": "pic/ui/common/spark_5.png",
+"0xd64bfd04": "pic/ui/common/spark_5.png",
+"0xd64c1384": "pic/ui/common/spark_5.png",
+"0xd64c1604": "pic/ui/common/spark_5.png"
+},
+"sub": {
+"0xc7dff884": [
+7,
+14,
+7,
+14
+],
+"0xc7dffb04": [
+7,
+14,
+7,
+14
+],
+"0xec050004": [
+7,
+14,
+7,
+14
+],
+"0xec050284": [
+7,
+14,
+7,
+14
+],
+"0xec050504": [
+7,
+14,
+7,
+14
+],
+"0xec050784": [
+7,
+14,
+7,
+14
+],
+"0xec050a04": [
+7,
+14,
+7,
+14
+],
+"0xec050c84": [
+7,
+14,
+7,
+14
+],
+"0xec052584": [
+0,
+0,
+5,
+1
+],
+"0xec052804": [
+0,
+0,
+5,
+1
+],
+"0xec052a84": [
+0,
+0,
+5,
+1
+],
+"0xec052d04": [
+0,
+0,
+5,
+1
+],
+"0xec053204": [
+0,
+0,
+1,
+1
+],
+"0xf2938784": [
+1,
+1,
+1,
+1
+],
+"0xd64c0e84": [
+0,
+0,
+36,
+40
+],
+"0xd64c1104": [
+252,
+0,
+36,
+40
+],
+"0xc7dfdf84": [
+72,
+0,
+36,
+40
+],
+"0xc7dfe204": [
+360,
+0,
+36,
+40
+],
+"0xc7dfe484": [
+324,
+0,
+36,
+40
+],
+"0xc7dfe704": [
+324,
+0,
+36,
+40
+],
+"0xc7dfe984": [
+324,
+0,
+36,
+40
+],
+"0xc7dff104": [
+144,
+0,
+36,
+40
+],
+"0xd64bd784": [
+0,
+0,
+85,
+62
+],
+"0xd64bdc84": [
+36,
+36,
+36,
+36
+],
+"0xc7dfc184": [
+324,
+0,
+36,
+40
+],
+"0xd6847784": [
+0,
+0,
+213,
+128
+],
+"0xd6848184": [
+13,
+0,
+13,
+15
+],
+"0xd6848404": [
+0,
+0,
+13,
+15
+],
+"0xd64c1d84": [
+252,
+0,
+36,
+40
+],
+"0xd079fa04": [
+324,
+0,
+36,
+40
+],
+"0xd07a3384": [
+324,
+0,
+36,
+40
+],
+"0xc7dfee84": [
+0,
+0,
+36,
+40
+],
+"0xd6847504": [
+0,
+0,
+36,
+40
+]
+},
+"glyph": {
+"0xc7dfdf84": {
+"font": "pic/fonts/score_blue.png",
+"cx": 72,
+"cw": 36,
+"ch": 40
+},
+"0xc7dfe204": {
+"font": "pic/fonts/score_blue.png",
+"cx": 360,
+"cw": 36,
+"ch": 40
+},
+"0xc7dfe484": {
+"font": "pic/fonts/score_blue.png",
+"cx": 324,
+"cw": 36,
+"ch": 40
+},
+"0xc7dfe704": {
+"font": "pic/fonts/score_blue.png",
+"cx": 324,
+"cw": 36,
+"ch": 40
+},
+"0xc7dfe984": {
+"font": "pic/fonts/score_blue.png",
+"cx": 324,
+"cw": 36,
+"ch": 40
+},
+"0xd6848184": {
+"font": "pic/fonts/shop_gun_number.png",
+"cx": 13,
+"cw": 13,
+"ch": 15
+},
+"0xd6848404": {
+"font": "pic/fonts/shop_gun_number.png",
+"cx": 0,
+"cw": 13,
+"ch": 15
+},
+"0xd64c1d84": {
+"font": "pic/fonts/score_blue.png",
+"cx": 252,
+"cw": 36,
+"ch": 40
+},
+"0xd079fa04": {
+"font": "pic/fonts/score_blue.png",
+"cx": 324,
+"cw": 36,
+"ch": 40
+},
+"0xd07a3384": {
+"font": "pic/fonts/score_blue.png",
+"cx": 324,
+"cw": 36,
+"ch": 40
+}
+},
+"missing": [
+"0xf2975440",
+"0xebf7ad84",
+"0xf2938084",
+"0xf2977384",
+"0xf28b1684",
+"0xcc54fa04",
+"0xf29385c4",
+"0xf2976ac4",
+"0xd079f004",
+"0xec052084",
+"0xec052304",
+"0xec052f84",
+"0xf28b03c4",
+"0xf28b1184",
+"0xf28b12c4",
+"0xf28b1404",
+"0xf28b1544",
+"0xf28b17c4",
+"0xcc5d9304",
+"0xf28b1a44",
+"0xf28b1cc4",
+"0xf28b3344",
+"0xcc5e1784",
+"0xf2977ec4",
+"0xf28b0004",
+"0xf28b0284",
+"0xf2939ac4",
+"0xf2939c84",
+"0xf28b1904",
+"0xf28b2f84",
+"0xf28b30c4",
+"0xf28b3204",
+"0xf28b3484",
+"0xd07b0e84",
+"0xcc5d6d04",
+"0xf28b3704",
+"0xf28b1f44",
+"0xf28b2084",
+"0xf28b21c4",
+"0xf28b2304",
+"0xf28b2444",
+"0xcc5d9bc4",
+"0xcc5d9d84",
+"0xcc5da484"
+]
+}

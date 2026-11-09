@@ -1,0 +1,22 @@
+<Textures>
+  <TextureSheet name="paopao" >
+      <Texture name="r01" width="104" height="104" path="paopao/r01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="18" />
+      <Texture name="bb01" width="122" height="119" path="paopao/bb01.png" registrationPointX="0.53" registrationPointY="-0.53" zIndex="17" />
+      <Texture name="b01" width="104" height="104" path="paopao/b01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="16" />
+      <Texture name="s15" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="15" />
+      <Texture name="s14" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="14" />
+      <Texture name="s13" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="13" />
+      <Texture name="s12" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="12" />
+      <Texture name="s11" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="11" />
+      <Texture name="s10" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="10" />
+      <Texture name="s09" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="9" />
+      <Texture name="s08" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="8" />
+      <Texture name="s07" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="7" />
+      <Texture name="s06" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="6" />
+      <Texture name="s05" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="5" />
+      <Texture name="s04" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="4" />
+      <Texture name="s03" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="3" />
+      <Texture name="s02" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="2" />
+      <Texture name="s01" width="84" height="84" path="paopao/s01.png" registrationPointX="1.06" registrationPointY="1.06" zIndex="1" />
+  </TextureSheet>
+</Textures>

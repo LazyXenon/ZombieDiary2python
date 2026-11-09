@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<battle_field>
+  <zombie_type zombie_name="zombie_16" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="zombie_19" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="boss_2" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="zombie_13" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="zombie_18" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="boss_2" update_time="5" capacity="20"/>
+  <zombie_type zombie_name="boss_1" update_time="7" capacity="20"/>
+  <zombie_type zombie_name="zombie_7" update_time="2" capacity="20"/>
+  <zombie_type zombie_name="zombie_18" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="zombie_16" update_time="3" capacity="20"/>
+  <zombie_type zombie_name="zombie_7" update_time="4" capacity="20"/>
+  <zombie_type zombie_name="zombie_15" update_time="2" capacity="20"/>
+  <zombie_type zombie_name="zombie_15" update_time="3" capacity="20"/>
+</battle_field>

@@ -1,0 +1,6 @@
+<Textures>
+  <TextureSheet name="jijia00act00">
+     <Texture name="shenti" width="142" height="175" path="pic/mech/08/shenti.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+     <Texture name="tou" width="105" height="84" path="pic/mech/08/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+   </TextureSheet>
+</Textures>

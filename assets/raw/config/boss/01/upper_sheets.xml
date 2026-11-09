@@ -1,0 +1,12 @@
+<Textures>
+  <TextureSheet name="zombie01act01">
+    <Texture name="zuobid" width="134" height="108" path="pic_png/boss/01/zuobid.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="zuobiu" width="88" height="118" path="pic_png/boss/01/zuobiu.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="tou" width="112" height="135" path="pic_png/boss/01/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="youshou" width="63" height="64" path="pic_png/boss/01/youshou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="fu" width="367" height="232" path="pic_png/boss/01/fu.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="qugan" width="155" height="225" path="pic_png/boss/01/qugan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="youbid" width="82" height="70" path="pic_png/boss/01/youbid.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="youbiu" width="61" height="106" path="pic_png/boss/01/youbiu.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

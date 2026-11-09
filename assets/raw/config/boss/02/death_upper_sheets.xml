@@ -1,0 +1,13 @@
+<Textures>
+  <TextureSheet name="zombie01act01">
+    <Texture name="zuobi" width="55" height="91" path="pic_png/boss/02/zuobi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="daozuo" width="159" height="56" path="pic_png/boss/02/daozuo.png" registrationPointX="0.00" registrationPointY="-3.00" zIndex="10"/>
+    <Texture name="daozuo0" width="162" height="60" path="pic_png/boss/02/daozuo_1.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="majiazuo" width="84" height="112" path="pic_png/boss/02/majiazuo.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="tou" width="91" height="100" path="pic_png/boss/02/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="qugan" width="96" height="105" path="pic_png/boss/02/qugan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="majiayou" width="94" height="102" path="pic_png/boss/02/majiayou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="youbi" width="59" height="62" path="pic_png/boss/02/youbi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="daoyou" width="159" height="56" path="pic_png/boss/02/daozuo.png" registrationPointX="-1.00" registrationPointY="0.00"/>
+  </TextureSheet>
+</Textures>

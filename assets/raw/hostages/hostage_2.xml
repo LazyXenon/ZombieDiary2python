@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hostage name="hostage_2" stand_distance="210" walk_distance="230" blood="600" speed="160" 
+     width="140" height="147" centerX="70" hostage_width="150" >
+
+   <animation name="walk_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/hostage/02/upper_sheets.xml"
+			   animatioin_xml="config/hostage/01/walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="stand_upper" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/hostage/02/upper_sheets.xml"
+			   animatioin_xml="config/hostage/01/stand_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/hostage/02/lower_sheets.xml"
+			   animatioin_xml="config/hostage/01/walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/hostage/02/lower_sheets.xml"
+			   animatioin_xml="config/hostage/01/stand_animations.xml" zorder="2" />
+	</animation>
+	
+	<Shadow offset_y="140" tex="pic/soldier/yinying.png" />
+	
+</hostage>

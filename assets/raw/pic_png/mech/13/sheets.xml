@@ -1,0 +1,11 @@
+<Textures>
+  <TextureSheet name="feiji" >
+      <Texture name="luoxuanjiang04" width="373" height="28" path="pic_png/mech/13/luoxuanjiang04.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="7" />
+      <Texture name="luoxuanjiang03" width="366" height="30" path="pic_png/mech/13/luoxuanjiang03.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="6" />
+      <Texture name="luoxuanjiang02" width="372" height="28" path="pic_png/mech/13/luoxuanjiang02.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="5" />
+      <Texture name="luoxuanjiang01" width="364" height="30" path="pic_png/mech/13/luoxuanjiang01.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="4" />
+      <Texture name="weiyi06" width="76" height="76" path="pic_png/mech/13/weiyi06.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="3" />
+      <Texture name="weiyi05" width="76" height="76" path="pic_png/mech/13/weiyi05.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="2" />
+      <Texture name="feiji01" width="513" height="287" path="pic_png/mech/13/feiji01.png" registrationPointX="0.88" registrationPointY="0.88" zIndex="1" />
+  </TextureSheet>
+</Textures>

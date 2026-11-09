@@ -1,0 +1,123 @@
+<Animations>
+  <Animation name="lws" frameCount="8">
+    <Part name="danyaoxiang">
+      <Frame x="22.05" y="34.00" rotation="6.740" index="0"/>
+      <Frame x="16.80" y="34.10" rotation="7.552" index="1"/>
+      <Frame x="11.55" y="34.00" rotation="8.638" index="2"/>
+      <Frame x="16.85" y="34.05" rotation="7.551" index="3"/>
+      <Frame x="22.05" y="34.00" rotation="6.740" index="4"/>
+      <Frame x="16.30" y="35.40" rotation="6.557" index="5"/>
+      <Frame x="10.50" y="36.60" rotation="6.698" index="6"/>
+      <Frame x="21.25" y="35.95" rotation="6.034" index="7"/>
+    </Part>
+    <Part name="dizuo">
+      <Frame x="61.00" y="172.00" index="0"/>
+      <Frame x="61.00" y="172.00" index="1"/>
+      <Frame x="61.00" y="172.00" index="2"/>
+      <Frame x="61.00" y="172.00" index="3"/>
+      <Frame x="61.00" y="172.00" index="4"/>
+      <Frame x="61.00" y="172.00" index="5"/>
+      <Frame x="61.00" y="172.00" index="6"/>
+      <Frame x="61.00" y="172.00" index="7"/>
+    </Part>
+    <Part name="gudinghuan">
+      <Frame x="185.00" y="35.60" rotation="6.740" index="0"/>
+      <Frame x="179.35" y="38.05" rotation="7.552" index="1"/>
+      <Frame x="173.80" y="40.50" rotation="8.638" index="2"/>
+      <Frame x="179.35" y="38.15" rotation="7.551" index="3"/>
+      <Frame x="185.00" y="35.60" rotation="6.740" index="4"/>
+      <Frame x="179.45" y="36.85" rotation="6.557" index="5"/>
+      <Frame x="173.90" y="38.10" rotation="6.698" index="6"/>
+      <Frame x="184.45" y="35.75" rotation="6.034" index="7"/>
+    </Part>
+    <Part name="jishen">
+      <Frame x="16.10" y="-0.95" rotation="6.740" index="0"/>
+      <Frame x="11.25" y="-0.75" rotation="7.552" index="1"/>
+      <Frame x="6.75" y="-1.15" rotation="8.638" index="2"/>
+      <Frame x="11.25" y="-0.85" rotation="7.551" index="3"/>
+      <Frame x="16.10" y="-0.95" rotation="6.740" index="4"/>
+      <Frame x="10.10" y="0.65" rotation="6.557" index="5"/>
+      <Frame x="4.55" y="1.60" rotation="6.698" index="6"/>
+      <Frame x="14.85" y="1.05" rotation="6.034" index="7"/>
+    </Part>
+    <Part name="qianggaun01">
+      <Frame x="108.55" y="35.15" rotation="6.740" index="0"/>
+      <Frame x="101.75" y="39.65" rotation="7.552" index="1"/>
+      <Frame x="94.75" y="44.00" rotation="8.638" index="2"/>
+      <Frame x="106.05" y="40.45" rotation="7.058" index="3"/>
+      <Frame x="106.75" y="34.95" rotation="6.740" index="4"/>
+      <Frame x="101.05" y="34.60" rotation="6.557" index="5"/>
+      <Frame x="95.30" y="33.95" rotation="6.698" index="6"/>
+      <Frame x="106.80" y="34.20" rotation="6.034" index="7"/>
+    </Part>
+    <Part name="qianggaun02">
+      <Frame x="106.70" y="41.95" rotation="6.740" index="0"/>
+      <Frame x="100.95" y="39.55" rotation="7.552" index="1"/>
+      <Frame x="95.10" y="37.10" rotation="8.638" index="2"/>
+      <Frame x="100.65" y="39.55" rotation="7.551" index="3"/>
+      <Frame x="106.20" y="41.90" rotation="6.740" index="4"/>
+      <Frame x="100.85" y="42.90" rotation="6.557" index="5"/>
+      <Frame x="95.50" y="43.75" rotation="6.698" index="6"/>
+      <Frame x="106.10" y="42.60" rotation="6.034" index="7"/>
+    </Part>
+    <Part name="qianggaun03">
+      <Frame x="108.10" y="30.10" rotation="6.740" index="0"/>
+      <Frame x="103.05" y="31.00" rotation="7.552" index="1"/>
+      <Frame x="97.90" y="31.75" rotation="8.638" index="2"/>
+      <Frame x="103.00" y="31.00" rotation="7.551" index="3"/>
+      <Frame x="108.10" y="30.10" rotation="6.740" index="4"/>
+      <Frame x="102.15" y="31.15" rotation="6.557" index="5"/>
+      <Frame x="96.40" y="32.15" rotation="6.698" index="6"/>
+      <Frame x="107.25" y="30.80" rotation="6.034" index="7"/>
+    </Part>
+    <Part name="qianggaun04">
+	  <Frame x="97.30" y="33.85" rotation="8.638" index="0"/>
+	  <Frame x="97.30" y="33.85" rotation="8.638" index="1"/>
+      <Frame x="97.30" y="33.85" rotation="8.638" index="2"/>
+      <Frame x="103.30" y="34.75" rotation="7.551" index="3"/>
+      <Frame x="109.25" y="35.30" rotation="6.740" index="4"/>
+      <Frame x="101.55" y="40.55" rotation="6.557" index="5"/>
+      <Frame x="94.05" y="45.20" rotation="6.698" index="6"/>
+    </Part>
+    <Part name="tuopan">
+      <Frame x="27.80" y="44.70" rotation="6.740" index="0"/>
+      <Frame x="23.40" y="43.05" scaleX="0.999" scaleY="0.999" rotation="9.309" index="1"/>
+      <Frame x="19.25" y="41.15" rotation="12.198" index="2"/>
+      <Frame x="23.35" y="43.15" scaleX="0.999" scaleY="0.999" rotation="9.310" index="3"/>
+      <Frame x="27.80" y="44.70" rotation="6.740" index="4"/>
+      <Frame x="22.70" y="44.80" rotation="7.805" index="5"/>
+      <Frame x="17.80" y="44.55" rotation="9.169" index="6"/>
+      <Frame x="27.85" y="45.20" rotation="7.281" index="7"/>
+    </Part>
+    <Part name="zhiguan01">
+      <Frame x="63.00" y="109.00" index="0"/>
+      <Frame x="60.50" y="110.90" rotation="-1.806" index="1"/>
+      <Frame x="57.60" y="113.30" rotation="-3.943" index="2"/>
+      <Frame x="60.45" y="110.95" rotation="-1.807" index="3"/>
+      <Frame x="63.00" y="109.00" index="4"/>
+      <Frame x="60.05" y="111.25" rotation="-2.030" index="5"/>
+      <Frame x="56.95" y="113.80" rotation="-4.235" index="6"/>
+      <Frame x="60.55" y="110.85" rotation="-1.777" index="7"/>
+    </Part>
+    <Part name="zhiguan02">
+      <Frame x="72.00" y="69.00" index="0"/>
+      <Frame x="65.70" y="72.25" rotation="-3.311" index="1"/>
+      <Frame x="59.10" y="75.75" rotation="-6.978" index="2"/>
+      <Frame x="65.70" y="72.25" rotation="-3.311" index="3"/>
+      <Frame x="72.00" y="69.00" index="4"/>
+      <Frame x="66.15" y="72.50" rotation="-2.030" index="5"/>
+      <Frame x="60.20" y="76.10" rotation="-4.235" index="6"/>
+      <Frame x="70.50" y="70.35" index="7"/>
+    </Part>
+    <Part name="zidanlian">
+      <Frame x="35.15" y="25.50" rotation="6.740" index="0"/>
+      <Frame x="30.00" y="25.90" rotation="7.551" index="1"/>
+      <Frame x="24.95" y="25.95" scaleY="1.001" rotation="8.638" index="2"/>
+      <Frame x="30.05" y="25.85" rotation="7.552" index="3"/>
+      <Frame x="35.15" y="25.50" rotation="6.740" index="4"/>
+      <Frame x="30.05" y="25.75" rotation="7.768" index="5"/>
+      <Frame x="25.10" y="25.75" scaleY="1.001" rotation="8.872" index="6"/>
+      <Frame x="35.00" y="26.10" rotation="7.057" index="7"/>
+    </Part>
+  </Animation>
+</Animations>

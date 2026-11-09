@@ -1,0 +1,76 @@
+<Animations>
+  <Animation name="wolun" frameCount="15">
+    <Part name="huo1">
+      <Frame x="31.60" y="50.10" rotation="90.000" index="0"/>
+      <Frame x="31.60" y="52.85" rotation="90.000" index="3"/>
+      <Frame x="31.60" y="55.60" rotation="90.000" index="6"/>
+      <Frame x="31.60" y="54.65" rotation="90.000" index="9"/>
+      <Frame x="31.60" y="51.95" rotation="90.000" index="12"/>
+    </Part>
+    <Part name="huo2">
+      <Frame x="30.70" y="51.85" rotation="90.000" index="1"/>
+      <Frame x="30.70" y="54.55" rotation="90.000" index="4"/>
+      <Frame x="30.70" y="57.30" rotation="90.000" index="7"/>
+      <Frame x="30.70" y="54.55" rotation="90.000" index="10"/>
+      <Frame x="30.70" y="51.80" rotation="90.000" index="13"/>
+    </Part>
+    <Part name="huo3">
+      <Frame x="29.85" y="52.50" rotation="90.000" index="2"/>
+      <Frame x="29.85" y="55.20" rotation="90.000" index="5"/>
+      <Frame x="29.85" y="56.15" rotation="90.000" index="8"/>
+      <Frame x="29.85" y="53.40" rotation="90.000" index="11"/>
+      <Frame x="29.85" y="50.65" rotation="90.000" index="14"/>
+    </Part>
+    <Part name="jiqiang">
+      <Frame x="65.00" y="33.10" rotation="16.946" index="0"/>
+      <Frame x="64.85" y="33.55" scaleX="0.999" scaleY="0.999" rotation="16.815" index="1"/>
+      <Frame x="64.80" y="34.00" scaleX="0.999" scaleY="0.999" rotation="16.815" index="2"/>
+      <Frame x="64.70" y="34.50" scaleX="0.999" scaleY="0.999" rotation="16.815" index="3"/>
+      <Frame x="64.65" y="34.95" scaleX="0.999" scaleY="0.999" rotation="16.815" index="4"/>
+      <Frame x="64.55" y="35.45" scaleX="0.999" scaleY="0.999" rotation="16.815" index="5"/>
+      <Frame x="64.50" y="35.90" scaleX="0.999" scaleY="0.999" rotation="16.815" index="6"/>
+      <Frame x="64.45" y="36.45" rotation="16.946" index="7"/>
+      <Frame x="64.55" y="35.95" scaleX="0.999" scaleY="0.999" rotation="16.815" index="8"/>
+      <Frame x="64.60" y="35.50" scaleX="0.999" scaleY="0.999" rotation="16.815" index="9"/>
+      <Frame x="64.70" y="35.00" scaleX="0.999" scaleY="0.999" rotation="16.815" index="10"/>
+      <Frame x="64.75" y="34.55" scaleX="0.999" scaleY="0.999" rotation="16.815" index="11"/>
+      <Frame x="64.85" y="34.05" scaleX="0.999" scaleY="0.999" rotation="16.815" index="12"/>
+      <Frame x="64.90" y="33.60" scaleX="0.999" scaleY="0.999" rotation="16.815" index="13"/>
+      <Frame x="65.00" y="33.10" rotation="16.946" index="14"/>
+    </Part>
+    <Part name="jishen">
+      <Frame x="8.40" y="-10.30" rotation="10.749" index="0"/>
+      <Frame x="8.20" y="-9.65" scaleX="0.999" scaleY="0.999" rotation="10.568" index="1"/>
+      <Frame x="8.15" y="-9.20" scaleX="0.999" scaleY="0.999" rotation="10.568" index="2"/>
+      <Frame x="8.05" y="-8.70" scaleX="0.999" scaleY="0.999" rotation="10.568" index="3"/>
+      <Frame x="8.00" y="-8.25" scaleX="0.999" scaleY="0.999" rotation="10.568" index="4"/>
+      <Frame x="7.90" y="-7.75" scaleX="0.999" scaleY="0.999" rotation="10.568" index="5"/>
+      <Frame x="7.85" y="-7.30" scaleX="0.999" scaleY="0.999" rotation="10.568" index="6"/>
+      <Frame x="7.85" y="-6.95" rotation="10.749" index="7"/>
+      <Frame x="7.85" y="-7.25" scaleX="0.999" scaleY="0.999" rotation="10.568" index="8"/>
+      <Frame x="7.90" y="-7.70" scaleX="0.999" scaleY="0.999" rotation="10.568" index="9"/>
+      <Frame x="8.00" y="-8.20" scaleX="0.999" scaleY="0.999" rotation="10.568" index="10"/>
+      <Frame x="8.05" y="-8.65" scaleX="0.999" scaleY="0.999" rotation="10.568" index="11"/>
+      <Frame x="8.15" y="-9.15" scaleX="0.999" scaleY="0.999" rotation="10.568" index="12"/>
+      <Frame x="8.20" y="-9.60" scaleX="0.999" scaleY="0.999" rotation="10.568" index="13"/>
+      <Frame x="8.40" y="-10.30" rotation="10.749" index="14"/>
+    </Part>
+    <Part name="wolun">
+      <Frame x="67.60" y="41.10" rotation="90.000" index="0"/>
+      <Frame x="67.60" y="42.00" rotation="90.000" index="1"/>
+      <Frame x="67.60" y="42.95" rotation="90.000" index="2"/>
+      <Frame x="67.60" y="43.85" rotation="90.000" index="3"/>
+      <Frame x="67.60" y="44.75" rotation="90.000" index="4"/>
+      <Frame x="67.60" y="45.65" rotation="90.000" index="5"/>
+      <Frame x="67.60" y="46.60" rotation="90.000" index="6"/>
+      <Frame x="67.60" y="47.50" rotation="90.000" index="7"/>
+      <Frame x="67.60" y="46.60" rotation="90.000" index="8"/>
+      <Frame x="67.60" y="45.65" rotation="90.000" index="9"/>
+      <Frame x="67.60" y="44.75" rotation="90.000" index="10"/>
+      <Frame x="67.60" y="43.85" rotation="90.000" index="11"/>
+      <Frame x="67.60" y="42.95" rotation="90.000" index="12"/>
+      <Frame x="67.60" y="42.00" rotation="90.000" index="13"/>
+      <Frame x="67.60" y="41.10" rotation="90.000" index="14"/>
+    </Part>
+  </Animation>
+</Animations>

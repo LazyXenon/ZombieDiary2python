@@ -1,0 +1,12 @@
+<Textures>
+  <TextureSheet name="man01act01">
+    <Texture name="light0104" width="84" height="84" path="pic/effect/ability/hp_light01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="light0103" width="84" height="84" path="pic/effect/ability/hp_light01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="light0102" width="84" height="84" path="pic/effect/ability/hp_light01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="light0101" width="84" height="84" path="pic/effect/ability/hp_light01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="light01" width="84" height="84" path="pic/effect/ability/hp_light01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="light0202" width="35" height="108" path="pic/effect/ability/hp_light02.png" registrationPointX="1.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="light0201" width="35" height="108" path="pic/effect/ability/hp_light02.png" registrationPointX="1.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="light02" width="35" height="108" path="pic/effect/ability/hp_light02.png" registrationPointX="1.00" registrationPointY="2.00" zIndex="1"/>
+  </TextureSheet>
+</Textures>

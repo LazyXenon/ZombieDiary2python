@@ -1,0 +1,14 @@
+<Textures>
+  <TextureSheet name="man01act01">
+    <Texture name="youbi02" width="50" height="52" path="pic/soldier/01/youbi02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="9"/>
+    <Texture name="zuoshou02" width="38" height="22" path="pic/soldier/01/zuoshou02.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="gunJiguang" width="161" height="65" path="pic_png/soldier/01/gun_thunder.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="majiayou" width="49" height="62" path="pic/soldier/01/majiayou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="tou" width="96" height="85" path="pic/soldier/01/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="majiazuo" width="67" height="61" path="pic/soldier/01/majiazuo.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="qungan" width="51" height="52" path="pic/soldier/01/qungan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="zuobi" width="42" height="40" path="pic/soldier/01/zuobi.png" registrationPointX="2.00" registrationPointY="2.00"/>
+	<Texture name="bian01" width="72" height="86" path="pic/soldier/girl_02/bian01.png" registrationPointX="2.00" registrationPointY="2.00"/>
+    <Texture name="bian02" width="77" height="47" path="pic/soldier/girl_02/bian02.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

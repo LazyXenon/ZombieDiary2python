@@ -1,0 +1,9 @@
+<Textures>
+  <TextureSheet name="feixingqi">
+    <Texture name="jishen" width="111" height="74" path="pic/mech/11/jishen.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="wolun" width="34" height="44" path="pic/mech/11/wolun.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="huo3" width="18" height="36" path="pic/mech/11/huo3.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="2"/>
+    <Texture name="huo2" width="17" height="36" path="pic/mech/11/huo2.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="huo1" width="16" height="36" path="pic/mech/11/huo1.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

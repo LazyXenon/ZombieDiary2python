@@ -1,0 +1,10 @@
+<Textures>
+  <TextureSheet name="zombie13act13">
+    <Texture name="zuobi" width="72" height="38" path="pic/zombies/13/zuobi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="7"/>
+    <Texture name="majiazuo" width="42" height="79" path="pic/zombies/13/majiazuo.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="tou" width="144" height="91" path="pic/zombies/13/tou.png" registrationPointX="30.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="qungan" width="57" height="79" path="pic/zombies/13/qungan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="majiayou" width="45" height="76" path="pic/zombies/13/majiayou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="youbi" width="62" height="32" path="pic/zombies/13/youbi.png" registrationPointX="2.00" registrationPointY="2.00"/>
+  </TextureSheet>
+</Textures>

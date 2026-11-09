@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zombie name="zombie_2" attack_damage="40" attack_distance="100" stand_distance="70" 
+        blood="120" speed="120" width="240" height="240" centerX="140" centerY="90"
+		add_shot_box2d_ratio="0.3" >
+
+    <animation name="walk_upper" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/02/upper_sheets.xml"
+			   animatioin_xml="pic/zombies/02/walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="attack_upper" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/02/upper_sheets.xml"
+			   animatioin_xml="pic/zombies/02/attack_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="shot_upper" duration="0.4">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/02/upper_sheets.xml"
+			   animatioin_xml="pic/zombies/02/shot_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="death_upper" duration="1.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/02/death_upper_sheets.xml"
+			   animatioin_xml="pic/zombies/01/death_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/02/lower_sheets.xml"
+			   animatioin_xml="pic/zombies/02/walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="0.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/02/lower_sheets.xml"
+			   animatioin_xml="pic/zombies/02/attack_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="death_lower" duration="1.8">
+		<Flash offset_x="0" offset_y="0" sheet_xml="pic/zombies/01/lower_sheets.xml"
+			   animatioin_xml="pic/zombies/01/death_animations.xml" zorder="2" />
+	</animation>
+	
+	<ChangeSprite sprite_name="guo" new_tex="" 
+	              max_blood_ratio="0.3"/>
+	<ChangeSprite sprite_name="zuobi" new_tex="pic/zombies/02/zuobi_1.png" 
+	              max_blood_ratio="0.2" status="unburned"/>
+	
+	<ChangeSprite sprite_name="zuobi" new_tex="pic/zombies/01/zuobi_1_burn.png" 
+	              max_blood_ratio="0.2" status="burned"/>
+				 
+	<shot_effect>
+		<shot_blood_effect duration="0.4" offset_x="70" offset_y="20" row_count="2" 
+		                   col_count="3" max_blood_ratio="0.3" random_x="45"
+						   random_min_y="-70" random_max_y="35" 
+			               tex="pic/zombies/shot_blood_2.png" zorder="5"/>
+						   
+		<shot_blood_effect duration="0.1" offset_x="140" offset_y="0" random_x="25"
+						   min_blood_ratio="0.3" random_min_y="-60" random_max_y="-20" 
+			               tex="pic/zombies/shot_metal_spark.png" zorder="5"/>
+	</shot_effect>
+				
+	<Box2DItem offset_x="90" offset_y="80" shape="circle" force_angle="50"
+	           tex="pic/zombies/02/guo.png" max_blood_ratio="0.3" status="unburned"/>
+	<Box2DItem offset_x="90" offset_y="90" shape="circle" force_angle="50"
+	           tex="pic/zombies/02/guo_burn.png" max_blood_ratio="0.3" status="burned"/>
+			   
+			   
+	<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/zombies/02/part_zuobi.png" max_blood_ratio="0.2" status="unburned"/>
+	<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/zombies/01/part_zuobi_burn.png" max_blood_ratio="0.2" status="burned"/>
+	
+
+	<Death last_max_damage="40" last_min_damage="1" fragment_count="4">
+	    <ChangeSprite sprite_name="tou" new_tex="pic/zombies/01/tou_2.png" status="unburned"/>
+		<ChangeSprite sprite_name="tou" new_tex="pic/zombies/01/tou_2_burn.png" status="burned"/>
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/zombies/02/zuobi_1.png" 
+		              min_blood_ratio="0.2" status="unburned"/>
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/zombies/01/zuobi_1_burn.png" 
+		              min_blood_ratio="0.2" status="burned"/>
+		
+		<Box2DItem offset_x="90" offset_y="90" shape="circle" force_angle="50"
+	           tex="pic/zombies/02/guo.png" min_blood_ratio="0.3" status="unburned"/>
+		<Box2DItem offset_x="90" offset_y="90" shape="circle" force_angle="50"
+	           tex="pic/zombies/02/guo_burn.png" min_blood_ratio="0.3" status="burned"/>
+			   
+	    <Box2DItem offset_x="90" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/01/part_yanzhu.png" />
+			   
+		<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/zombies/02/part_zuobi.png" min_blood_ratio="0.2" status="unburned"/>
+        <Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/zombies/01/part_zuobi_burn.png" min_blood_ratio="0.2" status="burned"/>   
+			   
+		<Box2DItem offset_x="100" offset_y="100" shape="circle" force_angle="110"
+	           tex="pic/zombies/01/part_yanzhu.png" /> 
+		
+		<Box2DItem offset_x="80" offset_y="95" shape="circle" force_angle="100"
+	           tex="pic/zombies/head_nao03.png" />
+	</Death>
+	
+	<Death last_max_damage="10000" last_min_damage="41" fragment_count="5">
+	    <ChangeSprite sprite_name="tou" new_tex="" />
+		<ChangeSprite sprite_name="zuobi" new_tex=""/>
+		<ChangeSprite sprite_name="youbi" new_tex=""/>
+		<ChangeSprite sprite_name="majiayou" new_tex=""/>
+		<ChangeSprite sprite_name="majiazuo" new_tex=""/>
+		<ChangeSprite sprite_name="qungan" new_tex="pic/zombies/01/qungan_1.png" status="unburned"/>
+		<ChangeSprite sprite_name="qungan" new_tex="pic/zombies/01/qungan_1_burn.png" status="burned"/>
+		
+		<Box2DItem offset_x="90" offset_y="90" shape="circle" force_angle="50"
+	           tex="pic/zombies/02/guo.png" min_blood_ratio="0.3" status="unburned"/>
+		<Box2DItem offset_x="90" offset_y="90" shape="circle" force_angle="50"
+	           tex="pic/zombies/02/guo_burn.png" min_blood_ratio="0.3" status="burned"/>
+			   
+	    <Box2DItem offset_x="90" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/01/part_yanzhu.png" />
+		<Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/zombies/02/part_zuobi.png" min_blood_ratio="0.2" status="unburned"/> 
+        <Box2DItem offset_x="93" offset_y="128" shape="box" force_angle="125"
+	           tex="pic/zombies/01/part_zuobi_burn.png" min_blood_ratio="0.2" status="burned"/>   			   
+		<Box2DItem offset_x="100" offset_y="100" shape="circle" force_angle="110"
+	           tex="pic/zombies/01/part_yanzhu.png" /> 
+			   
+		<Box2DItem offset_x="100" offset_y="80" shape="box" force_angle="60"
+	           tex="pic/zombies/02/part_youbi.png" status="unburned"/> 
+		<Box2DItem offset_x="100" offset_y="80" shape="box" force_angle="60"
+	           tex="pic/zombies/01/part_youbi_burn.png" status="burned"/> 
+			   
+		<Box2DItem offset_x="50" offset_y="170" shape="circle" force_angle="170"
+	           tex="pic/zombies/body_suipian02.png" />
+		<Box2DItem offset_x="100" offset_y="160" shape="box" force_angle="30"
+	           tex="pic/zombies/body_suipian04.png" />
+		<Box2DItem offset_x="80" offset_y="170" shape="circle" force_angle="10"
+	           tex="pic/zombies/body_suipian05.png" />
+			   
+		<Box2DItem offset_x="105" offset_y="90" shape="circle" force_angle="65"
+	           tex="pic/zombies/head_nao03.png" />
+	</Death>
+	
+	<Shadow offset_y="232" tex="pic/zombies/yinying.png" />
+	
+	<freeze_effect freeze_time="2.5" zorder="4" delay="0.1"
+	               offset_x="0" offset_y="-100"
+	               ice_tex_1="pic/gun/freezer/ice_1.png" 
+				   ice_tex_2="pic/gun/freezer/ice_2.png" 
+	               />
+	
+	<burn_effect damage="10" burn_time="5">
+		<ChangeSprite sprite_name="tou" new_tex="pic/zombies/01/tou_burn.png"/>
+		<ChangeSprite sprite_name="qungan" new_tex="pic/zombies/01/qungan_burn.png"/>
+		<ChangeSprite sprite_name="zuobi" new_tex="pic/zombies/01/zuobi_burn.png"/>
+		<ChangeSprite sprite_name="majiazuo" new_tex=""/>
+		<ChangeSprite sprite_name="majiayou" new_tex=""/>
+		<ChangeSprite sprite_name="youbi" new_tex="pic/zombies/01/youbi_burn.png"/>
+		<ChangeSprite sprite_name="zuotui" new_tex="pic/zombies/01/zuotui_burn.png"/>
+		<ChangeSprite sprite_name="youtui" new_tex="pic/zombies/01/youtui_burn.png"/>
+		<ChangeSprite sprite_name="guo" new_tex="pic/zombies/02/guo_burn.png"/>
+	</burn_effect>
+	
+	<water_effect wave_scale="1.4" wave_offset_x="20" spill_scale="1.4" spill_delay="0.85" spill_offset_x="20" />
+</zombie>

@@ -1,0 +1,6 @@
+<Textures>
+  <TextureSheet name="paopao" >
+      <Texture name="b01" width="184" height="184" path="paopao/b01.png" registrationPointX="0.60" registrationPointY="0.60" zIndex="2" />
+      <Texture name="r01" width="184" height="184" path="paopao/r01.png" registrationPointX="0.60" registrationPointY="0.60" zIndex="1" />
+  </TextureSheet>
+</Textures>

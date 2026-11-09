@@ -1,0 +1,6 @@
+<Textures>
+  <TextureSheet name="zombie01act01">
+    <Texture name="zuotui" width="59" height="73" path="pic_png/boss/02/zuotui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="youtui" width="61" height="69" path="pic_png/boss/02/youtui.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+   </TextureSheet>
+</Textures>

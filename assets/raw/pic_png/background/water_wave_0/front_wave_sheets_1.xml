@@ -1,0 +1,6 @@
+<Textures>
+  <TextureSheet name="shuibo">
+    <Texture name="shang" width="67" height="18" path="pic_png/background/water_wave_0/shuibo/shang.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="qian" width="135" height="32" path="pic_png/background/water_wave_0/shuibo/qian.png" registrationPointX="6.00" registrationPointY="-5.00"/>
+  </TextureSheet>
+</Textures>

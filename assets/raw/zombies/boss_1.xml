@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zombie name="boss_1" attack_damage="150" attack_distance="350" stand_distance="270" 
+        blood="18000" speed="150" width="520" height="400" centerX="350" centerY="150"
+		add_shot_box2d_ratio="-1.0" pos_y_delta ="-20" attack_delay="1.2" scale="1.2" is_small="0">
+
+    <animation name="walk_upper" duration="1.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/01/upper_sheets.xml"
+			   animatioin_xml="config/boss/01/walk_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="attack_upper" duration="1.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/01/upper_sheets.xml"
+			   animatioin_xml="config/boss/01/attack_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="death_upper" duration="2.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/01/death_upper_sheets.xml"
+			   animatioin_xml="config/boss/01/death_animations.xml" zorder="3" />
+	</animation>
+	
+	<animation name="walk_lower" duration="1.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/01/lower_sheets.xml"
+			   animatioin_xml="config/boss/01/walk_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="stand_lower" duration="1.6">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/01/lower_sheets.xml"
+			   animatioin_xml="config/boss/01/attack_animations.xml" zorder="2" />
+	</animation>
+	
+	<animation name="death_lower" duration="2.5">
+		<Flash offset_x="0" offset_y="0" sheet_xml="config/boss/01/lower_sheets.xml"
+			   animatioin_xml="config/boss/01/death_animations.xml" zorder="2" />
+	</animation>
+	 
+	<ChangeSprite sprite_name="tou" new_tex="pic_png/boss/01/tou_1.png" 
+	              max_blood_ratio="0.8"/>
+	<ChangeSprite sprite_name="zuobid" new_tex="pic_png/boss/01/zuobid_1.png" 
+	              max_blood_ratio="0.6" />
+	<ChangeSprite sprite_name="zuobiu" new_tex="pic_png/boss/01/zuobiu_1.png" 
+	              max_blood_ratio="0.6" />
+	<ChangeSprite sprite_name="qugan" new_tex="pic_png/boss/01/qugan_1.png" 
+	              max_blood_ratio="0.4" />
+	<ChangeSprite sprite_name="youtui" new_tex="pic_png/boss/01/youtui_1.png" 
+	              max_blood_ratio="0.3" />
+	<ChangeSprite sprite_name="zuotui" new_tex="pic_png/boss/01/zuotui_1.png" 
+	              max_blood_ratio="0.2" />
+		
+	 <shot_effect>
+		<shot_blood_effect duration="0.4" offset_x="190" offset_y="140" row_count="2" 
+		                   col_count="3" max_blood_ratio="1.0" random_x="40"
+						   random_min_y="-40" random_max_y="40" 
+			               tex="pic/zombies/shot_blood_2.png" zorder="5"/>
+	</shot_effect>
+	
+	
+	<Box2DItem offset_x="290" offset_y="100" shape="circle" force_angle="130"
+	           tex="pic/zombies/head_suipian02.png" max_blood_ratio="0.8" />
+	<Box2DItem offset_x="300" offset_y="110" shape="box" force_angle="60"
+	           tex="pic/zombies/head_suirou03.png" max_blood_ratio="0.8" />
+	<Box2DItem offset_x="310" offset_y="95" shape="box" force_angle="70"
+	           tex="pic/zombies/head_suirou01.png" max_blood_ratio="0.8" />
+			   
+		
+	
+	<Death last_max_damage="10000" last_min_damage="1" fragment_count="0" fadeout_duration="4.0">
+			   
+	</Death>
+	
+	<Shadow offset_x="30" offset_y="382" scale_x="3" tex="pic/zombies/yinying.png" />
+	<water_effect wave_scale="2.5" wave_offset_x="50" spill_scale="2.5" spill_delay="0.85" spill_offset_x="50" />
+</zombie>

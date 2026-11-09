@@ -1,0 +1,23 @@
+<Textures>
+  <TextureSheet name="man01act01" >
+      <Texture name="boom" width="204" height="204" path="pic/effect/explosions/pics/boom.png" registrationPointX="0.80" registrationPointY="-0.80" zIndex="19" />
+      <Texture name="l0202" width="189" height="191" path="pic/effect/explosions/pics/l0201.png" registrationPointX="-3.20" registrationPointY="-4.00" zIndex="18" />
+      <Texture name="l0201" width="189" height="191" path="pic/effect/explosions/pics/l0201.png" registrationPointX="-3.20" registrationPointY="-4.00" zIndex="17" />
+      <Texture name="l0102" width="204" height="204" path="pic/effect/explosions/pics/l0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="16" />
+      <Texture name="l0101" width="204" height="204" path="pic/effect/explosions/pics/l0101.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="15" />
+      <Texture name="s0107" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="14" />
+      <Texture name="s0101" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="13" />
+      <Texture name="s0102" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="12" />
+      <Texture name="s0103" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="11" />
+      <Texture name="s0104" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="10" />
+      <Texture name="s0106" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="9" />
+      <Texture name="s0105" width="195" height="195" path="pic/effect/explosions/pics/s0101.png" registrationPointX="-2.80" registrationPointY="0.80" zIndex="8" />
+      <Texture name="ring" width="173" height="174" path="pic/effect/explosions/pics/ring.png" registrationPointX="-5.60" registrationPointY="5.60" zIndex="7" />
+      <Texture name="s0201" width="204" height="204" path="pic/effect/explosions/pics/s0202.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="6" />
+      <Texture name="s0202" width="204" height="204" path="pic/effect/explosions/pics/s0202.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="5" />
+      <Texture name="s0203" width="204" height="204" path="pic/effect/explosions/pics/s0202.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="4" />
+      <Texture name="s0204" width="204" height="204" path="pic/effect/explosions/pics/s0202.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="3" />
+      <Texture name="s0205" width="204" height="204" path="pic/effect/explosions/pics/s0202.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="2" />
+      <Texture name="s0206" width="204" height="204" path="pic/effect/explosions/pics/s0202.png" registrationPointX="0.80" registrationPointY="0.80" zIndex="1" />
+  </TextureSheet>
+</Textures>

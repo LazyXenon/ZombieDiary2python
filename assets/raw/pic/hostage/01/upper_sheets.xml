@@ -1,0 +1,8 @@
+<Textures>
+  <TextureSheet name="pic/hostage/01">
+    <Texture name="tou" width="82" height="78" path="pic/hostage/01/tou.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="6"/>
+    <Texture name="youbi" width="28" height="47" path="pic/hostage/01/youbi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="5"/>
+    <Texture name="qugan" width="54" height="55" path="pic/hostage/01/qugan.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="4"/>
+    <Texture name="zuobi" width="23" height="43" path="pic/hostage/01/zuobi.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="3"/>
+  </TextureSheet>
+</Textures>

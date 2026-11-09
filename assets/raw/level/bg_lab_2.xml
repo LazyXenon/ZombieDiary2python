@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<battle_field>
+
+	<parallax_background>
+		<scroll_background zorder="1" speed_ratio="1.0" bg_seq="4, 0, 1, 3, 2">
+			<background bg_tex="pic_bg/background/factory_01.jpg" odds="15"/>
+			<background bg_tex="pic_bg/background/factory_02.jpg" odds="25"/>
+			<background bg_tex="pic_bg/background/factory_03.jpg" odds="12"/>
+			<background bg_tex="pic_bg/background/factory_04.jpg" odds="20"/>
+			<background bg_tex="pic_bg/background/factory_05.jpg" odds="25"/>
+		</scroll_background>
+		
+		<bg_animations>
+			<animation bg_index="0" duration="2.5" offset_x="85" offset_y="402" sheet_xml="pic_png/background/factory_01_anim/sheets.xml"
+					animatioin_xml="pic_png/background/factory_01_anim/animations.xml" zorder="2" />
+		
+			<animation bg_index="2" duration="0.9" offset_x="139" offset_y="370" sheet_xml="pic_png/background/factory_03_anim/sheets.xml"
+					animatioin_xml="pic_png/background/factory_03_anim/animations.xml" zorder="2" />
+		</bg_animations>
+	</parallax_background>
+	
+</battle_field>

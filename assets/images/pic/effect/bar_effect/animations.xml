@@ -1,0 +1,47 @@
+<Animations>
+  <Animation name="l01" frameCount="15" >
+    <Part name="l01">
+      <Frame x="139.00" y="38.35" scaleX="0.51" scaleY="2.00" alpha="0.05" index="0" />
+      <Frame x="89.80" y="38.35" scaleX="1.11" scaleY="2.00" alpha="0.24" index="1" />
+      <Frame x="40.60" y="38.35" scaleX="1.71" scaleY="2.00" alpha="0.43" index="2" />
+      <Frame x="-8.60" y="38.35" scaleX="2.31" scaleY="2.00" alpha="0.62" index="3" />
+      <Frame x="-57.80" y="38.35" scaleX="2.92" scaleY="2.00" alpha="0.81" index="4" />
+      <Frame x="-107.00" y="38.35" scaleX="3.52" scaleY="2.00" index="5" />
+      <Frame x="-169.05" y="38.35" scaleX="4.78" scaleY="2.00" index="6" />
+      <Frame x="-231.00" y="38.35" scaleX="6.04" scaleY="2.00" index="7" />
+      <Frame x="-293.05" y="38.35" scaleX="7.31" scaleY="2.00" index="8" />
+      <Frame x="-348.10" y="38.35" scaleX="8.51" scaleY="2.00" alpha="0.83" index="9" />
+      <Frame x="-403.05" y="38.35" scaleX="9.72" scaleY="2.00" alpha="0.67" index="10" />
+      <Frame x="-458.00" y="38.35" scaleX="10.92" scaleY="2.00" alpha="0.50" index="11" />
+      <Frame x="-513.05" y="38.35" scaleX="12.12" scaleY="2.00" alpha="0.33" index="12" />
+      <Frame x="-568.00" y="38.35" scaleX="13.33" scaleY="2.00" alpha="0.17" index="13" />
+    </Part>
+    <Part name="l02">
+      <Frame x="149.00" y="38.35" scaleX="0.37" scaleY="2.00" alpha="0.05" index="0" />
+      <Frame x="145.40" y="38.35" scaleX="1.11" scaleY="2.00" alpha="0.24" index="1" />
+      <Frame x="141.80" y="38.35" scaleX="1.85" scaleY="2.00" alpha="0.43" index="2" />
+      <Frame x="138.15" y="38.35" scaleX="2.58" scaleY="2.00" alpha="0.62" index="3" />
+      <Frame x="134.55" y="38.35" scaleX="3.32" scaleY="2.00" alpha="0.81" index="4" />
+      <Frame x="131.00" y="38.35" scaleX="4.05" scaleY="2.00" index="5" />
+      <Frame x="108.00" y="38.35" scaleX="5.60" scaleY="2.00" index="6" />
+      <Frame x="85.00" y="38.35" scaleX="7.14" scaleY="2.00" index="7" />
+      <Frame x="62.10" y="38.35" scaleX="8.69" scaleY="2.00" index="8" />
+      <Frame x="42.25" y="38.35" scaleX="9.71" scaleY="2.00" alpha="0.83" index="9" />
+      <Frame x="22.40" y="38.35" scaleX="10.73" scaleY="2.00" alpha="0.67" index="10" />
+      <Frame x="2.55" y="38.35" scaleX="11.74" scaleY="2.00" alpha="0.50" index="11" />
+      <Frame x="-17.25" y="38.35" scaleX="12.76" scaleY="2.00" alpha="0.33" index="12" />
+      <Frame x="-37.15" y="38.35" scaleX="13.78" scaleY="2.00" alpha="0.17" index="13" />
+    </Part>
+    <Part name="l03">
+      <Frame x="129.00" y="26.60" scaleX="0.40" scaleY="1.60" alpha="0.1" index="0" />
+      <Frame x="-7.50" y="21.80" scaleX="2.68" scaleY="1.80" alpha="0.5" index="1" />
+      <Frame x="-144.00" y="17.00" scaleX="4.95" scaleY="2.00" index="2" alpha="1" />
+      <Frame x="-216.95" y="17.00" scaleX="6.17" scaleY="2.00" index="3" alpha="1" />
+      <Frame x="-144.00" y="17.00" scaleX="4.95" scaleY="2.00" index="4" alpha="1" />
+      <Frame x="-131.55" y="17.00" scaleX="4.74" scaleY="2.00" alpha="0.50" index="5" />
+      <Frame x="-119.15" y="17.00" scaleX="4.54" scaleY="2.00" alpha="0.30" index="6" />
+      <Frame x="-106.80" y="17.00" scaleX="4.33" scaleY="2.00" alpha="0.20" index="7" />
+      <Frame x="-94.45" y="17.00" scaleX="4.12" scaleY="2.00" alpha="0.10" index="8" />
+    </Part>
+  </Animation>
+</Animations>

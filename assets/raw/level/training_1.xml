@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<battle_field>
+
+	<zombie_type zombie_name="zombie_9" update_time="3" capacity="4" />
+	<zombie_type zombie_name="zombie_9" update_time="7" capacity="4" />
+	<zombie_type zombie_name="zombie_9" update_time="9" capacity="4" />
+	<zombie_type zombie_name="zombie_9" update_time="11" capacity="4" />
+	<zombie_type zombie_name="zombie_9" update_time="13" capacity="4" />
+	<zombie_type zombie_name="zombie_9" update_time="15" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_14" update_time="8" capacity="4" />
+	<zombie_type zombie_name="zombie_14" update_time="11" capacity="4" />
+	<zombie_type zombie_name="zombie_14" update_time="14" capacity="4" />
+	<zombie_type zombie_name="zombie_14" update_time="17" capacity="4" />
+	<zombie_type zombie_name="zombie_14" update_time="20" capacity="4" />
+	<zombie_type zombie_name="zombie_14" update_time="23" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_2" update_time="18" capacity="4"/>
+	<zombie_type zombie_name="zombie_2" update_time="22" capacity="4"/>
+	<zombie_type zombie_name="zombie_2" update_time="26" capacity="4"/>
+	<zombie_type zombie_name="zombie_2" update_time="30" capacity="4"/>
+	
+	<zombie_type zombie_name="zombie_3" update_time="30" capacity="4" />
+	<zombie_type zombie_name="zombie_3" update_time="35" capacity="4" />
+	<zombie_type zombie_name="zombie_3" update_time="40" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_8" update_time="40" capacity="4" />
+	<zombie_type zombie_name="zombie_8" update_time="45" capacity="4" />
+	<zombie_type zombie_name="zombie_8" update_time="50" capacity="4" />
+	
+	<zombie_type zombie_name="boss_3" update_time="75" capacity="4" />
+	<zombie_type zombie_name="boss_3" update_time="110" capacity="4" />
+	<zombie_type zombie_name="boss_3" update_time="210" capacity="4" />
+	<zombie_type zombie_name="boss_3" update_time="240" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_13" update_time="50" capacity="4" />
+	<zombie_type zombie_name="zombie_13" update_time="60" capacity="4" />
+	<zombie_type zombie_name="zombie_13" update_time="70" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_4" update_time="60" capacity="10" />
+	<zombie_type zombie_name="zombie_4" update_time="80" capacity="10" />
+	<zombie_type zombie_name="zombie_4" update_time="100" capacity="10" />
+	
+	<zombie_type zombie_name="zombie_18" update_time="70" capacity="4" />
+	<zombie_type zombie_name="zombie_18" update_time="80" capacity="4" />
+	<zombie_type zombie_name="zombie_18" update_time="100" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_11" update_time="90" capacity="4" />
+	<zombie_type zombie_name="zombie_11" update_time="120" capacity="4" />
+	<zombie_type zombie_name="zombie_11" update_time="150" capacity="4" />
+	<zombie_type zombie_name="zombie_11" update_time="180" capacity="4" />
+	
+	<zombie_type zombie_name="boss_2" update_time="150" capacity="4" />
+	<zombie_type zombie_name="boss_2" update_time="180" capacity="4" />
+	<zombie_type zombie_name="boss_2" update_time="300" capacity="4" />
+	<zombie_type zombie_name="boss_2" update_time="330" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_10" update_time="75" capacity="4" />
+	<zombie_type zombie_name="zombie_10" update_time="85" capacity="4" />
+	<zombie_type zombie_name="zombie_10" update_time="105" capacity="4" />
+	<zombie_type zombie_name="zombie_10" update_time="125" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_16" update_time="85" capacity="4" />
+	<zombie_type zombie_name="zombie_16" update_time="95" capacity="4" />
+	<zombie_type zombie_name="zombie_16" update_time="110" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_5" update_time="90" capacity="4" />
+	<zombie_type zombie_name="zombie_5" update_time="100" capacity="4" />
+	<zombie_type zombie_name="zombie_5" update_time="115" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_15" update_time="95" capacity="10" />
+	<zombie_type zombie_name="zombie_15" update_time="110" capacity="10" />
+	<zombie_type zombie_name="zombie_15" update_time="125" capacity="10" />
+	
+	<zombie_type zombie_name="zombie_6" update_time="100" capacity="4" />
+	<zombie_type zombie_name="zombie_6" update_time="115" capacity="4" />
+	<zombie_type zombie_name="zombie_6" update_time="130" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_19" update_time="110" capacity="4" />
+	<zombie_type zombie_name="zombie_19" update_time="125" capacity="4" />
+	<zombie_type zombie_name="zombie_19" update_time="140" capacity="4" />
+	
+	<zombie_type zombie_name="boss_4" update_time="225" capacity="4" />
+	<zombie_type zombie_name="boss_4" update_time="260" capacity="4" />
+	<zombie_type zombie_name="boss_4" update_time="335" capacity="4" />
+	<zombie_type zombie_name="boss_4" update_time="380" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_7" update_time="120" capacity="4" />
+	<zombie_type zombie_name="zombie_7" update_time="140" capacity="4" />
+	<zombie_type zombie_name="zombie_7" update_time="180" capacity="4" />
+	<zombie_type zombie_name="zombie_7" update_time="200" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_12" update_time="140" capacity="4" />
+	<zombie_type zombie_name="zombie_12" update_time="160" capacity="4" />
+	<zombie_type zombie_name="zombie_12" update_time="180" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_17" update_time="130" capacity="4" />
+	<zombie_type zombie_name="zombie_17" update_time="145" capacity="4" />
+	<zombie_type zombie_name="zombie_17" update_time="160" capacity="4" />
+	
+	<zombie_type zombie_name="zombie_1" update_time="150" capacity="10" />
+	<zombie_type zombie_name="zombie_1" update_time="160" capacity="10" />
+	<zombie_type zombie_name="zombie_1" update_time="180" capacity="10" />
+	
+	<zombie_type zombie_name="boss_1" update_time="300" capacity="4" />
+	<zombie_type zombie_name="boss_1" update_time="350" capacity="4" />	
+	<zombie_type zombie_name="boss_1" update_time="400" capacity="4" />
+	<zombie_type zombie_name="boss_1" update_time="450" capacity="4" />
+	
+</battle_field>

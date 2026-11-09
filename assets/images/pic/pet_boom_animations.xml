@@ -1,0 +1,342 @@
+<Animations>
+  <Animation name="b01" frameCount="21" >
+    <Part name="b01">
+      <Frame x="-10.65" y="-10.15" scaleX="1.89" scaleY="1.89" alpha="0.05" index="0" />
+      <Frame x="-30.35" y="-29.85" scaleX="2.64" scaleY="2.64" alpha="0.05" index="1" />
+      <Frame x="-50.00" y="-49.50" scaleX="3.38" scaleY="3.38" alpha="0.05" index="2" />
+      <Frame x="-69.65" y="-69.15" scaleX="4.13" scaleY="4.13" alpha="1.0" index="3" />
+      <Frame x="-49.05" y="-48.60" scaleX="3.35" scaleY="3.35" index="4" />
+      <Frame x="-28.45" y="-28.00" scaleX="2.57" scaleY="2.57" index="5" />
+      <Frame x="-7.85" y="-7.40" scaleX="1.79" scaleY="1.79" index="6" />
+      <Frame x="12.75" y="13.30" scaleX="1.01" scaleY="1.01" alpha="0.53" index="7" />
+      <Frame x="33.35" y="33.85" scaleX="0.23" scaleY="0.23" alpha="0.05" index="8" />
+    </Part>
+    <Part name="bb01">
+      <Frame x="-30.50" y="-30.00" scaleX="2.21" scaleY="2.21" alpha="0.05" index="0" />
+      <Frame x="-48.75" y="-48.25" scaleX="2.79" scaleY="2.79" alpha="0.53" index="1" />
+      <Frame x="-67.00" y="-66.50" scaleX="3.36" scaleY="3.36" alpha="1.0" index="2" />
+      <Frame x="-130.50" y="-130.00" scaleX="5.37" scaleY="5.37" index="3" />
+      <Frame x="-67.00" y="-66.50" scaleX="3.36" scaleY="3.36" index="4" />
+      <Frame x="-57.85" y="-57.40" scaleX="3.07" scaleY="3.07" alpha="0.68" index="5" />
+      <Frame x="-48.65" y="-48.20" scaleX="2.78" scaleY="2.78" alpha="0.37" index="6" />
+      <Frame x="-39.55" y="-39.05" scaleX="2.50" scaleY="2.50" alpha="0.05" index="7" />
+    </Part>
+    <Part name="r01">
+      <Frame x="31.40" y="31.40" scaleX="0.32" scaleY="0.32" alpha="0.05" index="0" />
+      <Frame x="31.40" y="31.40" scaleX="0.32" scaleY="0.32" alpha="0.05" index="1" />
+      <Frame x="31.40" y="31.40" scaleX="0.32" scaleY="0.32" alpha="0.05" index="2" />
+      <Frame x="31.40" y="31.40" scaleX="0.32" scaleY="0.32" alpha="0.05" index="3" />
+      <Frame x="31.40" y="31.40" scaleX="0.32" scaleY="0.32" alpha="0.05" index="4" />
+      <Frame x="11.10" y="11.10" scaleX="1.09" scaleY="1.09" alpha="0.53" index="5" />
+      <Frame x="-9.15" y="-9.15" scaleX="1.86" scaleY="1.86" alpha="1.0" index="6" />
+      <Frame x="-16.15" y="-16.15" scaleX="2.12" scaleY="2.12" alpha="0.85" index="7" />
+      <Frame x="-23.15" y="-23.15" scaleX="2.39" scaleY="2.39" alpha="0.70" index="8" />
+      <Frame x="-30.15" y="-30.15" scaleX="2.65" scaleY="2.65" alpha="0.55" index="9" />
+      <Frame x="-33.25" y="-33.25" scaleX="2.77" scaleY="2.77" alpha="0.43" index="10" />
+      <Frame x="-36.35" y="-36.35" scaleX="2.89" scaleY="2.89" alpha="0.30" index="11" />
+      <Frame x="-39.55" y="-39.55" scaleX="3.01" scaleY="3.01" alpha="0.18" index="12" />
+      <Frame x="-42.70" y="-42.70" scaleX="3.13" scaleY="3.13" alpha="0.05" index="13" />
+    </Part>
+    <Part name="s01">
+      <Frame x="38.20" y="37.45" scaleX="0.09" scaleY="0.09" alpha="0.05" index="0" />
+      <Frame x="38.20" y="37.45" scaleX="0.09" scaleY="0.09" alpha="0.05" index="1" />
+      <Frame x="38.20" y="37.45" scaleX="0.09" scaleY="0.09" alpha="0.05" index="2" />
+      <Frame x="38.20" y="37.45" scaleX="0.09" scaleY="0.09" alpha="0.05" index="3" />
+      <Frame x="43.20" y="14.05" scaleX="0.59" scaleY="0.59" rotation="14.824" alpha="0.53" index="4" />
+      <Frame x="55.90" y="-12.70" scaleX="1.09" scaleY="1.09" rotation="29.998" alpha="1.0" index="5" />
+      <Frame x="59.65" y="-21.55" scaleX="1.21" scaleY="1.21" rotation="29.860" index="6" />
+      <Frame x="63.30" y="-30.45" scaleX="1.33" scaleY="1.33" rotation="29.860" index="7" />
+      <Frame x="67.15" y="-39.50" scaleX="1.45" scaleY="1.45" rotation="29.999" index="8" />
+      <Frame x="70.40" y="-39.35" scaleX="1.33" scaleY="1.33" rotation="29.858" index="9" />
+      <Frame x="73.85" y="-39.30" scaleX="1.20" scaleY="1.20" rotation="29.859" index="10" />
+      <Frame x="77.35" y="-39.30" scaleX="1.08" scaleY="1.08" rotation="29.998" index="11" />
+      <Frame x="81.40" y="-39.45" scaleX="0.98" scaleY="0.98" rotation="29.860" index="12" />
+      <Frame x="85.55" y="-39.80" scaleX="0.88" scaleY="0.88" rotation="29.858" index="13" />
+      <Frame x="89.75" y="-40.15" scaleX="0.77" scaleY="0.77" rotation="29.998" index="14" />
+      <Frame x="92.15" y="-39.90" scaleX="0.68" scaleY="0.68" rotation="29.857" index="15" />
+      <Frame x="94.60" y="-39.55" scaleX="0.58" scaleY="0.58" rotation="29.860" index="16" />
+      <Frame x="97.00" y="-39.30" scaleX="0.49" scaleY="0.49" rotation="29.996" index="17" />
+      <Frame x="101.45" y="-42.10" scaleX="0.40" scaleY="0.40" rotation="29.860" alpha="0.68" index="18" />
+      <Frame x="105.95" y="-44.85" scaleX="0.32" scaleY="0.32" rotation="29.859" alpha="0.37" index="19" />
+      <Frame x="110.45" y="-47.65" scaleX="0.24" scaleY="0.24" rotation="29.998" alpha="0.05" index="20" />
+    </Part>
+    <Part name="s02">
+      <Frame x="37.55" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.55" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.55" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.55" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="9.50" y="6.05" scaleX="0.87" scaleY="0.87" rotation="-7.316" alpha="0.53" index="4" />
+      <Frame x="-21.30" y="-20.50" scaleX="1.63" scaleY="1.63" rotation="-14.999" alpha="1.0" index="5" />
+      <Frame x="-25.50" y="-26.50" scaleX="1.74" scaleY="1.74" rotation="-15.822" index="6" />
+      <Frame x="-30.00" y="-32.35" scaleX="1.86" scaleY="1.86" rotation="-16.820" index="7" />
+      <Frame x="-34.55" y="-37.90" scaleX="1.98" scaleY="1.98" rotation="-17.950" index="8" />
+      <Frame x="-30.95" y="-40.25" scaleX="1.82" scaleY="1.82" rotation="-17.817" index="9" />
+      <Frame x="-27.55" y="-42.50" scaleX="1.66" scaleY="1.66" rotation="-17.817" index="10" />
+      <Frame x="-24.30" y="-44.75" scaleX="1.51" scaleY="1.51" rotation="-17.950" index="11" />
+      <Frame x="-21.60" y="-45.65" scaleX="1.34" scaleY="1.34" rotation="-17.818" index="12" />
+      <Frame x="-19.05" y="-46.50" scaleX="1.16" scaleY="1.16" rotation="-17.818" index="13" />
+      <Frame x="-16.60" y="-47.20" scaleX="1.00" scaleY="1.00" rotation="-17.950" index="14" />
+      <Frame x="-15.00" y="-47.90" scaleX="0.87" scaleY="0.87" rotation="-17.818" index="15" />
+      <Frame x="-13.50" y="-48.50" scaleX="0.74" scaleY="0.74" rotation="-17.816" index="16" />
+      <Frame x="-12.00" y="-49.05" scaleX="0.62" scaleY="0.62" rotation="-17.950" index="17" />
+      <Frame x="-11.00" y="-51.75" scaleX="0.52" scaleY="0.52" rotation="-17.818" alpha="0.68" index="18" />
+      <Frame x="-10.05" y="-54.45" scaleX="0.42" scaleY="0.42" rotation="-17.818" alpha="0.37" index="19" />
+      <Frame x="-9.15" y="-57.15" scaleX="0.32" scaleY="0.32" rotation="-17.947" alpha="0.05" index="20" />
+    </Part>
+    <Part name="s03">
+      <Frame x="37.10" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.10" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.10" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.10" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="8.20" y="31.50" scaleX="0.52" scaleY="0.52" rotation="-22.499" alpha="0.53" index="4" />
+      <Frame x="-21.75" y="34.85" scaleX="0.92" scaleY="0.92" rotation="-45.000" alpha="1.0" index="5" />
+      <Frame x="-27.80" y="34.25" scaleX="0.95" scaleY="0.95" rotation="-45.000" index="6" />
+      <Frame x="-33.70" y="33.75" scaleX="0.97" scaleY="0.97" rotation="-45.000" index="7" />
+      <Frame x="-39.75" y="33.10" scaleX="0.99" scaleY="0.99" rotation="-45.000" index="8" />
+      <Frame x="-42.65" y="32.45" scaleX="0.91" scaleY="0.91" rotation="-45.000" index="9" />
+      <Frame x="-45.60" y="31.70" scaleX="0.82" scaleY="0.82" rotation="-45.000" index="10" />
+      <Frame x="-48.50" y="31.10" scaleX="0.74" scaleY="0.74" rotation="-45.000" index="11" />
+      <Frame x="-55.30" y="30.00" scaleX="0.67" scaleY="0.67" rotation="-45.000" index="12" />
+      <Frame x="-62.15" y="28.80" scaleX="0.61" scaleY="0.61" rotation="-45.000" index="13" />
+      <Frame x="-69.00" y="27.60" scaleX="0.54" scaleY="0.54" rotation="-45.000" index="14" />
+      <Frame x="-74.90" y="27.65" scaleX="0.45" scaleY="0.45" rotation="-45.000" alpha="0.68" index="15" />
+      <Frame x="-80.65" y="27.55" scaleX="0.36" scaleY="0.36" rotation="-45.000" alpha="0.37" index="16" />
+      <Frame x="-86.50" y="27.60" scaleX="0.27" scaleY="0.27" rotation="-45.000" alpha="0.05" index="17" />
+    </Part>
+    <Part name="s04">
+      <Frame x="37.90" y="37.20" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.90" y="37.20" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.90" y="37.20" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.90" y="37.20" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="37.85" y="12.40" scaleX="0.42" scaleY="0.42" rotation="7.315" alpha="0.53" index="4" />
+      <Frame x="39.90" y="-13.65" scaleX="0.73" scaleY="0.73" rotation="14.998" alpha="1.0" index="5" />
+      <Frame x="40.10" y="-22.20" scaleX="0.80" scaleY="0.80" rotation="14.823" index="6" />
+      <Frame x="40.35" y="-30.75" scaleX="0.88" scaleY="0.88" rotation="14.824" index="7" />
+      <Frame x="40.65" y="-39.30" scaleX="0.95" scaleY="0.95" rotation="14.999" index="8" />
+      <Frame x="43.35" y="-42.90" scaleX="0.89" scaleY="0.89" rotation="14.824" index="9" />
+      <Frame x="46.00" y="-46.60" scaleX="0.83" scaleY="0.83" rotation="14.824" index="10" />
+      <Frame x="48.80" y="-50.35" scaleX="0.77" scaleY="0.77" rotation="14.998" index="11" />
+      <Frame x="50.70" y="-53.60" scaleX="0.71" scaleY="0.71" rotation="14.826" index="12" />
+      <Frame x="52.55" y="-56.85" scaleX="0.66" scaleY="0.66" rotation="14.823" index="13" />
+      <Frame x="54.55" y="-60.15" scaleX="0.60" scaleY="0.60" rotation="14.998" index="14" />
+      <Frame x="57.45" y="-64.75" scaleX="0.55" scaleY="0.55" rotation="14.825" alpha="0.76" index="15" />
+      <Frame x="60.30" y="-69.40" scaleX="0.50" scaleY="0.50" rotation="14.821" alpha="0.53" index="16" />
+      <Frame x="63.20" y="-74.05" scaleX="0.45" scaleY="0.45" rotation="14.827" alpha="0.29" index="17" />
+      <Frame x="66.15" y="-78.75" scaleX="0.40" scaleY="0.40" rotation="14.997" alpha="0.05" index="18" />
+    </Part>
+    <Part name="s05">
+      <Frame x="37.30" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.30" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.30" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.30" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="25.40" y="37.95" scaleX="0.71" scaleY="0.71" alpha="0.53" index="4" />
+      <Frame x="13.40" y="37.90" scaleX="1.30" scaleY="1.30" alpha="1.0" index="5" />
+      <Frame x="10.35" y="39.70" scaleX="1.44" scaleY="1.44" index="6" />
+      <Frame x="7.40" y="41.55" scaleX="1.59" scaleY="1.59" index="7" />
+      <Frame x="4.40" y="43.40" scaleX="1.73" scaleY="1.73" index="8" />
+      <Frame x="6.90" y="50.70" scaleX="1.61" scaleY="1.61" index="9" />
+      <Frame x="9.40" y="58.05" scaleX="1.49" scaleY="1.49" index="10" />
+      <Frame x="11.90" y="65.40" scaleX="1.37" scaleY="1.37" index="11" />
+      <Frame x="13.95" y="70.70" scaleX="1.27" scaleY="1.27" index="12" />
+      <Frame x="15.95" y="76.05" scaleX="1.18" scaleY="1.18" index="13" />
+      <Frame x="17.95" y="81.40" scaleX="1.09" scaleY="1.09" index="14" />
+      <Frame x="20.95" y="87.90" scaleX="0.94" scaleY="0.94" index="15" />
+      <Frame x="24.00" y="94.35" scaleX="0.80" scaleY="0.80" index="16" />
+      <Frame x="27.00" y="100.90" scaleX="0.66" scaleY="0.66" index="17" />
+      <Frame x="29.00" y="108.55" scaleX="0.56" scaleY="0.56" alpha="0.68" index="18" />
+      <Frame x="31.05" y="116.25" scaleX="0.47" scaleY="0.47" alpha="0.37" index="19" />
+      <Frame x="33.05" y="123.90" scaleX="0.37" scaleY="0.37" alpha="0.05" index="20" />
+    </Part>
+    <Part name="s06">
+      <Frame x="38.55" y="37.30" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="38.55" y="37.30" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="38.55" y="37.30" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="38.55" y="37.30" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="49.55" y="30.95" scaleX="0.32" scaleY="0.32" rotation="19.579" alpha="0.53" index="4" />
+      <Frame x="64.75" y="23.90" scaleX="0.54" scaleY="0.54" rotation="39.478" alpha="1.0" index="5" />
+      <Frame x="76.10" y="21.75" scaleX="0.61" scaleY="0.61" rotation="39.384" index="6" />
+      <Frame x="87.65" y="19.40" scaleX="0.69" scaleY="0.69" rotation="39.384" index="7" />
+      <Frame x="99.10" y="17.15" scaleX="0.76" scaleY="0.76" rotation="39.478" index="8" />
+      <Frame x="106.90" y="20.95" scaleX="0.70" scaleY="0.70" rotation="39.383" index="9" />
+      <Frame x="114.70" y="24.85" scaleX="0.64" scaleY="0.64" rotation="39.382" index="10" />
+      <Frame x="122.60" y="28.60" scaleX="0.58" scaleY="0.58" rotation="39.479" index="11" />
+      <Frame x="127.25" y="31.95" scaleX="0.52" scaleY="0.52" rotation="39.385" index="12" />
+      <Frame x="131.90" y="35.45" scaleX="0.47" scaleY="0.47" rotation="39.382" index="13" />
+      <Frame x="136.55" y="38.85" scaleX="0.41" scaleY="0.41" rotation="39.479" index="14" />
+      <Frame x="142.75" y="41.60" scaleX="0.38" scaleY="0.38" rotation="39.380" alpha="0.76" index="15" />
+      <Frame x="149.00" y="44.30" scaleX="0.34" scaleY="0.34" rotation="39.382" alpha="0.53" index="16" />
+      <Frame x="155.25" y="47.05" scaleX="0.30" scaleY="0.30" rotation="39.384" alpha="0.29" index="17" />
+      <Frame x="161.50" y="49.70" scaleX="0.27" scaleY="0.27" rotation="39.479" alpha="0.05" index="18" />
+    </Part>
+    <Part name="s07">
+      <Frame x="36.30" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="36.30" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="36.30" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="36.30" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="7.95" y="39.05" scaleX="0.67" scaleY="0.67" rotation="-22.339" alpha="0.53" index="4" />
+      <Frame x="-22.25" y="53.35" scaleX="1.23" scaleY="1.23" rotation="-44.999" alpha="1.0" index="5" />
+      <Frame x="-27.70" y="55.35" scaleX="1.33" scaleY="1.33" rotation="-44.906" index="6" />
+      <Frame x="-33.20" y="57.40" scaleX="1.43" scaleY="1.43" rotation="-44.906" index="7" />
+      <Frame x="-38.75" y="59.60" scaleX="1.53" scaleY="1.53" rotation="-44.999" index="8" />
+      <Frame x="-39.45" y="63.25" scaleX="1.42" scaleY="1.42" rotation="-44.906" index="9" />
+      <Frame x="-40.25" y="66.90" scaleX="1.32" scaleY="1.32" rotation="-44.905" index="10" />
+      <Frame x="-41.10" y="70.60" scaleX="1.22" scaleY="1.22" rotation="-44.999" index="11" />
+      <Frame x="-42.00" y="74.00" scaleX="1.12" scaleY="1.12" rotation="-44.907" index="12" />
+      <Frame x="-43.05" y="77.50" scaleX="1.02" scaleY="1.02" rotation="-44.905" index="13" />
+      <Frame x="-44.10" y="80.95" scaleX="0.93" scaleY="0.93" rotation="-45.000" index="14" />
+      <Frame x="-44.75" y="84.40" scaleX="0.82" scaleY="0.82" rotation="-45.000" index="15" />
+      <Frame x="-45.40" y="87.95" scaleX="0.72" scaleY="0.72" rotation="-45.000" index="16" />
+      <Frame x="-46.10" y="91.45" scaleX="0.61" scaleY="0.61" rotation="-45.000" index="17" />
+      <Frame x="-49.10" y="97.30" scaleX="0.51" scaleY="0.51" rotation="-45.000" alpha="0.68" index="18" />
+      <Frame x="-52.15" y="103.10" scaleX="0.41" scaleY="0.41" rotation="-45.000" alpha="0.37" index="19" />
+      <Frame x="-55.10" y="108.95" scaleX="0.31" scaleY="0.31" rotation="-45.000" alpha="0.05" index="20" />
+    </Part>
+    <Part name="s08">
+      <Frame x="38.00" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="38.00" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="38.00" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="38.00" y="37.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="40.35" y="30.05" scaleX="0.63" scaleY="0.63" rotation="14.824" alpha="0.53" index="4" />
+      <Frame x="50.35" y="19.40" scaleX="1.16" scaleY="1.16" rotation="30.000" alpha="1.0" index="5" />
+      <Frame x="54.95" y="18.25" scaleX="1.30" scaleY="1.30" rotation="29.860" index="6" />
+      <Frame x="59.70" y="17.05" scaleX="1.45" scaleY="1.45" rotation="29.858" index="7" />
+      <Frame x="64.45" y="15.80" scaleX="1.60" scaleY="1.60" rotation="30.000" index="8" />
+      <Frame x="69.20" y="21.80" scaleX="1.48" scaleY="1.48" rotation="30.048" index="9" />
+      <Frame x="73.95" y="27.80" scaleX="1.36" scaleY="1.36" rotation="30.048" index="10" />
+      <Frame x="78.50" y="33.70" scaleX="1.24" scaleY="1.24" rotation="30.001" index="11" />
+      <Frame x="83.40" y="40.25" scaleX="1.14" scaleY="1.14" rotation="30.048" index="12" />
+      <Frame x="88.30" y="46.75" scaleX="1.03" scaleY="1.03" rotation="30.047" index="13" />
+      <Frame x="93.05" y="53.20" scaleX="0.93" scaleY="0.93" rotation="30.000" index="14" />
+      <Frame x="99.00" y="60.35" scaleX="0.81" scaleY="0.81" rotation="30.048" index="15" />
+      <Frame x="104.95" y="67.55" scaleX="0.69" scaleY="0.69" rotation="30.049" index="16" />
+      <Frame x="110.90" y="74.75" scaleX="0.56" scaleY="0.56" rotation="30.000" index="17" />
+      <Frame x="117.75" y="82.15" scaleX="0.48" scaleY="0.48" rotation="29.860" alpha="0.68" index="18" />
+      <Frame x="124.55" y="89.50" scaleX="0.39" scaleY="0.39" rotation="29.862" alpha="0.37" index="19" />
+      <Frame x="131.45" y="96.90" scaleX="0.30" scaleY="0.30" rotation="29.999" alpha="0.05" index="20" />
+    </Part>
+    <Part name="s09">
+      <Frame x="37.05" y="38.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.05" y="38.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.05" y="38.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.05" y="38.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="46.85" y="10.60" scaleX="0.29" scaleY="0.29" rotation="15.016" alpha="0.53" index="4" />
+      <Frame x="59.50" y="-18.05" scaleX="0.47" scaleY="0.47" rotation="30.000" alpha="1.0" index="5" />
+      <Frame x="64.55" y="-27.30" scaleX="0.53" scaleY="0.53" rotation="30.048" index="6" />
+      <Frame x="69.65" y="-36.55" scaleX="0.58" scaleY="0.58" rotation="30.046" index="7" />
+      <Frame x="74.70" y="-45.85" scaleX="0.64" scaleY="0.64" rotation="30.000" index="8" />
+      <Frame x="79.85" y="-50.60" scaleX="0.56" scaleY="0.56" rotation="30.047" index="9" />
+      <Frame x="85.05" y="-55.35" scaleX="0.48" scaleY="0.48" rotation="30.049" index="10" />
+      <Frame x="90.15" y="-60.15" scaleX="0.40" scaleY="0.40" rotation="30.002" index="11" />
+      <Frame x="93.70" y="-63.05" scaleX="0.34" scaleY="0.34" rotation="30.048" alpha="0.76" index="12" />
+      <Frame x="97.25" y="-66.00" scaleX="0.29" scaleY="0.29" rotation="30.050" alpha="0.53" index="13" />
+      <Frame x="100.75" y="-68.85" scaleX="0.24" scaleY="0.24" rotation="30.050" alpha="0.29" index="14" />
+      <Frame x="104.25" y="-71.80" scaleX="0.19" scaleY="0.19" rotation="30.002" alpha="0.05" index="15" />
+    </Part>
+    <Part name="s10">
+      <Frame x="37.40" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.40" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.40" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.40" y="37.35" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="23.70" y="52.00" scaleX="0.30" scaleY="0.30" rotation="-14.826" alpha="0.53" index="4" />
+      <Frame x="9.10" y="69.50" scaleX="0.49" scaleY="0.49" rotation="-29.999" alpha="1.0" index="5" />
+      <Frame x="2.00" y="77.45" scaleX="0.57" scaleY="0.57" rotation="-29.861" index="6" />
+      <Frame x="-5.05" y="85.35" scaleX="0.64" scaleY="0.64" rotation="-29.857" index="7" />
+      <Frame x="-12.15" y="93.35" scaleX="0.71" scaleY="0.71" rotation="-30.000" index="8" />
+      <Frame x="-15.45" y="102.10" scaleX="0.63" scaleY="0.63" rotation="-30.049" index="9" />
+      <Frame x="-18.80" y="110.70" scaleX="0.56" scaleY="0.56" rotation="-30.048" index="10" />
+      <Frame x="-22.15" y="119.35" scaleX="0.48" scaleY="0.48" rotation="-30.001" index="11" />
+      <Frame x="-23.20" y="123.00" scaleX="0.43" scaleY="0.43" rotation="-30.048" alpha="0.81" index="12" />
+      <Frame x="-24.30" y="126.60" scaleX="0.37" scaleY="0.37" rotation="-30.045" alpha="0.62" index="13" />
+      <Frame x="-25.45" y="130.25" scaleX="0.32" scaleY="0.32" rotation="-30.048" alpha="0.43" index="14" />
+      <Frame x="-26.60" y="133.90" scaleX="0.26" scaleY="0.26" rotation="-30.047" alpha="0.24" index="15" />
+      <Frame x="-27.70" y="137.50" scaleX="0.21" scaleY="0.21" rotation="-30.002" alpha="0.05" index="16" />
+    </Part>
+    <Part name="s11">
+      <Frame x="37.55" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.55" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.55" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.55" y="37.85" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="45.00" y="44.50" scaleX="0.34" scaleY="0.34" rotation="14.827" alpha="0.53" index="4" />
+      <Frame x="55.90" y="49.80" scaleX="0.57" scaleY="0.57" rotation="30.000" alpha="1.0" index="5" />
+      <Frame x="62.40" y="56.40" scaleX="0.69" scaleY="0.69" rotation="29.858" index="6" />
+      <Frame x="68.95" y="62.80" scaleX="0.81" scaleY="0.81" rotation="29.857" index="7" />
+      <Frame x="75.60" y="69.25" scaleX="0.94" scaleY="0.94" rotation="30.000" index="8" />
+      <Frame x="78.90" y="77.80" scaleX="0.85" scaleY="0.85" rotation="30.048" index="9" />
+      <Frame x="82.25" y="86.40" scaleX="0.77" scaleY="0.77" rotation="30.048" index="10" />
+      <Frame x="85.50" y="94.85" scaleX="0.69" scaleY="0.69" rotation="30.000" index="11" />
+      <Frame x="89.05" y="102.20" scaleX="0.60" scaleY="0.60" rotation="30.050" alpha="0.76" index="12" />
+      <Frame x="92.45" y="109.50" scaleX="0.50" scaleY="0.50" rotation="30.049" alpha="0.53" index="13" />
+      <Frame x="95.95" y="116.80" scaleX="0.41" scaleY="0.41" rotation="30.047" alpha="0.29" index="14" />
+      <Frame x="99.35" y="124.05" scaleX="0.32" scaleY="0.32" rotation="30.001" alpha="0.05" index="15" />
+    </Part>
+    <Part name="s12">
+      <Frame x="37.35" y="37.55" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.35" y="37.55" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.35" y="37.55" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.35" y="37.55" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="32.15" y="12.20" scaleX="0.26" scaleY="0.26" alpha="0.53" index="4" />
+      <Frame x="26.85" y="-13.15" scaleX="0.40" scaleY="0.40" alpha="1.0" index="5" />
+      <Frame x="25.50" y="-26.95" scaleX="0.47" scaleY="0.47" index="6" />
+      <Frame x="24.20" y="-40.85" scaleX="0.53" scaleY="0.53" index="7" />
+      <Frame x="22.85" y="-54.65" scaleX="0.59" scaleY="0.59" index="8" />
+      <Frame x="24.50" y="-58.60" scaleX="0.51" scaleY="0.51" index="9" />
+      <Frame x="26.20" y="-62.70" scaleX="0.43" scaleY="0.43" index="10" />
+      <Frame x="27.85" y="-66.65" scaleX="0.36" scaleY="0.36" index="11" />
+      <Frame x="29.00" y="-72.85" scaleX="0.30" scaleY="0.30" alpha="0.68" index="12" />
+      <Frame x="30.20" y="-79.00" scaleX="0.24" scaleY="0.24" alpha="0.37" index="13" />
+      <Frame x="31.35" y="-85.15" scaleX="0.19" scaleY="0.19" alpha="0.05" index="14" />
+    </Part>
+    <Part name="s13">
+      <Frame x="37.80" y="37.50" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="37.80" y="37.50" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="37.80" y="37.50" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="37.80" y="37.50" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="10.45" y="41.60" scaleX="0.27" scaleY="0.27" rotation="-22.500" alpha="0.53" index="4" />
+      <Frame x="-17.25" y="49.60" scaleX="0.44" scaleY="0.44" rotation="-45.000" alpha="1.0" index="5" />
+      <Frame x="-29.20" y="52.15" scaleX="0.51" scaleY="0.51" rotation="-45.000" index="6" />
+      <Frame x="-41.15" y="54.60" scaleX="0.58" scaleY="0.58" rotation="-45.000" index="7" />
+      <Frame x="-53.20" y="57.10" scaleX="0.66" scaleY="0.66" rotation="-45.000" index="8" />
+      <Frame x="-58.85" y="59.65" scaleX="0.59" scaleY="0.59" rotation="-45.000" index="9" />
+      <Frame x="-64.55" y="62.15" scaleX="0.52" scaleY="0.52" rotation="-45.000" index="10" />
+      <Frame x="-70.20" y="64.70" scaleX="0.45" scaleY="0.45" rotation="-45.000" index="11" />
+      <Frame x="-76.45" y="69.55" scaleX="0.36" scaleY="0.36" rotation="-45.000" alpha="0.68" index="12" />
+      <Frame x="-82.65" y="74.25" scaleX="0.26" scaleY="0.26" rotation="-45.000" alpha="0.37" index="13" />
+      <Frame x="-88.90" y="79.15" scaleX="0.17" scaleY="0.17" rotation="-45.000" alpha="0.05" index="14" />
+    </Part>
+    <Part name="s14">
+      <Frame x="38.10" y="38.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="38.10" y="38.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="38.10" y="38.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="38.10" y="38.40" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="12.40" y="24.10" scaleX="0.28" scaleY="0.28" rotation="-14.823" alpha="0.53" index="4" />
+      <Frame x="-14.15" y="12.35" scaleX="0.45" scaleY="0.45" rotation="-29.999" alpha="1.0" index="5" />
+      <Frame x="-21.60" y="7.45" scaleX="0.48" scaleY="0.48" rotation="-29.858" index="6" />
+      <Frame x="-29.00" y="2.60" scaleX="0.50" scaleY="0.50" rotation="-30.048" index="7" />
+      <Frame x="-36.50" y="-2.30" scaleX="0.53" scaleY="0.53" rotation="-30.001" index="8" />
+      <Frame x="-40.40" y="-4.45" scaleX="0.48" scaleY="0.48" rotation="-30.050" index="9" />
+      <Frame x="-44.30" y="-6.80" scaleX="0.42" scaleY="0.42" rotation="-30.045" index="10" />
+      <Frame x="-48.25" y="-9.00" scaleX="0.37" scaleY="0.37" rotation="-30.001" index="11" />
+      <Frame x="-52.30" y="-12.55" scaleX="0.31" scaleY="0.31" rotation="-30.049" alpha="0.68" index="12" />
+      <Frame x="-56.25" y="-16.00" scaleX="0.25" scaleY="0.25" rotation="-30.046" alpha="0.37" index="13" />
+      <Frame x="-60.25" y="-19.65" scaleX="0.20" scaleY="0.20" rotation="-30.001" alpha="0.05" index="14" />
+    </Part>
+    <Part name="s15">
+      <Frame x="36.85" y="38.15" scaleX="0.11" scaleY="0.11" alpha="0.05" index="0" />
+      <Frame x="36.85" y="38.15" scaleX="0.11" scaleY="0.11" alpha="0.05" index="1" />
+      <Frame x="36.85" y="38.15" scaleX="0.11" scaleY="0.11" alpha="0.05" index="2" />
+      <Frame x="36.85" y="38.15" scaleX="0.11" scaleY="0.11" alpha="0.05" index="3" />
+      <Frame x="52.70" y="39.95" scaleX="0.25" scaleY="0.25" alpha="0.53" index="4" />
+      <Frame x="68.75" y="41.70" scaleX="0.38" scaleY="0.38" alpha="1.0" index="5" />
+      <Frame x="81.75" y="46.85" scaleX="0.43" scaleY="0.43" index="6" />
+      <Frame x="94.75" y="51.90" scaleX="0.48" scaleY="0.48" index="7" />
+      <Frame x="107.75" y="57.10" scaleX="0.53" scaleY="0.53" index="8" />
+      <Frame x="112.75" y="61.25" scaleX="0.48" scaleY="0.48" index="9" />
+      <Frame x="117.75" y="65.45" scaleX="0.43" scaleY="0.43" index="10" />
+      <Frame x="122.75" y="69.60" scaleX="0.38" scaleY="0.38" index="11" />
+      <Frame x="129.40" y="74.50" scaleX="0.33" scaleY="0.33" alpha="0.76" index="12" />
+      <Frame x="136.00" y="79.35" scaleX="0.28" scaleY="0.28" alpha="0.53" index="13" />
+      <Frame x="142.65" y="84.25" scaleX="0.22" scaleY="0.22" alpha="0.29" index="14" />
+      <Frame x="149.25" y="89.10" scaleX="0.17" scaleY="0.17" alpha="0.05" index="15" />
+    </Part>
+  </Animation>
+</Animations>

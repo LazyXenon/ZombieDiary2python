@@ -1,0 +1,18 @@
+<Textures>
+  <TextureSheet name="pic/mech/10">
+    <Texture name="youshouzhang" width="98" height="113" path="pic/mech/10/youshouzhang.png" registrationPointX="20.00" registrationPointY="-12.00" zIndex="13"/>
+    <Texture name="youshoubi02" width="38" height="62" path="pic/mech/10/youshoubi02.png" registrationPointX="-7.00" registrationPointY="3.00" zIndex="12"/>
+    <Texture name="youshoubi01" width="59" height="72" path="pic/mech/10/youshoubi01.png" registrationPointX="2.00" registrationPointY="2.00" zIndex="11"/>
+    <Texture name="youxiaotui" width="75" height="83" path="pic/mech/10/youxiaotui.png" registrationPointX="-2.00" registrationPointY="-3.00" zIndex="10"/>
+    <Texture name="youjiaoban" width="118" height="46" path="pic/mech/10/youjiaoban.png" registrationPointX="3.00" registrationPointY="-2.00" zIndex="9"/>
+    <Texture name="youdatui" width="43" height="66" path="pic/mech/10/youdatui.png" registrationPointX="3.00" registrationPointY="2.00" zIndex="8"/>
+    <Texture name="shenti" width="145" height="175" path="pic/mech/10/shenti.png" registrationPointX="5.00" registrationPointY="-5.00" zIndex="7"/>
+    <Texture name="tou" width="71" height="70" path="pic/mech/10/tou.png" registrationPointX="-5.00" registrationPointY="6.00" zIndex="6"/>
+    <Texture name="zuoxiaotui" width="76" height="84" path="pic/mech/10/youxiaotui.png" registrationPointX="-4.00" registrationPointY="-2.00" zIndex="5"/>
+    <Texture name="zuojiaoban" width="117" height="46" path="pic/mech/10/youjiaoban.png" registrationPointX="3.00" registrationPointY="-4.00" zIndex="4"/>
+    <Texture name="zuodatui" width="44" height="64" path="pic/mech/10/youdatui.png" registrationPointX="4.00" registrationPointY="2.00" zIndex="3"/>
+    <Texture name="zuoshouzhang" width="99" height="112" path="pic/mech/10/zuoshouzhang.png" registrationPointX="23.00" registrationPointY="-12.00" zIndex="2"/>
+    <Texture name="zuoshoubi" width="38" height="62" path="pic/mech/10/youshoubi02.png" registrationPointX="-7.00" registrationPointY="2.00" zIndex="1"/>
+    <Texture name="zuoshoubi02" width="59" height="71" path="pic/mech/10/youshoubi01.png" registrationPointX="2.00" registrationPointY="3.00"/>
+  </TextureSheet>
+</Textures>
